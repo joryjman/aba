@@ -681,7 +681,7 @@ init();
 async function init() {
   const [indexResponse, overridesResponse] = await Promise.all([
     fetch("/data/legal-index.json"),
-    fetch("/api/overrides").catch(() => null)
+    fetch("/data/guide-overrides.json").catch(() => null)
   ]);
   state.index = await indexResponse.json();
   state.overrides = overridesResponse?.ok ? await overridesResponse.json() : { documents: {} };
