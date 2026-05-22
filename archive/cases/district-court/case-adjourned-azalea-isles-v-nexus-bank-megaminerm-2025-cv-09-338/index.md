@@ -1,0 +1,378 @@
+# Case: Adjourned Azalea Isles v. Nexus Bank, MegaMinerM (2025) CV 09
+
+Court: District Court
+Status: Adjourned
+Case Number: 2025 CV 09
+Forum Link: https://cityrp.org/threads/azalea-isles-v-nexus-bank-megaminerm-2025-cv-09.338/
+
+## Summary
+Pending.
+
+## Parties
+- Plaintiff: Azalea Isles
+- Defendant: Nexus Bank, MegaMinerM
+
+## Legal Issues
+- Pending.
+
+## Source Metadata
+- Thread author: fauzfauzfauz
+- Start date: Jul 2, 2025
+- Scraped at: 2026-05-20T21:36:32.339Z
+- Posts captured: 22
+
+## Docket Timeline
+
+### Jul 2, 2025
+Author: fauzfauzfauz
+Date: 2025-07-02T22:35:00-0400
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-nexus-bank-megaminerm-2025-cv-09.338/post-1119
+Type: Unclassified
+Images:
+- https://cityrp.org/data/attachments/0/219-e312ab06ab4a7216657a8b908ee291d7.jpg?hash=4xKrBqtKch (image.png)
+- https://cityrp.org/data/attachments/0/220-46f6eaf1107c10a9493f5d94c03e918c.jpg?hash=Rvbq8RB8EK (image.png)
+- https://cityrp.org/data/attachments/0/224-c0f29b2ad662cf3000032e8b47334c71.jpg?hash=wPKbKtZizz (image.png)
+- https://cityrp.org/data/attachments/0/221-edf4247acdd123d17cf719ce4b9354b2.jpg?hash=7fQkes3RI9 (image.jpeg)
+- https://cityrp.org/data/attachments/0/222-279af64646b89b0967f1484eaf0b0393.jpg?hash=J5r2Rka4mw (image.png)
+- https://cityrp.org/data/attachments/0/226-5379d4a1bf080d2813498de17d06ae59.jpg?hash=U3nUob8IDS (IMG_7643.jpeg)
+
+Azalea Isles, Plaintiff
+
+v
+
+Nexus Bank, MegaMinerM, Defendants
+
+Civil Complaint:
+
+The Defendant, Nexus Bank, has failed to supply the necessary financial reports, despite repeated reminders and warnings. In addition, there is a substantial amount of money missing from the Defendant's in-game corporate balances, relative to their last 2B filing with the Ministry of Economic Affairs. The Government is bringing forth this case to further investigate the situation.
+
+Parties:
+
+1. Plaintiff, Azalea Isles
+2. Defendant, Nexus Bank
+3. Defendant, MegaMinerM
+
+Factual Allegations:
+
+1. The Defendant was warned on June 14th, being 15 days past the original 2-B reporting deadline, to provide said documents or face a fine. The Defendant was then reminded on June 23rd, but again failed to comply.
+2. On June 28th, when the Ministry of Economic Affairs prepared to levy a fine to the Defendant for noncompliance, it was found the Defendant’s balance was largely, despite the previous financial report filed on May 10th showing an existing balance.
+3. In addition to this, the Defendant’s owner’s (MegaMinerM) balance, as well as other associated companies, (Nexus and Nexus Bank), do not have a sizable balance (if any).
+
+Legal Claims:
+
+1. The Ministry of Economic Affairs is empowered to request this data, and the Defendant's noncompliance is a violation.
+2. The Defendant’s missing money in comparison to the last report raises significant concern, given the last 2-B filing showed over $15,000 in deposits, of fraudulent activity, in combination with the owner's refusal to provide documents.
+3. This court has the power to issue a subpoena, which will enable the Government to request the transaction logs of Nexus Bank and its affiliate companies in-game from staff.
+
+Prayer for Relief:
+
+1. The Government is asking for a subpoena of in-game transaction logs of the Defendant, Nexus Bank, and its affiliate companies owned by MegaMinerM in-game.
+2. Due to the decrease in cash of over $20,000 from the last report filed, the bank's insolvency relative to the $15,000 in deposits, and the potential concerns of fraudulent activity, we are also requesting transaction logs from Nexus Bank's owner, MegaMinerM, to be included in the subpoena.
+
+Evidence:
+
+Exhibit A: Screenshots showing the balances of the Defendants, MegaMinerM and Nexus Bank (in game as NB), as well as their affiliate companies, Nexus and NexusBank.
+
+Exhibit B: The reminders and warnings.
+
+Exhibit C: The Defendant’s previous report published May 10th, 2025.
+
+Class Certification Statement:
+
+The Defendants in this case, Nexus Bank and MegaMinerM, are a class, because both are under investigation for the same specific issue. Nexus Bank is under suspicion of fraudulent activity, due to the withholding of documents (done by MegaMinerM) and the lack of funds in the bank relative to their last report. MegaMinerM, as owner and operator of the company, is the prime suspect for said fraudulent activity, given he runs the bank. MegaMinerM is also legally intertwined with Nexus Bank in this case, as it is his failure to provide documentation as the owner/operator of Nexus Bank that has led to this legal action by the government.
+
+Verification:
+
+I, Fauz Wolfe, hereby affirm that the allegations in the complaint AND all subsequent statements made in court are true and correct to the best of the plaintiff's knowledge, information, and belief and that any falsehoods may bring the penalty of perjury.
+
+### Jul 6, 2025
+Author: Westray
+Date: 2025-07-06T01:28:38-0400
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-nexus-bank-megaminerm-2025-cv-09.338/post-2459
+Type: Unclassified
+
+Writ of Summons
+
+Azalea Isles Civil Court (CV)
+
+Case No. CV-25-08
+
+Plaintiff: Azalea Isles
+Defendant: Nexus Bank & John Roberts (MegaMinerM)
+
+The Defendant is required to appear before the court in the case of Azalea Isles v. Nexus Bank & MegaMinerM. Failure to respond within 48 hours may result in a default judgement. Both parties are ask to familiarize themselves with the relevant court documents, including proper formats, as well as the laws referenced in the complaint. Ensure that you comply with any court orders.
+
+If you wish to hold this trial at the Azalea Courthouse in-person, please note that in your response. The Court will try to work with both parties to hold live hearings at convenient times.
+
+Signed,
+Hon. Chief Justice Raymond West
+
+### Jul 8, 2025
+Author: fauzfauzfauz
+Date: 2025-07-08T07:23:24-0400
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-nexus-bank-megaminerm-2025-cv-09.338/post-2733
+Type: Unclassified
+
+Motion For Default Judgment
+
+Your Honor, the Defendant has not responded in the timeframe given by the court. We are motioning for a default judgment.
+
+### Jul 10, 2025
+Author: MegaMinerM
+Date: 2025-07-10T17:12:06-0400
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-nexus-bank-megaminerm-2025-cv-09.338/post-2834
+Type: Unclassified
+
+Your Honor the Defense requests an extension.
+
+### Jul 10, 2025
+Author: MegaMinerM
+Date: 2025-07-10T17:12:42-0400
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-nexus-bank-megaminerm-2025-cv-09.338/post-2835
+Type: Unclassified
+
+fauzfauzfauz said:
+Motion For Default Judgment
+
+Your Honor, the Defendant has not responded in the timeframe given by the court. We are motioning for a default judgment.
+no.
+
+### Jul 10, 2025
+Author: Westray
+Date: 2025-07-10T18:45:19-0400
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-nexus-bank-megaminerm-2025-cv-09.338/post-2837
+Type: Unclassified
+
+MegaMinerM said:
+Your Honor the Defense requests an extension.
+The deadline has elapsed, but in the interests of justice, the Court is willing to provide some leniency if you can explain your reason for missing the writ of summons.
+
+### Jul 10, 2025
+Author: kli_20
+Date: 2025-07-10T19:28:18-0400
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-nexus-bank-megaminerm-2025-cv-09.338/post-2838
+Type: Unclassified
+
+Your honor I just took the case and I’ll need some time to study the case well and because of that we’re asking an extension
+
+### Jul 10, 2025
+Author: Westray
+Date: 2025-07-10T19:46:50-0400
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-nexus-bank-megaminerm-2025-cv-09.338/post-2839
+Type: Unclassified
+
+The Defendant has 48 hours, from this post, to provide an answer to the complaint.
+
+### Jul 11, 2025
+Author: fauzfauzfauz
+Date: 2025-07-11T00:58:21-0400
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-nexus-bank-megaminerm-2025-cv-09.338/post-2849
+Type: Unclassified
+
+Motion to Reconsider
+
+Your Honor, the Defendant has had days since the Writ to either take the case or request for an extension. Especially considering part this case deals with the Defendant being previously unable to respond to government orders in a timely manner, even with reminders, I am motioning for you to reconsider potentially allowing this to move forward, and am requesting to proceed with a Default Judgment.
+
+The Defendant did not provide a reason for the missed deadlines, and therefore shouldn’t be allowed another 48 hour extension. In addition, as noted in Exhibit C, Nexus Bank’s 2-B file showed $28k cash on hand, whereas now they have nothing at the time of this filing. The Defendant has failed to disclose the proper forms, and now has failed to respond in court in the timeframe. It is crucial for the depositors who bank with the Defendant that we are able to investigate the matter of the missing funds by means of a transaction log subpoena (as previously stated in the file).
+
+### Jul 11, 2025
+Author: Westray
+Date: 2025-07-11T09:35:20-0400
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-nexus-bank-megaminerm-2025-cv-09.338/post-2854
+Type: Unclassified
+
+At this time, the Court has decided to reject the motion to reconsider. While the Defendant did miss the deadline, it would be a miscarriage of justice to deprive him of the ability to defend himself if he has now arrived before judgement. However, this leniency cannot be indefinite nor can it undermine the seriousness of timely legal obligations, particularly in a case involving potential financial misconduct and public interest. Therefore, should the Defendant fail to provide a full answer to the complaint within the new deadline set in my previous post, I will rule on the default judgement.
+
+### Jul 12, 2025
+Author: kli_20
+Date: 2025-07-12T16:57:23-0400
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-nexus-bank-megaminerm-2025-cv-09.338/post-2872
+Type: Unclassified
+
+Your Honor,
+We respectfully request a complete recusal from this case.
+
+Now, did my client fail to submit the required documentation on time?
+Yes, Your Honor.
+Did my client fail to respond to the writ of summons?
+Again, the answer is yes.
+
+But the more important question we should ask ourselves is why?
+
+The truth is, my client was unable to meet these obligations due to serious personal and medical matters that severely limited their ability to communicate and respond in a timely manner. These circumstances were not out of neglect or disregard for the court, but because of real, human responsibilities as a devoted family member, a loyal friend, and someone who has been deeply affected by ongoing challenges outside their control.
+
+Yes, there was a failure to meet deadlines. But that failure has a reason and one that deserves understanding.
+
+My client is fully committed to ensuring this does not happen again and is prepared to move forward with complete accountability and respect for the process.
+
+### Jul 13, 2025
+Author: Westray
+Date: 2025-07-13T10:50:48-0400
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-nexus-bank-megaminerm-2025-cv-09.338/post-2875
+Type: Unclassified
+
+Recusal from the case? Could you please clarify what you are asking of the Court?
+
+### Jul 13, 2025
+Author: kli_20
+Date: 2025-07-13T10:53:41-0400
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-nexus-bank-megaminerm-2025-cv-09.338/post-2876
+Type: Unclassified
+
+I’m sorry your honor I meant to write “recusal of this case” to ask that the case is recused
+
+### Jul 13, 2025
+Author: Westray
+Date: 2025-07-13T15:58:08-0400
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-nexus-bank-megaminerm-2025-cv-09.338/post-2880
+Type: Unclassified
+
+So you have no defence to provide? You are moving to default judgement?
+
+### Jul 13, 2025
+Author: kli_20
+Date: 2025-07-13T16:12:08-0400
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-nexus-bank-megaminerm-2025-cv-09.338/post-2881
+Type: Unclassified
+
+Your Honour, with all due respect, I must clarify that this is not a matter of default or absence of defense. But as I said my client’s failure to submit the required documents was not due to negligence or disregard for the process, but rather the result of a serious health issue that rendered him genuinely unable to comply within the prescribed timeline.
+Now, respectfully, we believe that in light of the information about the health issue presented to the Court, declining to proceed with a recusal would risk resulting in an unfortunate and unjust outcome.
+
+This is precisely why we are asking the Court to consider this context with fairness and compassion
+
+### Jul 13, 2025
+Author: Westray
+Date: 2025-07-13T16:15:47-0400
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-nexus-bank-megaminerm-2025-cv-09.338/post-2882
+Type: Unclassified
+
+kli_20 said:
+Your Honour, with all due respect, I must clarify that this is not a matter of default or absence of defense. But as I said my client’s failure to submit the required documents was not due to negligence or disregard for the process, but rather the result of a serious health issue that rendered him genuinely unable to comply within the prescribed timeline.
+Now, respectfully, we believe that in light of the information about the health issue presented to the Court, declining to proceed with a recusal would risk resulting in an unfortunate and unjust outcome.
+
+This is precisely why we are asking the Court to consider this context with fairness and compassion
+Counsel, there is no "motion of recusal" in such court procedures, other than to ask that a presiding Judge recuses themselves from a case. I believe there may be some misunderstanding. Are you asking for an extension? Are you dropping your client? Are you motioning to a default judgement? Are you motioning to dismiss? This is important for the Court's understanding.
+
+You can familiarize yourself with motions here: https://www.cityrp.org/pages/motions-and-objections/
+
+### Jul 13, 2025
+Author: kli_20
+Date: 2025-07-13T16:17:37-0400
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-nexus-bank-megaminerm-2025-cv-09.338/post-2883
+Type: Unclassified
+
+I’m sorry, your honor ,I meant dismiss (I’m not an English native speaker and I confused the words) that will not happen again
+
+### Jul 13, 2025
+Author: Westray
+Date: 2025-07-13T16:27:59-0400
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-nexus-bank-megaminerm-2025-cv-09.338/post-2885
+Type: Unclassified
+
+No worries, counsel, completely reasonable mistake. Given this is your first case, the Court will express some understanding.
+
+Before the Court proceeds with a decision, could you please explain what the justification for dismissal is? While I am happy to provide extensions, your client's inability to respond is not enough of a justification to dismiss the case. Dismissals are typically based on a lack of standing and or inconsistent filing.
+
+Here is an example from two recent cases:
+
+In Nanicholls v. Azalea Isles, a motion to dismiss:
+
+Omegabiebel said:
+MOTION TO DISMISS
+Your honour, at the bare minimum slander, is defined as a false spoken statement about someone that damages their reputation.
+
+Nanicholls has failed to even ALLEGE that the statement is false.
+
+If Nanicholls cannot under oath swear that the statement is false, that they were not involved in the discussion to prosecute political opponents there is no case here and it should be dismissed.
+
+In Vontobel v. Ministry of Urban Development, a motion to dismiss:
+
+xXLordLyonXx said:
+Motion To Dismiss
+
+Your Honor, the Plaintiff in this case is named as Vontobel. However, Vontobel has no standing to sue. This is simply a matter of fact. The Plaintiff claims the plots are Vontobel's property, and that the government has illegally seized this property of Vontobel, yet they were never registered as such with MUD. In order for the plots to legally be owned by Vontobel, the business, the plots would have had to have been registered with MUD as business plots. The plots have never been registered to their name with MUD, and not only was this registration never done, it was never even attempted, nor has the Plaintiff provided any evidence to indicate otherwise, so again - Vontobel cannot have legal standing here.
+
+Please advise your justification to dismiss or if you require an extension to fully understand the case.
+
+### Jul 15, 2025
+Author: kli_20
+Date: 2025-07-15T13:37:32-0400
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-nexus-bank-megaminerm-2025-cv-09.338/post-2892
+Type: Unclassified
+
+Your honor, I wanted to inform you that I’m officially dropping my client due to lack of communication between us it’s been in fact several days without being able to communicate with him.
+
+### Jul 15, 2025
+Author: Westray
+Date: 2025-07-15T14:13:17-0400
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-nexus-bank-megaminerm-2025-cv-09.338/post-2893
+Type: Unclassified
+
+Thank you for informing the Court. The Defendant has 48 hours from this post to provide a response before the Court rules on a default judgement.
+
+### Jul 17, 2025
+Author: fauzfauzfauz
+Date: 2025-07-17T20:33:34-0400
+Page: 2
+Post Link: https://cityrp.org/threads/azalea-isles-v-nexus-bank-megaminerm-2025-cv-09.338/post-2902
+Type: Unclassified
+
+Your Honor, the 48 hours have elapsed. The prosecution has been as patient with the Defense as possible; this court has offered multiple chances for the Defendant to provide an answer to our case, just as the government did for the Defendant to provide the necessary financial reports.
+
+In addition, no such evidence has been submitted to account for the missing cash on hand from the Defendant. We are asking for you to proceed with the Default Judgment. Thank you for your time.
+
+### Jul 20, 2025
+Author: Westray
+Date: 2025-07-20T10:38:14-0400
+Page: 2
+Post Link: https://cityrp.org/threads/azalea-isles-v-nexus-bank-megaminerm-2025-cv-09.338/post-2917
+Type: Unclassified
+
+Default Judgement
+Azalea Isles Civil Court (CR)
+
+Case No. CV-25-09
+Azalea Isles v. Nexus Bank & John Roberts (MegaMinerM)
+
+The Court is prepared to accept the motion for default judgement as a result of the Defendant failing to provide an answer to the complaint. The Defendant has been given countless opportunities to provide a response to this case, however they have been unresponsive. While they had hired a lawyer to represent them, this lawyer has since dropped the case.
+
+Based on the current facts presented, the Court hereby rules in favour of Azalea Isles, granting the following relief:
+
+1. The Court hereby approves the government's request for subpoena on the companies. The Ministry of Economic Affairs shall have the permission of the Court to pull the full transaction logs from the company Nexus Bank, and any other companies owned by its CEO John Roberts (MegaMinerM) with respect to its affiliation to Nexus Bank. They are asked to report back with their findings within 60 days.
+2. The Court hereby approves the government's request for subpoena on the individual. The Ministry of Economic Affairs and or Ministry of Justice shall have the permission of the Court to pull the full transaction logs from John Roberts (MegaMinerM). They are asked to report back with their findings within 60 days.
+3. The Defendant, Nexus Bank, is hereby ordered to comply with the above by ensuring that the Ministry of Economic Affairs is equipped with all of the appropriate documentation and transactional history.
+
+Be advised that a default judgement is entered based on only the facts presented in the case filing given the Defendant's inability to respond beyond the specified deadlines. The Court is hereby adjourned.
+
+Signed,
+Hon. Chief Justice Raymond West
+
+
+## Outcome
+Pending.
+
+## Precedential Value
+Pending.
+
+## Lawyer Notes
+Pending.

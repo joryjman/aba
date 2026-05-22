@@ -1,0 +1,81 @@
+# Lawyering 101
+
+Type: Court Library Page
+Page Link: https://cityrp.org/pages/lawyering-101/
+
+## Source Metadata
+- Scraped at: 2026-05-20T21:48:13.479Z
+
+## Full Text
+
+This thread is for both people who want to become licensed to practice law in the Azalea Isles as well as those who are seeking a better understanding of a legal process. For clarity, the Azalea Isles is its own entity based within CityRP, any license to practice is for our roleplay law here only.
+
+Legal practice is difficult, it is about close reading of a set of facts and applying those facts to the law. Further, it is explaining why with the combined facts and law a court should grant a particular request. This is important, as for example, as a material breach of contract may not allow you to obtain compensation past what was originally paid for under the contract. This is because even in spite of your interest in a legal wrong, there are other legal principles at play that prevent you from collecting more damages, depending on the fact set. We will go over some hypotheticals in a bit.
+
+In the Azalea Isles, there will be four primary sources of law: the constitution, the highest law of the land; the statutes, the laws that parliament pass; court decisions, the past applications of law in a forward manner; and the “Guiding Principles”, the summarization of the existing case law of the nation.
+
+There are additional sources of law: private law which are typically contracts or laws made between specific persons or entities; city ordinances, laws made by a local government; and treaties, which is law guiding the interaction with other nations. However, those additional sources of law are context specific and may not apply in every case whereas the primary sources likely will.
+
+The process of understanding whether or not somebody has a case is a simple yet intensive process. To begin, first you will need complete and full factual knowledge of a given matter. The facts can be both good and bad. The facts matter because they’re the groundwork for truth in the court. In the Azalea Isles, perjury is taken seriously. Perjury is giving false testimony. The way to avoid it is to stick to the facts as given and not fib on them to make yourself or your client look better.
+
+Asking questions are important. This is to understand the issue at hand and to solidify the facts. By moving through the information, you’ll come to understand what is critical and what is not. This will allow you to focus your case in resolving the most important issues in your success.
+
+Once the facts are completely understood, the next step would be to take a look at the law to see if any law matches with the contextual background. It is recommended to look at the following:
+
+“Guiding Principles”, as they are a summarization of past case law and may have a solution to your specific problem.
+The constitution.
+Acts of Parliament (passed laws).
+Past Court Cases on the matter.
+Any other source of additional law that may apply.
+
+Do not be afraid to use the search function in the forums to check for key words. Further, CTRL+F will help you scan a document faster to see if there is any relevant law or not for your case. Putting it all together, you take the factual understanding of a situation and you apply it to the law. If the facts match the law, you may be able to pursue a case.
+
+Here are a couple of hypotheticals to help you better understand the process:
+
+Spoiler: Hypothetical 1
+Sally enters into a contract with Kevin, written in global feed, for a conference that they are having. The conference is in 15 minutes, but Kevin does not know this. Sally is asking Fred to provide 8 cakes so she can decorate the table. Sally pays Kevin for the cakes ahead of time. Kevin however, struggles to get all the materials for the cakes and is unable to complete the full request at the requested time. In the end, he only provides 6 cakes. What can Sally do and what defenses does Fred have?
+
+Given the above circumstances, the first understanding that you must come to was whether or not an agreement was made. In this instance, unless since changed by Parliament, the Principles of Contractual Disputes would be the controlling law here.
+
+First, were the Requirements of Agreement met? Sally has a need and offers Kevin work for money. Kevin's consideration of the agreement was the money Sally paid upfront. Kevin accepted, either because he intentionally said yes or because he worked on the offer. Sally executed the offer by paying Kevin. With all requirements met, this would be a contract.
+
+Next, we need to figure out what sort of breach this is. There are three types of breaches: Fundamental, Anticipatory, and Material. Given the set of facts, it is fair to say that this is a Fundamental Breach because Fred underperformed on his obligation in the contract. With this Sally has both the facts and a legal wrong that she has a direct and specific interest in (a third party to the contract would not be able to act on this) this matter. She would have a case.
+
+What defenses does Kevin have?
+
+Kevin could attempt to argue that the Requirements of Agreement were not met by arguing that the vagueness or lack of evidence of agreement would disable the contract.
+
+Kevin could argue that he had Substantial Performance on the contract because he fulfilled 75% of his obligation to Sally and that was enough to fulfill his side of the agreement.
+
+Kevin could argue that the agreement had Unconscionability because the timetable for the agreement was so tight that he was unable to make 8 cakes because his farm would not provide him the materials he would need for the agreement.
+Spoiler: Hypothetical 2
+Tom is a player who has been placed on trial for Robbery. The government is accusing him of taking Calleb’s netherite armor. Given that the government needs to prove guilt Beyond Reasonable Doubt, they have submitted the following evidence:
+
+A screenshot of a conversation between Tom and his lawyer on a public discord channel admitting to the crime.
+Netherite armor found in a chest at Tom’s plot in a warrantless search with the same enchantments that Calleb’s netherite armor had.
+An agreement that Calleb would lend Tom his armor for mob hunting supplies for Calleb that Tom would return after using.
+A link to a court case where Calleb is separately pursuing a civil action against Tom for a Material Breach of contract.
+
+What defenses could Tom present?
+
+Since this case revolves around issues of evidence, the Principles of Evidence would apply. Tom in this case specifically has a lawyer, so he is being represented.
+
+Tom’s lawyer would not be able to use a defense of Attorney-Client Privilege to suppress the screenshot of his client admitting to the crime because he admitted it publically. However, Tom’s lawyer may be able to suppress the evidence of the screenshot Neitherite armor due to three factors:
+
+The screenshots were obtained without Proper Search and Seizure.
+Because the government presented evidence that it illegally obtained, it could not present it.
+Cross using a principle of Civil Dispute that possession of the armor did not indicate guilt of the stolen armor (since this set of armor could be a different set to what Calleb provided).
+Spoiler: Hypothetical 3
+NewPlayer123 just joined for the first time. He has a hallucination of a time where he has killed other players in a fictional setting in the sky with a war involving beds. Acting on his hallucination, he proceeds to kill 6 players, forcing them to respawn at the hospital. The police arrest NewPlayer123 and he is prosecuted for the murders. NewPlayer123 does not understand why he is on trial for killing 6 players and why people are making such a big deal over a normal gameplay mechanic. What defense does NewPlayer123 have?
+
+Given that this is talking about Criminal Roleplay, the Principles of Criminal Law would apply.
+
+It is unlikely that Guilty beyond Reasonable Doubt will apply, as the state is very good at detecting and recording murders. Since murder is so common (because players respawn), murder is not treated as a hard crime to prove.
+
+Given the above fact-set. It is also unlikely that Duress or Self-Defense would apply. There are no facts that support that NewPlayer123 was acting because someone else forced him too or because he had to defend himself. He openly began killing players.
+
+The Insanity Defense may work though. This is because NewPlayer123 was not acting in proper accordance with the laws and was unaware of the customs of Azalea Isles, treating his actions in the nation the same as a separate fictional plane, perhaps aptly named a pixel up high. This can be characterized as a hallucination or conduct otherwise insane, as normal players would typically not conduct themselves in this manner (and if they are, they are consciously making the choice to do so knowing the consequences). NewPlayer123 is new and therefore did not know not to commit murder and thus may be defendable under this defense.
+
+As you can see, the basics of lawyering is a combination of the close reading of facts and the law. While these examples are drawn from the use of the “Guiding Principles”, it is important to remember the other primary sources of law when developing your arguments. The most important aspect of lawyering other than developing cases is litigating them. The “Case Structure” thread can provide more information on how to launch a case.
+
+For further reading on how to obtain a court award, see “Court Orders, Powers, and Judgments.”

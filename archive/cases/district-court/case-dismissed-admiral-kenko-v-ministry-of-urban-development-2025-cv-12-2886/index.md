@@ -1,0 +1,300 @@
+# Case: Dismissed Admiral Kenko v. Ministry of Urban Development (2025) CV 12
+
+Court: District Court
+Status: Dismissed
+Case Number: 2025 CV 12
+Forum Link: https://cityrp.org/threads/admiral-kenko-v-ministry-of-urban-development-2025-cv-12.2886/
+
+## Summary
+Pending.
+
+## Parties
+- Plaintiff: Admiral Kenko
+- Defendant: Ministry of Urban Development
+
+## Legal Issues
+- Pending.
+
+## Source Metadata
+- Thread author: RandomIntruder
+- Start date: Aug 21, 2025
+- Scraped at: 2026-05-20T21:36:20.283Z
+- Posts captured: 12
+
+## Docket Timeline
+
+### Aug 21, 2025
+Author: RandomIntruder
+Date: 2025-08-21T21:02:14-0400
+Page: 1
+Post Link: https://cityrp.org/threads/admiral-kenko-v-ministry-of-urban-development-2025-cv-12.2886/post-3849
+Type: Unclassified
+
+Admiral Kenko, Plaintiff
+v.
+Ministry of Urban Development, Defendant
+
+Civil Complaint:
+On August 17th, 2025, the constitutional rights my client were violated in multiple ways when Minister of Urban Development, Death Thegreatfired, entered i020 by breaking the blocks in the wall.
+
+Parties:
+Plaintiff: AdmiralKenko
+Defendant: Ministry of Urban Development
+
+Factual Allegations:
+
+- On the 17th of August, 2025, a citizen of the Isles, Nopuu, expressed concern that the pollution on her plot rendered her unable to plant potatoes. At this, MUD officials, along with Luke Thegreatfired, started trying to pinpoint the source of the pollution.
+
+- Upon investigation using the pollution map, they pinpointed the source of the location to be i020, a plot owned by Admiral Kenko.
+
+- Then, under the pretense of verifying the height of the building being compliant to MUD codes, Death Thegreatfired broke blocks in the wall of the building to enter.
+
+- BlogWorldExpo, a resident of the building, told the investigators to leave the building.
+
+- There was, at that point, no active legislation regarding limiting pollution.
+
+- There is no need to enter a building to check the height of a building, as the height is determined from the tallest point of the building exterior.
+
+- According to the Property Regulation Guidance in the MUD forums, there is no regulation regarding anything inside of i plots being disallowed besides visible farms and animals from the exterior, rendering no reason for MUD to enter the building to check for any violation.
+
+- There is no power granted to MUD or the MUD minister through the constitution or elsewhere to allow breaking of blocks in a build without a warrant or active report.
+
+Legal Claims:
+
+The following constitutional freedoms were violated:
+1) The right to be secure against unreasonable search and seizure.
+a) There was no warrant for the entry of the building nor any probable cause for an active violation that gave MUD the ability to break blocks in the building.
+2) The right against government overreach of powers not specified by the constitution.
+a) Breaking blocks in other people’s plots is a power only allowed to Death Thegreatfired because of her government position. It was a government overreach to use it to enter the building without a warrant.
+
+Prayer for Relief:
+
+1) An apology to Admiral Kenko for the breaking in of his plot.
+2) $10,000 paid to Admiral Kenko as compensation for violation of his rights.
+3) $20,000 in legal fees.
+
+Verification:
+
+I, Random Intruder, hereby affirm that the allegations in the complaint AND all subsequent statements made in court are true and correct to the best of the plaintiff's knowledge, information, and belief and that any falsehoods may bring the penalty of perjury.
+
+Evidence:
+
+### Aug 29, 2025
+Author: Westray
+Date: 2025-08-29T12:23:58-0400
+Page: 1
+Post Link: https://cityrp.org/threads/admiral-kenko-v-ministry-of-urban-development-2025-cv-12.2886/post-3868
+Type: Unclassified
+
+Writ of Summons
+
+Azalea Isles Civil Court (CV)
+
+Case No. CV-25-12
+
+Plaintiff: Admiral Kenko (AdmiralKenko)
+Defendant: Ministry of Urban Development
+
+The Defendant is required to appear before the court in the case of Admiral Kenko v. Ministry of Urban Development. Failure to respond within 48 hours may result in a default judgement. Both parties are ask to familiarize themselves with the relevant court documents, including proper formats, as well as the laws referenced in the complaint. Ensure that you comply with any court orders.
+
+If you wish to hold this trial at the Azalea Courthouse in-person, please note that in your response. The Court will try to work with both parties to hold live hearings at convenient times.
+
+Signed,
+Hon. Chief Justice Raymond West
+
+### Aug 30, 2025
+Author: fauzfauzfauz
+Date: 2025-08-30T22:03:25-0400
+Page: 1
+Post Link: https://cityrp.org/threads/admiral-kenko-v-ministry-of-urban-development-2025-cv-12.2886/post-3873
+Type: Unclassified
+
+The Ministry of Justice is present and will be defending the Ministry of Urban Development. We are requesting an additional extension, as I have had both school issues to sort out and family gatherings to attend.
+
+### Aug 31, 2025
+Author: Westray
+Date: 2025-08-31T22:58:53-0400
+Page: 1
+Post Link: https://cityrp.org/threads/admiral-kenko-v-ministry-of-urban-development-2025-cv-12.2886/post-3874
+Type: Unclassified
+
+The request for an extension has been accepted. The Defence has an additional 48 hours to provide an answer to the complaint. Please ensure you try to respond as soon as possible.
+
+### Sep 2, 2025
+Author: fauzfauzfauz
+Date: 2025-09-02T15:30:27-0400
+Page: 1
+Post Link: https://cityrp.org/threads/admiral-kenko-v-ministry-of-urban-development-2025-cv-12.2886/post-3875
+Type: Unclassified
+Images:
+- https://cityrp.org/data/attachments/0/258-3d900ac2e476d1ee95f88044dcc2173f.jpg?hash=PZAKwuR20e (IMG_0479.jpeg)
+- https://cityrp.org/data/attachments/0/259-db07d1b6500542ce88a9aa0da7ddfb51.jpg?hash=2wfRtlAFQs (Screenshot_2025-09-01_at_12.24.45_AM.png)
+- https://cityrp.org/data/attachments/0/260-8760de19cece425ca7609d390713c569.jpg?hash=h2DeGc7OQl (IMG_0507.jpeg)
+- https://cityrp.org/data/attachments/0/261-d2bc8b2afe06422bc1d0c1eab213dbb4.jpg?hash=0ryLKv4GQi (IMG_0505.jpeg)
+- https://cityrp.org/data/attachments/0/263-8760de19cece425ca7609d390713c569.jpg?hash=h2DeGc7OQl (IMG_0507.jpeg)
+- https://cityrp.org/data/attachments/0/262-778612bc04245a12bdac597686644929.jpg?hash=d4YSvAQkWh (IMG_0577.jpeg)
+
+Admiral Kenko, Plaintiff
+
+v
+
+Ministry of Urban Development, Defendant
+
+Answer to Civil Complaint:
+
+The Plaintiff claims there was no proper reasoning for the Ministry of Urban Development to inspect, or search, i020. This is untrue, for several reasons. i020 was a newer build, constructed after the pollution crisis of August 7th. Checking for compliance with the Fire Escape Act, which was done during the alleged incident, is a valid reason to conduct an inspection. The Ministry of Urban Development, as part of the Government of the Azalea Isles, is also obligated to work for the benefit of the broader citizenry. Several claims, as the Plaintiff acknowledges, arose of issues with surrounding plots being unable to grow crops due to the extensive pollution. With ecological damage being difficult to reverse, and the prior pollution crisis of August 7th nearly reaching the farming zone, the public welfare also demanded the Government investigate what was causing this issue. Inspections also tend to be spontaneous in nature, and may occur without needing there to be specific preexisting violations.
+
+The Plaintiff attempts to further prove lack of probable cause by saying there was no active legislation regarding pollution at the time. This is a nonissue considering inspectors may investigate a property on behalf of City Planners and their concerns, and for other issues aside from pollution. Active legislation is not required for inspectors to do their job.
+
+They also allege that breaking the blocks of plot i020 was a government overreach of powers, when the government had every reason and authority to enter the building to perform their investigation. Our citizens were being severely affected by this issue. Just 10 days prior on August 7th, a pollution disaster, also stemming from a plot owned by Admiral Kenko, destroyed multiple plants and damaged land in the city.
+
+Factual Defenses:
+
+The Defense AFFIRMS the presence of pollution in the city, specifically emanating from plot i020, owned by Admiral Kenko. The city had faced a previous severe pollution disaster on August 7th, also caused by an Admiral Kenko owned plot, and did not want to experience a second.
+
+The Defense AFFIRMS that then-recently hired MUD Deputy, Luke Thegreat, stated the inspection was due to height requirements. However, the Defense CONTESTS this representation of events, and notes that one, Luke Thegreat was only newly hired and not the senior individual in charge of the search, and two, MUD employees were actively being threatened, assaulted, and murdered by Clanker Bot, as shown in the Plaintiff’s own submitted video evidence, leading to inaccurate responses given this duress.
+
+The Defense AFFIRMS resident BlogWorldExpo told them to leave the building, but REJECTS that this has relevance to the case. Both Death and Luke were MUD officials, and have the authority to inspect properties. An unhappy resident asking inspectors to leave does not mean they are now legally required to stop their investigation.
+
+The Defense AFFIRMS that there was no active legislation regarding pollution. Inspectors do not specifically have to act on behalf of Parliamentary legislation. They may perform inspections based on standards set by City Planners as well. Beyond this, the Fire Escape Act was being violated by i020.
+
+Legal Defenses:
+
+The Defense DENIES the violation of the Plaintiff’s rights to be protected against unreasonable search and seizure and government overreach. There is nothing in our law stating the Minister of Urban Development or other employee must obtain a warrant before entering a building to perform a property inspection. Property inspections are performed without a warrant, and have been conducted that way for months, under multiple governments, without issue. The Minister was investigating a serious issue, one that was affecting multiple citizens. Pollution from plot i020 was causing ecological damage to other plots, and had the potential to spread to more, given the previous pollution disaster caused by the Plaintiff. Additionally, MUD has the authority to conduct random inspections to fulfill their obligations outlined in the Governing Structure Act and the Fire Escape Act. The fact the Plaintiff is now suing the government, instead of letting them protect our citizens and continue in their duties, is absurd.
+
+Finally, the Defense REJECTS the idea that the lack of specific wording means the Minister of Urban Development does not have the power to break blocks. There is nothing that explicitly says MUD needs a warrant, or that a warrant would grant them the authority to break blocks, just as there is nothing that specifically says they do not. The Defense would affirm the idea this is a power that should be used sparingly, hence why it has not been used previously or extensively. The Plaintiff’s own legal claims say “[This power] is a power only allowed to Death Thegreatfired because of her government position” which is again, power allotted to the Minister because she is Minister, and MUD has the authority to conduct inspections. This is the first time inspectors have been physically obstructed from and violently threatened for doing their job, which is why this authority was used.
+
+Defending Evidence:
+
+Wiki description of Property Inspectors.
+
+Lawsuit against i020. While this case was withdrawn by the Plaintiff, likely due to technicalities with class identification, it shows another citizen being harmed by the pollution effects.
+https://cityrp.org/threads/jebediah-crumplesnatch-v-members-of-i020-2025-cv-11.2883/
+
+Report of Fire Escape Act violation.
+
+Murders of Death and Luke.
+
+Pollution disaster of August 7th.
+
+Verification:
+
+I, Fauz Wolfe, hereby affirm that the allegations in the complaint AND all subsequent statements made in court are true and correct to the best of my knowledge, information, and belief and that any falsehoods may bring the penalty of perjury.
+
+### Sep 2, 2025
+Author: Westray
+Date: 2025-09-02T21:49:57-0400
+Page: 1
+Post Link: https://cityrp.org/threads/admiral-kenko-v-ministry-of-urban-development-2025-cv-12.2886/post-3876
+Type: Unclassified
+
+Thank you for your response. The Plaintiff has 48 hours to present an opening statement.
+
+### Sep 4, 2025
+Author: RandomIntruder
+Date: 2025-09-04T20:22:08-0400
+Page: 1
+Post Link: https://cityrp.org/threads/admiral-kenko-v-ministry-of-urban-development-2025-cv-12.2886/post-3878
+Type: Unclassified
+
+OPENING STATEMENT
+
+The defendant has proposed defences that should shake the boots of everyone reading because of the complete disregard for individual rights. Each point in their response aims to distract you from the main violation, a minister breaking into someone’s house, or paint my client in a bad light to garner sympathy for the violation. Do not fall for it. Do not become distracted from the goal.
+
+However, these defences are all over the place and weak. They say that my client’s build was new, after the pollution crisis. They cite possible ecological damage. And they cite past inspections.
+
+But most worryingly of all, they are arguing that the Ministry of Urban Development can enter anyone’s build by breaking blocks for any reason they deem to be a “concern.” If a city planner is “concerned” by anything, they can investigate. There needs not to be legal backing for their “concern” as it would be a “nonissue.” It sounds like they are arguing for MUD to be given broad powers to declare what can and cannot be an issue at all with no limits to power.
+
+Pollution and agriculture has never been part of MUD’s jurisdiction. Maybe in the past, it would have been in MAW, now arguably in MOSS since it’s job related. However, nothing about pollution and agriculture would be in MUD.
+
+Furthermore, the reports of being unable to grow crops was from an I plot. The defence is arguing that being unable to grow crops in a plot designated for factories in an area surrounded by other plots for factories is cause for breaking into plots without a warrant or any legal definition of violations!
+
+They mention that ecological damage is difficult to reverse, citing the previous pollution crisis of August 7th, ignoring the fact that pollution no longer acts the way it did back then. No blocks can be replaced. No plants will die. The only difference now is the crop growth.
+
+Even more preposterous, the defence is arguing that they were doing this because of their duties to protect the citizens. What did they manage to achieve? What could they have done? They ended up breaking into the building, killing an inhabitant, and not having stopped the pollution. What even was the point of breaking in? The map already showed that the plot was where the pollution was coming from. They could have confirmed that from the roof of the build as pollution is chunk based. This was a completely useless invasion of the build with no possible recourse. They broke into the building with no way to stop or decrease the pollution and.
+
+The defence then pivots their argument saying that the building was violating the fire safety act anyways so it was reasonable to enter to check for that. However, in the same post, they posted the report of the violation from OUTSIDE of the building. They, in fact, proved that they could make the report they're using as an excuse for the invasion without entering a building at all, removing another possible reason of being inside of the building. Furthermore, there’s never been another instance before this of MUD breaking a wall to get inside for any violation. This is a first and they’re simply trying to use any excuses possible to get away with violating the rights of the citizens.
+
+Finally, let’s break down the argument that MUD is free to conduct their investigations however they want and illuminate the legal absurdity of it.
+
+“There is nothing in our law stating the Minister of Urban Development or other employee must obtain a warrant before entering a building to perform a property inspection.”
+“Defense REJECTS the idea that the lack of specific wording means the Minister of Urban Development does not have the power to break blocks.”
+
+The Constitution says citizens have “the right against government overreach of powers not specified by the constitution.” These are not powers given in the constitution or any other laws have given MUD. Government powers are given not taken away. You do not assume you have a power just because it doesn’t say you can’t do something. It never says that a MUD employee can’t kill someone who is blocking them from an investigation either, so it must be allowed right?
+
+Furthermore, requiring warrants to enter private residences for MOJ officials since the inception of the criminal code. There’s precedence for warrant requirements for ministries.
+
+MUD has no defence here for what they’ve done that makes these actions excusable. They went in under false pretences with no warrant, shot at and killed a citizen protecting his shared space (another right guaranteed under the constitution), and are trying to argue it based on investigating violations of the fire safety act (which was reported with pictures taken outside of the building) and the pollution concern (of which they had no power to do anything anyways so why break in).
+
+### Sep 5, 2025
+Author: Westray
+Date: 2025-09-05T15:56:26-0400
+Page: 1
+Post Link: https://cityrp.org/threads/admiral-kenko-v-ministry-of-urban-development-2025-cv-12.2886/post-3879
+Type: Unclassified
+
+The Defendant has 48 hours to present an opening statement.
+
+### Sep 7, 2025
+Author: fauzfauzfauz
+Date: 2025-09-07T15:44:09-0400
+Page: 1
+Post Link: https://cityrp.org/threads/admiral-kenko-v-ministry-of-urban-development-2025-cv-12.2886/post-3886
+Type: Unclassified
+
+Opening Statement
+
+Yet again does the government stand today to defend their Ministry of Urban Development in a strenuous lawsuit.
+
+To reiterate, the Ministry of Urban Development performs inspections on buildings. That is their job. It is also their job to discern whether or not a building is a “concern”. They need to do this so they can issue warnings and evictions as necessary. This isn’t some legal absurdity, this is how warnings and reports are made. The Plaintiff, who is also a MUD official, appears to be baffled by the very purpose of a property inspector, and the word inspection itself. Inspectors inspect buildings and evaluate them for possible issues/violations. If a City Planner deems something an issue, a Property Inspector may act. We are not arguing to give the Ministry “broad powers” with “no limits to power”, this is simply just the definition taken from the CityRP Wiki. Even if there wasn’t pollution present, it is not unreasonable to notice one violation on a buildings’ exterior, like the lack of a fire escape, and check the interior to ensure compliance given the lower floors.
+
+To further explain the workings of MUD, we would like to note pollution and agriculture is a part of MUD’s jurisdiction. If some new invasive plant emanated the same pollution effects, sure it would have been the Ministry of Agriculture and Wildlife’s problem. MAW, however, was disbanded, and its duties were explicitly handed to the Ministry of Urban Development in the Amendment to the Governing Structure Act. In fact, Section 6v(i) explicitly charges the Ministry of Urban Development with “Protecting and managing wildlife, natural ecosystems, and conservation zones within the city and its surroundings.” The Plaintiff’s claim that pollution and agriculture have no bearing on MUD is unequivocally false; MUD, in fact, had a duty to act in order to preserve the natural ecosystem. To add, yes pollution occurs on industrial plots, but not at the excessive levels of the Plaintiff’s plot. Those levels were expressly unreasonable. The statement made that MUD has no power or concern to do anything with pollution levels or agriculture is a claim with no legal roots, since MAW’s duties were explicitly transferred to MUD by Parliament.
+
+While the Plaintiff pointed out a precedent for acquiring warrants within Ministries, the Defense would like to delve into what the criminal code states. Section 11d(ii) explicitly says the Ministry of Justice may enter and search a building without a warrant if there is an immediate threat to property. So yes, let’s take this said precedent and apply it to MUD, just as the Plaintiff stated. This was very clearly an emergency situation, especially given the previous disaster and the multiple citizen complaints of plant damage, therefore a warrant was not needed for entry and search per the active criminal code. The Isles has no way of knowing just how far or fast pollution can spread, as industrialism is still a relatively new advancement (and is Minetorio’s update, in addition to server admin adjustments on pollution spread). The August 7th incident caused widespread damage that spread into residential and business plots, and the country is lucky it didn’t make it far enough to damage the farm plots. With complaints from more than one individual about crop growth, including from Nopuu Catenjoyer, whose plot is right next to the business plots, there was very reasonable belief and fear that pollution (and the ecological damage it causes) were beginning to spread beyond the industrial zone.
+
+The Defense would also like to elaborate on the treatment of our very own MUD officials during the incident. They were fulfilling their legal obligations, and immediately they were murdered and threatened repeatedly. Towards the end of the video that the Plaintiff submitted as evidence for their case, you can even see Death ThegreatFired being shot at and murdered in the very last seconds while she was standing still. No proper investigation was able to come of what happened because of the pure animosity Death and Luke faced from Clanker Bot for literally doing their job. Anyone, especially a new employee, would be reasonably distressed by such resistance, so no blame should be put onto Luke Thegreat Fired for claiming to check plot build height after being treated as such.
+
+In summary, I would like to highlight these facts. Our citizens were once again affected by pollution. MUD has the authority to conduct property inspections spontaneously, with or without reason, and even when an issue is not backed by Parliamentary legislation. Ministry officials saw the situation as it was reported by our citizens: an immediate threat to property. Because of this, they did not need a warrant, even if our current criminal code was applied, and entry certainly counted as reasonable and proper search under our Guiding Principles (which builds on the Constitution). The building on i020 has multiple underground floors that the Ministry could not inspect for compliance due to the blatant hostility of those on the property of the Plaintiff. The Ministry of Urban Development used existing powers that have not been used before, true, but never before have private citizens deliberately obstructed the Ministry’s lawful inspections by walling off plot access, proceeded to murder and threaten Ministry inspectors, and then taken legal action against the government for honoring their legal obligations and protecting our citizens.
+
+Motion to Strike
+
+In addition to our opening statement, the Defense is motioning to strike the multiple claims made by the Plaintiff alleging a resident of plot i020 was murdered. The Plaintiff has provided no evidence to substantiate these allegations, so we are respectfully asking for these claims to be removed from the record. We are also two weeks from the original filing date, so there is no excuse to have not included supporting evidence for the court.
+
+### Sep 8, 2025
+Author: RandomIntruder
+Date: 2025-09-08T08:37:01-0400
+Page: 1
+Post Link: https://cityrp.org/threads/admiral-kenko-v-ministry-of-urban-development-2025-cv-12.2886/post-3887
+Type: Unclassified
+
+Response to Motion
+
+Your honor, this is an error on my end as I didn't realize not all of the evidence from the original case was reposted here. I would like to have a chance to post it, but understand if this is too late as both opening statements have been given.
+
+### Sep 9, 2025
+Author: RandomIntruder
+Date: 2025-09-09T22:55:34-0400
+Page: 1
+Post Link: https://cityrp.org/threads/admiral-kenko-v-ministry-of-urban-development-2025-cv-12.2886/post-3889
+Type: Unclassified
+
+Your honor, my apologies, but I will no longer respond to this case as my client effing died.
+
+### Sep 15, 2025
+Author: Westray
+Date: 2025-09-15T14:17:46-0400
+Page: 1
+Post Link: https://cityrp.org/threads/admiral-kenko-v-ministry-of-urban-development-2025-cv-12.2886/post-3894
+Type: Unclassified
+
+At the request of the Plaintiff, this case is hereby dismissed.
+
+
+## Outcome
+Pending.
+
+## Precedential Value
+Pending.
+
+## Lawyer Notes
+Pending.

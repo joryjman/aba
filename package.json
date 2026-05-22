@@ -1,0 +1,19 @@
+{
+  "name": "cityrp-legal-archive",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Local archive tooling for CityRP laws and court cases.",
+  "scripts": {
+    "build:reference": "node --no-warnings scripts/build-reference.mjs",
+    "serve": "node scripts/serve-reference.mjs",
+    "scrape:laws": "node scripts/scrape-cityrp.mjs laws",
+    "scrape:courts": "node scripts/scrape-cityrp.mjs courts",
+    "scrape:library": "node scripts/scrape-cityrp.mjs library",
+    "scrape:all": "node scripts/scrape-cityrp.mjs all"
+  },
+  "dependencies": {
+    "playwright": "^1.52.0"
+  },
+  "devDependencies": {}
+}

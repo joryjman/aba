@@ -1,0 +1,169 @@
+# Case: Dismissed Appeal on the Matter of Industrial Plot Owners v. Azalea Isles (2026) CV 20
+
+Court: Supreme Court
+Status: Dismissed
+Case Number: 2026 CV 20
+Forum Link: https://cityrp.org/threads/appeal-on-the-matter-of-industrial-plot-owners-v-azalea-isles-2026-cv-20.3390/
+
+## Summary
+Pending.
+
+## Parties
+- Plaintiff: Industrial Plot Owners
+- Defendant: Azalea Isles
+
+## Legal Issues
+- Pending.
+
+## Source Metadata
+- Thread author: Courts of Azalea Isles
+- Start date: Apr 25, 2026
+- Scraped at: 2026-05-20T21:38:39.925Z
+- Posts captured: 5
+
+## Docket Timeline
+
+### Apr 25, 2026
+Author: Courts of Azalea Isles
+Date: 2026-04-25T11:42:51-0400
+Page: 1
+Post Link: https://cityrp.org/threads/appeal-on-the-matter-of-industrial-plot-owners-v-azalea-isles-2026-cv-20.3390/post-6336
+Type: Unclassified
+
+Supreme Court of Azalea Isles - Case Appeal
+District Court Link: https://www.cityrp.org/threads/industrial-plot-owners-v-azalea-isles-2026-cv-20.3386
+District Court Judge: Hon. Iturgen Bolir (jotoho)
+Decision Date: April 25, 2026
+
+On the matter of Industrial Plot Owners v. Azalea Isles (2026) CV 20, appellant Aero Nox (Aeronox4) has filed an appeal based on the: Sua Sponte Dismissal.
+
+Aero said:
+I, Aero Nox, am requesting review of the Sua Sponte Dismissal made by the District Court of Azalea in this case.
+
+Appeals are heard by the Supreme Court of Azalea Isles based on the procedures outlined in Appealing a Case thread. Accordingly, after a party to the case has requested an appeal in its original thread, the Supreme Court will:
+
+Open a new thread with the appeal (this thread). Then ask the appellant to provide justification for such appeal.
+Decide whether to hear the appeal. If the Supreme Court, by majority, agrees to hear the appeal, it shall proceed to the next step. If they decide not to hear the appeal, the process will stop there.
+Request written arguments from both sides (with a standard 48 hour deadline)
+Issue a ruling that either affirms or reverses the ruling made by the District Court
+
+### Apr 25, 2026
+Author: Westray
+Date: 2026-04-25T11:43:33-0400
+Page: 1
+Post Link: https://cityrp.org/threads/appeal-on-the-matter-of-industrial-plot-owners-v-azalea-isles-2026-cv-20.3390/post-6337
+Type: Unclassified
+
+@Aero is hereby called to the Supreme Court to provide justification for requesting the appeal on Industrial Plot Owners v. Azalea Isles (2026) CV 20
+
+Please provide a response within 48 hours.
+
+### Apr 25, 2026
+Author: Aero
+Date: 2026-04-25T12:01:31-0400
+Page: 1
+Post Link: https://cityrp.org/threads/appeal-on-the-matter-of-industrial-plot-owners-v-azalea-isles-2026-cv-20.3390/post-6338
+Type: Unclassified
+
+Your Honour,
+
+Appellant asks this Court to:
+
+declare unconstitutional the provisions of the Civil Suit Reform Act ("the Act") requiring pre‑filing signed class membership and pre‑agreed payout agreements (Act §2.d–e);
+reverse the District Court’s sua sponte dismissal and remand with instructions to permit class certification proceedings consistent with this opinion; and
+issue any necessary injunctive relief preventing enforcement of the unconstitutional provisions.
+
+I. The Act’s Mandatory Pre‑filing Consent and Payout Requirements Violate Article 1’s Guarantees of Equal Treatment, Freedom of Association, and Access to Courts.
+
+A. Article 1 guarantees inviolable protections including equal treatment and freedoms of assembly/association subject only to reasonable limits prescribed by law. The challenged provisions are not reasonable: they deny plaintiffs practical access to collective litigation by imposing impossible preconditions where class members are numerous, anonymous, or transient.
+
+B. Requiring every putative member’s signed consent and payout acceptance prior to filing operates as a substantive bar to collective redress for the poor, dispersed, or transient, creating de facto unequal access to remedies - contrary to equal treatment.
+
+C. The statute chills freedom of association by converting litigation‑association into a contractual obstacle enforceable before judicial adjudication, deterring ad hoc or spontaneous collective actions.
+
+II. The Act Denies Procedural Due Process by Forcing Pre‑Adjudicative Contractual Certification and Foreclosing Court‑Managed Notice and Certification.
+
+A. Due process in class litigation fundamentally depends on judicially supervised mechanisms: the court must determine commonality, adequacy, and manage notice and opt‑in/opt‑out protections to protect absent parties and defendants alike.
+
+B. By shifting the factual and procedural burden of assembling signed memberships and payout agreements to plaintiffs before the court evaluates certification, the Act deprives courts of their gatekeeping role and denies absent members procedural protections (e.g., independent notice, meaningful choice, and court oversight of settlement fairness).
+
+C. Such pre‑filing contractual requirements produce arbitrary outcomes across claimants and districts and fail to provide the individualized procedural safeguards required before binding absent persons to a payout agreement.
+
+III. The Act Unconstitutionally Encroaches on Judicial Power, Violating Article 3 and Separation of Powers.
+
+A. Article 3 vests the Judiciary with authority to interpret law and manage court procedures. Class certification and pre‑trial process are quintessential judicial functions - assessing commonality, adequacy of counsel, fairness of settlements, and issuing notices.
+
+B. The Act attempts to prescribe outcome‑determinative prerequisites for court access and adjudication - substantive rules of preclusion and certification - that divest courts of their constitutional role and usurp judicial process.
+
+C. Where Parliament seeks to regulate litigation procedures, it must do so within constitutional bounds and without removing the Judiciary’s core adjudicative responsibilities. The challenged provisions effectively legislate away those responsibilities.
+
+IV. The Statutory Scheme Is Overbroad and Not Narrowly Tailored; Less Restrictive Alternatives Exist.
+
+A. Even assuming Parliament may set reasonable litigation qualifications, the Act is overbroad: it forbids collective litigation unless plaintiffs perform burdensome, often impossible pre‑filing feats; this sweeps in ordinary collective harms (consumer defects, tenant blockages, environmental harms) and prevents judicial resolution.
+
+B. Narrowly tailored alternatives protect defendants and ensure fairness while preserving access: conditional certification, court‑supervised notice and opt‑in/opt‑out, preliminary hearings to determine class composition, and judicial review of settlement terms.
+
+C. Because less restrictive means are available and commonly used in constitutional systems to balance interests, the Act’s blunt mandatory consent/payout preconditions cannot stand.
+
+V. Unequal Application Demonstrated by Prior Judiciary Practice Requires Invalidation.
+
+A. The Court should consider the practical application of the statute - how it has been enforced. The public record in the “Writ of Requisition for the Dead” (https://www.cityrp.org/threads/writ-of-requisition-for-the-dead.3008/) proceeding shows a governmental writ applied against a class without the presence of individually filed consents or payout agreements, and the matter proceeded. That precedent demonstrates selective or inconsistent enforcement that exacerbates the Constitution’s equal‑treatment concerns.
+
+B. Unequal enforcement of legislative prerequisites that determine access to courts demands strict scrutiny because the statute’s burden on rights operates arbitrarily and discriminatorily; such inconsistent practices strengthen the Appellant’s claim that the statutory scheme is unconstitutional in both text and application.
+
+### Apr 25, 2026
+Author: Aero
+Date: 2026-04-25T12:09:26-0400
+Page: 1
+Post Link: https://cityrp.org/threads/appeal-on-the-matter-of-industrial-plot-owners-v-azalea-isles-2026-cv-20.3390/post-6339
+Type: Unclassified
+
+MOTION FOR DISTRICT COURT RULING
+
+Your Honour,
+
+We understand that this appeal may take some time, so we ask this Court to instruct the District Court to rule on the outstanding emergency injunction; and motion for return of seized assets and removal of criminal charges.
+
+Plaintiff will continue to be harmed while waiting for this appeal to reach its conclusion.
+
+### Apr 25, 2026
+Author: Westray
+Date: 2026-04-25T13:59:05-0400
+Page: 1
+Post Link: https://cityrp.org/threads/appeal-on-the-matter-of-industrial-plot-owners-v-azalea-isles-2026-cv-20.3390/post-6342
+Type: Unclassified
+
+After reviewing the Appellant's submitted justification, the Supreme Court of Azalea Isles finds that the issues raised present insufficient legal and procedural questions to merit further review. Therefore, the Supreme Court is deciding to respectfully decline to hear this appeal.
+
+The District Court dismissed the action without prejudice on the ground that the filing did not satisfy the requirements for class actions set forth in the Civil Suit Reform Act, including the identification of class members and the submission of required documentation reflecting their consent and agreement. The Appellant does not dispute that these materials were not provided at the time of filing.
+
+The sua sponte dismissal was based on a procedural deficiency and was entered without prejudice. Because of this, the Appellant retains the ability to pursue the underlying claims by refiling in compliance with applicable statutory requirements or by proceeding in an individual capacity. It is believed that since an adequate avenue for relief here still remains open, intervention from the Supreme Court is unnecessary at this time.
+
+Regarding the claims of unequal application, the cases referenced present two different sets of facts:
+
+Industrial Plot Owners v. Azalea Isles (2026) CV 20
+The plaintiffs are the class.
+It is governed directly by by Civil Suit Reform Act §2(d)(i)
+Thus, the law requires:
+Identified members
+Signed consent
+Payout agreement
+Writ of Requisition for the Dead (December 2025)
+The defendants are the class.
+The case was brought under the Inactive Requisition Act in conjunction with the Civil Suit Reform Act
+While the law requires identified members, they are clearly identified within the spreadsheet attached to the warrant filing.
+Therefore, the procedural requirements challenged here apply specifically to plaintiffs proceeding as a class and are not implicated in the cited proceeding. Accordingly, no inconsistency or unequal application is shown
+
+Adding to this, the Appellant raises broader challenges to the statutory framework governing class actions, providing arguments for how it may violate constitutional rights. While are fair arguments to make, this is not the time or place to make them. When appealing a motion-based decision like a sua sponte dismissal, the Appellant needs to specify how the District Court improperly applied the law, as per §4 of the Court Reformation Act. In this case, the District Court did not improperly apply the law, they applied it as written.
+
+Whether or not the Civil Suit Reform Act deprives the Appellant of his constitutional rights should be handled in a separate case alleging harms imposed. It is only in that way that the Supreme Court may consider such scope, and the reason why it is not answering such question in this appeal. This is because the Court does not accept that a party may circumvent applicable procedural rules by merely alleging their invalidity in a filing that fails to satisfy those rules.
+
+
+## Outcome
+Pending.
+
+## Precedential Value
+Pending.
+
+## Lawyer Notes
+Pending.

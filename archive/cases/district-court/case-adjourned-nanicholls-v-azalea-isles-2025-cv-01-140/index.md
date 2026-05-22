@@ -1,0 +1,507 @@
+# Case: Adjourned Nanicholls v. Azalea Isles (2025) CV 01
+
+Court: District Court
+Status: Adjourned
+Case Number: 2025 CV 01
+Forum Link: https://cityrp.org/threads/nanicholls-v-azalea-isles-2025-cv-01.140/
+
+## Summary
+Pending.
+
+## Parties
+- Plaintiff: Nanicholls
+- Defendant: Azalea Isles
+
+## Legal Issues
+- Pending.
+
+## Source Metadata
+- Thread author: nanicholls
+- Start date: Jan 19, 2025
+- Scraped at: 2026-05-20T21:36:50.639Z
+- Posts captured: 28
+
+## Docket Timeline
+
+### Jan 19, 2025
+Author: nanicholls
+Date: 2025-01-19T01:35:28-0500
+Page: 1
+Post Link: https://cityrp.org/threads/nanicholls-v-azalea-isles-2025-cv-01.140/post-467
+Type: Unclassified
+
+Nanicholls
+
+v.
+
+Azalea Isles
+
+Civil Complaint:
+
+On January 17th 2025 the Crown introduced case CR 03, Azalea Isles v. Galavance. In the Crowns filing, section "Factual Allegations" subsection 3, the Crown accused the following "On January 11, 2025, in the Ministry of Justice’s internal communication channel #High-Command, Galavance held discussions with Nanicholls and Spyrolix—both loyal APA members—about prosecuting political opponents."
+
+In the case filing, there was no evidence showing the plaintiffs name in any of the screenshots provided, however the plaintiff was still referred to in the filing showing clear intent to slander the plaintiffs name and a violent infringement of the plaintiffs rights according to article 1, section 10 of the Constitution of Azalea.
+
+As of January 19th, the plaintiff has not been charged with a crime or subject to criminal proceedings at hands of the Ministry of Justice.
+
+Parties:
+
+Plaintiff: Nanicholls Nanicholls
+Defendant: The Azalea Isles
+
+Factual Allegations:
+
+Intentional slander of the plaintiffs reputation hours before the opening of an election:
+1. The lawsuit was filed just 12 hours before the opening of an election campaign.
+2. The plaintiff is a political opponent of the current government.
+3. The plaintiffs name was mentioned in the case filing, and allegations made about him.
+4. Evidence to support said allegations were not included in the case filing.
+
+Violation of the plaintiffs right against government overreach:
+5. The plaintiff has a right to innocence until guilt is proven.
+6. The plaintiff has not been charged with a crime.
+7. The defendant has not produced evidence of the claims in which they have publicly made.
+
+Legal Claims:
+
+1. The Anti-Slander Act
+The act of slandering someone is hereby illegal.
+2. The Constitution of the Azalea Isles
+1.10 - The right against government overreach of powers not specified by the constitution.
+
+Prayer for Relief:
+
+A minimum fine of $50 at the discretion of the courts.
+
+Verification:
+
+I, Nanicholls, hereby affirm that the allegations in the complaint AND all subsequent statements made in court are true and correct to the best of the plaintiff's knowledge, information, and belief and that any falsehoods may bring the penalty of perjury.
+
+### Jan 19, 2025
+Author: Westray
+Date: 2025-01-19T01:52:23-0500
+Page: 1
+Post Link: https://cityrp.org/threads/nanicholls-v-azalea-isles-2025-cv-01.140/post-468
+Type: Unclassified
+
+Considering this is a civil case, would the Plaintiff be able to please clarify what damages they are seeking? (the money/relief being sought from the Defendant). Is it the $50 to be payable to the Plaintiff?
+
+### Jan 19, 2025
+Author: nanicholls
+Date: 2025-01-19T01:55:49-0500
+Page: 1
+Post Link: https://cityrp.org/threads/nanicholls-v-azalea-isles-2025-cv-01.140/post-469
+Type: Unclassified
+
+Yes, Your honour. As the Anti-Slander Act states, "A minimum fine of $50 at the discretion of the courts".
+
+### Jan 19, 2025
+Author: Westray
+Date: 2025-01-19T02:01:02-0500
+Page: 1
+Post Link: https://cityrp.org/threads/nanicholls-v-azalea-isles-2025-cv-01.140/post-470
+Type: Unclassified
+
+Writ of Summons
+
+Azalea Isles Civil Court (CR)
+
+Case No. CV-25-01
+
+Plaintiff: Nanicholls Nanicholls (nanicholls)
+Defendant: Government of Azalea Isles
+
+The Defendant is required to appear before the court in the case of Nanicholls v. Azalea Isles. Failure to respond within 48 hours may result in a default judgement.
+
+Both parties are ask to familiarize themselves with the relevant court documents, including proper formats, as well as the laws referenced in the complaint. Ensure that you comply with any court orders.
+
+Signed,
+Hon. Justice Raymond West
+
+### Jan 20, 2025
+Author: Omegabiebel
+Date: 2025-01-20T10:34:01-0500
+Page: 1
+Post Link: https://cityrp.org/threads/nanicholls-v-azalea-isles-2025-cv-01.140/post-476
+Type: Unclassified
+
+MOTION TO DISMISS
+Your honour, at the bare minimum slander, is defined as a false spoken statement about someone that damages their reputation.
+
+Nanicholls has failed to even ALLEGE that the statement is false.
+
+If Nanicholls cannot under oath swear that the statement is false, that they were not involved in the discussion to prosecute political opponents there is no case here and it should be dismissed.
+
+### Jan 20, 2025
+Author: Westray
+Date: 2025-01-20T15:55:35-0500
+Page: 1
+Post Link: https://cityrp.org/threads/nanicholls-v-azalea-isles-2025-cv-01.140/post-478
+Type: Unclassified
+
+The Plaintiff, Nanicholls, has 24 hours to respond to the motion to dismiss before the Court makes a decision on it.
+
+### Jan 20, 2025
+Author: nanicholls
+Date: 2025-01-20T18:37:37-0500
+Page: 1
+Post Link: https://cityrp.org/threads/nanicholls-v-azalea-isles-2025-cv-01.140/post-481
+Type: Unclassified
+
+Your Honor, In response to the defendant’s motion to dismiss, I respectfully submit the following points and request: The defendant claims in their prosecution in CR 03 that, and I quote, “If Nanicholls cannot under oath swear that the statement is false, that they were not involved in the discussion to prosecute political opponents, there is no case here and it should be dismissed.”I would like to clarify that the prosecution has not denied being involved in the discussion that took place in #high-command. However, the defendant’s statement regarding this discussion, as quoted from the prosecution’s materials, is misleading and incomplete.
+
+The defendant claims that “High Command strategized about how best to remove these individuals from office and bar them from participating in the upcoming election even though there was no legal justification to do so” — Exhibit B. This statement is factually incorrect and is based solely on a picture containing two messages, without any proper context to substantiate the claim.
+
+I must further clarify that I am not able to provide hard evidence to refute these claims, as the mentioned communication channels have been locked down, restricting access to anyone besides the prosecution of CR 03. Additionally, my recent resignation from the Ministry of Justice has permanently revoked my access to these channels, thus making it impossible for me to retrieve or present any proof related to these communications.
+
+If the court finds it necessary for the prosecution to provide hard proof to establish the falsehood of the claims made by the defendant, I respectfully request immediate access to the communication channels in question, either directly or through court proceedings.
+
+The truth of these allegations is vital, and in the absence of context or factual evidence, we believe that the defendant’s claims cannot be upheld.
+
+By granting access to these communications, the court will enable the prosecution to provide the necessary proof to refute the false statements and substantiate the position that these claims were without merit.
+
+Thank you for your consideration.
+
+### Jan 21, 2025
+Author: Westray
+Date: 2025-01-21T17:16:31-0500
+Page: 1
+Post Link: https://cityrp.org/threads/nanicholls-v-azalea-isles-2025-cv-01.140/post-483
+Type: Unclassified
+
+After careful consideration, the Defendant's motion to dismiss is denied with conditions. Procedural fairness dictates that parties must have reasonable opportunities to present their case.
+
+To be clear, the Plaintiff must provide evidence or some form of argumentation to explain two key metrics to meet the definitions of the Anti-Slander Act:
+
+The statement(s) made by the Defendant must be false.
+The Defendant intentionally made the statement knowing it was false.
+In line with this request, the Court will be asking that the Defendant provide the Plaintiff with the chat records for these channels, including access to records in #department-chat and #high-command channels of the Ministry of Justice during the time of the alleged incidents. The Plaintiff may screenshot this ruling and provide it directly to an official of the Ministry to obtain such evidence.
+
+After 72 hours, the Plaintiff will be asked to provide a response to the Court. Should they have any issue obtaining access to these records, they are asked to mention it here at their earliest convenience.
+
+Thereafter, the Court will reassess this case, including potential dismissal, following this period of discovery for possible evidence.
+
+### Jan 24, 2025
+Author: nanicholls
+Date: 2025-01-24T14:49:52-0500
+Page: 1
+Post Link: https://cityrp.org/threads/nanicholls-v-azalea-isles-2025-cv-01.140/post-492
+Type: Unclassified
+
+Your Honor,
+Exhibits A and B presented below clearly demonstrate that the defendant's claim in case CR-25-03 has been purposefully taken out of context. The defendant relied solely on the concluding portion of the conversation to substantiate their claim, omitting critical preceding context that contradicts their assertion.Furthermore, the defendant affirmed under oath that their allegations and subsequent statements were true to the best of their knowledge, information, and belief.
+
+Given that the defendant had full access to the complete conversation and therefore possessed first-hand knowledge of its content, they were fully aware that their claim would be invalid if the entire context were considered. Despite this, the defendant deliberately excluded key information to misrepresent the facts.
+
+Based on this evidence, I seek to establish:
+1) That the defendant’s statement was demonstrably false.
+2) That the defendant knowingly made this false statement with intent to mislead.
+
+### Jan 25, 2025
+Author: Westray
+Date: 2025-01-25T10:49:27-0500
+Page: 1
+Post Link: https://cityrp.org/threads/nanicholls-v-azalea-isles-2025-cv-01.140/post-496
+Type: Unclassified
+
+At this time, the Court has decided to deny the motion to dismiss, given that the Plaintiff has now alleged that such statements were false. Whether or not these statements were actually false, or if there was a clear intent (as required by the law) still needs to be considered in this case.
+
+The Plaintiff has 48 hours to present an opening statement.
+
+### Jan 26, 2025
+Author: nanicholls
+Date: 2025-01-26T19:49:20-0500
+Page: 1
+Post Link: https://cityrp.org/threads/nanicholls-v-azalea-isles-2025-cv-01.140/post-504
+Type: Unclassified
+
+Your Honor,
+I stand before the court today having already testified under oath in this matter, making it clear that the allegations against me are unfounded. I am prepared to present substantial evidence to prove that these claims are baseless and speculative.However, Your Honor, the central issue here is not just the falsity of these allegations.
+
+The real question is whether the defendant has deliberately brought forward these accusations and, if so, why. Justice demands truth, and the prosecution is committed to uncovering it.
+
+I am confident that this trial will shed light on the truth and ensure that those who have misled the court are held accountable.
+
+### Jan 27, 2025
+Author: Westray
+Date: 2025-01-27T00:01:25-0500
+Page: 1
+Post Link: https://cityrp.org/threads/nanicholls-v-azalea-isles-2025-cv-01.140/post-505
+Type: Unclassified
+
+The Defendant has 48 hours to present an opening statement.
+
+### Jan 29, 2025
+Author: MilkCrack
+Date: 2025-01-29T18:08:03-0500
+Page: 1
+Post Link: https://cityrp.org/threads/nanicholls-v-azalea-isles-2025-cv-01.140/post-522
+Type: Unclassified
+
+Your Honor, the original defence attorney was busy so I will take over for now.
+
+Opening Statement
+
+During this trial, we will clearly show that the plaintiff Nanicholl has no case.
+
+### Jan 29, 2025
+Author: MilkCrack
+Date: 2025-01-29T18:08:36-0500
+Page: 1
+Post Link: https://cityrp.org/threads/nanicholls-v-azalea-isles-2025-cv-01.140/post-523
+Type: Unclassified
+
+Witness list:
+We would like to call Nanicholls to the stand.
+
+### Jan 29, 2025
+Author: Westray
+Date: 2025-01-29T21:40:39-0500
+Page: 1
+Post Link: https://cityrp.org/threads/nanicholls-v-azalea-isles-2025-cv-01.140/post-524
+Type: Unclassified
+
+The Plaintiff has 48 hours to provide a list of witnesses they wish to call, or to indicate to the court that they do not wish to call any witnesses.
+
+### Jan 30, 2025
+Author: nanicholls
+Date: 2025-01-30T14:41:16-0500
+Page: 1
+Post Link: https://cityrp.org/threads/nanicholls-v-azalea-isles-2025-cv-01.140/post-527
+Type: Unclassified
+
+The plaintiff moves for default judgment due to the defense’s failure to comply with procedural requirements. The original defense attorney, the defendant himself, did not properly authorize representation by counsel, rendering the defense’s actions invalid. Additionally, the defense failed to submit a timely opening statement despite having a reasonable opportunity to do so. Furthermore, the defense representative violated case procedure by prematurely disclosing witness lists. These procedural failures demonstrate a lack of proper defense participation, justifying default judgment in favor of the plaintiff.
+
+### Jan 30, 2025
+Author: Westray
+Date: 2025-01-30T17:56:30-0500
+Page: 1
+Post Link: https://cityrp.org/threads/nanicholls-v-azalea-isles-2025-cv-01.140/post-531
+Type: Unclassified
+
+At this time, the Court rejects the motion for default judgement.
+
+Given that the Prime Minister, through the Ministry of Justice, appoints government attorneys; the Court finds that there would be no reason to authorize representation by counsel, considering that the defence has now been represented by the Prime Minister himself.
+
+As for the timeliness of the Defendant, the Court will ask that the Defendant please ensure they respond promptly to all requests from the Court. Failure to do so beyond the deadline may result in the Court moving forward to the next step without their input. As for the list of witnesses, this was the next step in accordance with the current Case Structure.
+
+Ultimately, this decision is also based on the status of this case. At this stage, the Court has not been presented with sufficient argumentation from either party to render a verdict based on the full merits of the case. As such, granting default judgment would not serve the interests of justice.
+
+The Plaintiff is reminded to provide a list of witnesses, if any, to be called to the Court.
+
+### Feb 2, 2025
+Author: MilkCrack
+Date: 2025-02-02T05:00:37-0500
+Page: 1
+Post Link: https://cityrp.org/threads/nanicholls-v-azalea-isles-2025-cv-01.140/post-552
+Type: Unclassified
+
+Your honour, the plaintiff has failed to respond prior to the deadline. I move that we continue with questioning the witness for the defence.
+
+### Feb 2, 2025
+Author: Westray
+Date: 2025-02-02T08:29:00-0500
+Page: 1
+Post Link: https://cityrp.org/threads/nanicholls-v-azalea-isles-2025-cv-01.140/post-555
+Type: Unclassified
+
+Since well beyond 48 hours has now elapsed, the Court will move forward.
+
+The Defence has 24 hours to provide questions to their witnesses.
+
+### Feb 3, 2025
+Author: Westray
+Date: 2025-02-03T14:35:13-0500
+Page: 1
+Post Link: https://cityrp.org/threads/nanicholls-v-azalea-isles-2025-cv-01.140/post-572
+Type: Unclassified
+
+Given that the Defence has not provided questions to the witnesses beyond the deadline, the Court will move forward with the next step in the case structure.
+
+The Plaintiff, Nanicholls, is asked to provide their closing statement to the Court within the next 48 hours.
+
+### Feb 3, 2025
+Author: MilkCrack
+Date: 2025-02-03T16:38:35-0500
+Page: 2
+Post Link: https://cityrp.org/threads/nanicholls-v-azalea-isles-2025-cv-01.140/post-573
+Type: Unclassified
+
+Your Honour, my understanding is that the standard deadline is 48 hours.
+
+Assumingly in an attempt to speed up the trial, you have already denied the defence the opportunity to present an answer to the complaint moving straight to opening statements after the motion to dismiss. Disallowing us from presenting any evidence pre-trial.
+
+And now you have chosen to shorten the already short deadline of 48 during the trial to 24 hours arbitrarily. Thereby disallowing the defence from even questioning witnesses?
+
+Furthermore, the time on the forums is not accurate to the time zones, how does the court expect council to find out which time is which in the timezones?
+
+How can the court expect the council to calculate the time, come up with evidence, write statements, and do research for every dispute within such an extremely limited timeframe?
+
+How does the court expect new lawyers to get guidance and help to manoeuvre their way to the legal system when the timeframes are so extremely short and are changed arbitrarily without reason from 48 to 24 to 12?
+
+I understand that your honour has multiple cases and wishes to move along a few but this should not be done at the detriment to the defence.
+
+### Feb 3, 2025
+Author: Westray
+Date: 2025-02-03T20:01:22-0500
+Page: 2
+Post Link: https://cityrp.org/threads/nanicholls-v-azalea-isles-2025-cv-01.140/post-574
+Type: Unclassified
+
+As for the missed answer to complaint, this was an oversight and error on my end due to both parties barraging the Court with various requests, and the Defence changing counsel mid-case. I apologize, however would point out that the Defence had the opportunity to answer the details of the complaint in the opening statement, but opted for a single sentence response to the Court instead.
+
+Nonetheless, since you did not have the opportunity to present any evidence in an answer to the complaint, you may send any additional evidence you wish to present within the next 24 hours to this case. This evidence will be evaluated in the closing statements.
+
+As for the witness questioning, we are beyond that timeframe pursuant to deadlines. It is expected that both parties will ensure they are responding to the Court within a reasonable timeframe. In the event that you are unable to respond to the Court with that specified timeline, you are asked to request an extension that will typically be granted on a case-by-case basis of understanding.
+
+### Feb 4, 2025
+Author: MilkCrack
+Date: 2025-02-04T00:59:05-0500
+Page: 2
+Post Link: https://cityrp.org/threads/nanicholls-v-azalea-isles-2025-cv-01.140/post-575
+Type: Unclassified
+
+Your honour, I would contend that 24 hours is not a reasonable deadline. However, I do thank the court for allowing us to submit the following evidence.
+
+Attachment 1-3 evidence is taken from the case Azalea Isles v. Galavance (2025) CR 03 which this case is about as well.
+
+Attachment 4 is taken from political forum channels clearly showing the deputy leader of nanicholls green party posting attack ads against the CDU which would include at the time the Prime-Minister, Fluffywaafelz and wetc.
+
+Attachment 5 is taken from #Ads channel clearly showing the plaintiff posting an ad for people to join and run under his party, the Green Party.
+
+### Feb 4, 2025
+Author: Westray
+Date: 2025-02-04T07:38:11-0500
+Page: 2
+Post Link: https://cityrp.org/threads/nanicholls-v-azalea-isles-2025-cv-01.140/post-576
+Type: Unclassified
+
+Thank you.
+
+The Plaintiff is asked to provide their closing statement to the Court. They may include a response to such evidence in their statement.
+
+### Feb 5, 2025
+Author: nanicholls
+Date: 2025-02-05T14:16:35-0500
+Page: 2
+Post Link: https://cityrp.org/threads/nanicholls-v-azalea-isles-2025-cv-01.140/post-587
+Type: Unclassified
+
+Your honour,
+
+This case is about the right of an individual not to be implicated in a crime in which there is no evidence to support such claims. Let's set the stage once more, the day of an election a lawsuit is filed stating "On January 11, 2025, in the Ministry of Justice’s internal communication channel #High-Command, Galavance held discussions with Nanicholls and Spyrolix—both loyal APA members—about prosecuting political opponents."
+
+Fast forward to the evidence disclosure in the case filing, there is not a single piece of evidence with my name anywhere on it. In fact your honour, not a single piece of evidence containing my name was produced by the prosecution in that case until the 2nd of February, 2 and a half weeks later.
+
+Additionally to that point, I have yet to be subject to any criminal proceedings related to the incident, if I was involved as the defence stated I was, surly I would be subject to criminal proceedings by now.
+
+This leads any mind to wonder, you honour, why was it that my name had to be included in the case filing when there was no evidence produced in that case filing that implicated me in any way?
+
+In response to the defences "evidence" as shown here today, they made a point of including a screenshot which includes my testimony in Azalea Isles V Galavance.
+
+In this screenshot I am asked "Did you participate in a discussion regarding the prosecution of Members of Parliament in #high-command on the 5th of January?" to which I responded that I did in fact.
+
+This evidence from the defence includes many worrying contradictions.
+1. In the Defences case filing in Azalea Isles V Galavance they claimed this discussion took place on January 11th. It did not as per their own evidence.
+2. In the Defences case filing they claimed that "On January 11, 2025, in the Ministry of Justice’s internal communication channel #High-Command, Galavance held discussions with Nanicholls and Spyrolix—both loyal APA members—about prosecuting political opponents.". Yet I did not testify that I discussed prosecuting political opponents, I testified that I discussed prosecuting Members of Parliament.
+3. In the Defences case filing they made the claim that I was a "loyal APA member" at the time of this conversation. As I testified, I joined the APA on January 10th, 5 days after this conversation had happened.
+
+This evidence alone clearly shows a bad faith engagement and a fundamental malpractice by the Government attorney in Azalea v Galavance. The timeline was wrong. The dates were wrong. The language was wrong. And it was conveniently put out into the public sphere the day of an election.
+
+Your Honour, not only was it put out the day of an election, only half the story was put out the day of an election. Again, no evidence including my name or implicating me in anyway, but the government attorney was more then happy to put me in the the case filing.
+
+Onto the later pieces on evidence, where the defence attempts to allude to the fact that because I was actively campaigning for political office, what I did was inherently a political move. I would ask that the court not consider this ludicrous evidence, considering the inherent contradicting in makes. I could sit here and discuss the various attacks and negative campaigning done by the defence against me during the election period, but I do not believe that proves that they inherently had it out for me, until of course they made a case filing, including my name but no evidence.
+
+Your honour this is a precedent setting case. The overarching question here is can the government make claims in a case filing without producing evidence from the get go. This is a slander case, and all evidence points to the intent to damage my electoral chance and reputation.
+
+From the case filing, to the incorrect dates, to the lack of evidence, to the wrong timeline, to the constant implications that are backed by no evidence. The defence has made an egregious claim and on election day none the less. I hope that you will see this case for what it is, and side with the plaintiff.
+
+### Feb 6, 2025
+Author: Westray
+Date: 2025-02-06T03:31:27-0500
+Page: 2
+Post Link: https://cityrp.org/threads/nanicholls-v-azalea-isles-2025-cv-01.140/post-589
+Type: Unclassified
+
+The Defence is asked to provide their closing statement to the Court. Please do so within the next 48 hours.
+
+### Feb 7, 2025
+Author: MilkCrack
+Date: 2025-02-07T20:28:58-0500
+Page: 2
+Post Link: https://cityrp.org/threads/nanicholls-v-azalea-isles-2025-cv-01.140/post-607
+Type: Unclassified
+
+CLOSING STATEMENTS
+Your Honour,
+
+The state acknowledges the disorder in this case, partly due to an overburdened department. However, the plaintiff’s lack of clarity and evidence has been equally detrimental.
+
+The reason this case was allowed to continue was that the plaintiff would prove that:
+1) That the defendant’s statement was demonstrably false.
+2) That the defendant knowingly made this false statement with intent to mislead.
+
+The plaintiff complains about the wrong dates. The evidence we presented indeed was from the 5th of January and not the 11th. This was in reaction to the 2 screenshots presented by the plaintiff also from the 4th/5th of January.
+
+We admit that providing screenshots from the 11th of January would have been more productive and are still prepared to do so if the court would allow it. But to be clear on the 11th of January, the plaintiff did indeed once again discuss with Galavance the prosecutions of these opponents.
+
+So, let us not forget that the burden of proof is on the plaintiff. It is up to the plaintiff to prove that the statement is demonstrably false. The plaintiff has been given full access to the chatlogs in high-command as per the judge's instructions and has failed to post a screenshot of the 11th of January discussion. They did not do so because it would have shown them once again discussing the prosecution of these people.
+
+How can your honour, rule that the plaintiff has proven the statement to be demonstrably false by a preponderance of the evidence when they have not submitted any evidence regarding the 11th of January?
+
+Furthermore, what evidence has nanicholls submitted that the "That the defendant knowingly made this false statement with intent to mislead."?
+
+The plaintiff's entire closing statement assumes the burden of proof is on the defence, it's not. Should the plaintiff have submitted better evidence or facts, we could have submitted better evidence and facts in defence.
+
+Furthermore, the plaintiff was not the target of the lawsuit and was simply a person involved in the discussion. The plaintiff was only included to serve as a possible witness, at no point did the state allege that the plaintiff acted unlawfully or unethically even.
+
+The plaintiff assumes that because they were named as a witness this reflects badly on their reputation. This has not been proven either, the plaintiff presented no evidence that their reputation has been harmed as a result of being named as a witness. Despite that being an explicit requirement, in the anti-slander act. - (b) Damages resulting from slander are not presumed and must be proven in a court of law.
+
+Furthermore, the state contends prosecutors have a legal duty to allege facts and identify witnesses. The government prosecutors and lawyers in general should be given additional leniency when it comes to statements made in court.
+
+### Feb 9, 2025
+Author: Westray
+Date: 2025-02-09T12:59:29-0500
+Page: 2
+Post Link: https://cityrp.org/threads/nanicholls-v-azalea-isles-2025-cv-01.140/post-615
+Type: Unclassified
+
+Court Verdict
+Azalea Isles Civil Court (CV)
+
+Case No. CV-25-01
+Nanicholls Nanicholls (nanicholls) v. the Government of Azalea Isles
+
+Position of the Plaintiff
+1. The Plaintiff, Nanicholls, alleges that the Defendant, through filing the case of Azalea Isles v. Galavance (2025) CR 03, wrongfully implicated them in a discussion about prosecuting political opponents without providing sufficient evidence. The Plaintiff contends that these statements were false and slanderous.
+2. The Plaintiff explains that since no case was ever filed against him, and this evidence was presented in a lawsuit where he was not the defendant, he did not have the right to defend himself.
+3. The Plaintiff argues that the filing of this case close to the campaign period of the election proves it was politically motivated, and that the Defendant had the intent to slander him in order to benefit the party leading the incumbent government.
+4. The Plaintiff claims that their right to a fair reputation, free from unjust accusations, was violated under the Constitution, particularly their right against government overreach.
+
+Position of the Defendant
+1. The Defendant, the Government of Azalea Isles, argues that the Plaintiff was not the primary subject of the case, and that their name was included only as part of the normal process of identifying witnesses and participants in the political discussion.
+2. The Defendant contends that the Plaintiff has failed to meet the burden of proof to demonstrate that the statements made were false. The Plaintiff was involved in discussions about prosecuting Members of Parliament, and claims that no falsehood has been proven.
+3. The Defendant argues that simply being named in the case filing does not amount to harm under the Anti-Slander Act. They assert that the Plaintiff has not demonstrated that their reputation has been negatively affected by the inclusion of their name.
+4. The Defendant maintains that there was no malicious intent in naming the Plaintiff in the case filing, and that the case process was legitimate. They argue that the actions of government attorneys and the inclusion of the Plaintiff’s name were part of their official duties and not intended to mislead or harm.
+
+Court Opinion
+1. The Court notes that the Plaintiff has not provided clear, tangible evidence that the statements made by the Defendant in the case filing were demonstrably false. The evidence provided by the Defendant, while acknowledging errors in dates, supports the broader contention that the Plaintiff was involved in relevant discussions regarding the prosecution of Members of Parliament. Validity of such evidence can be challenged in the case at hand.
+2. In addition, the Plaintiff has not provided sufficient evidence to show that the Defendant knowingly made a false statement with malicious intent. While the case filing included the Plaintiff’s name, the Court finds no clear indication of bad faith or deliberate intent to deceive the public or harm the Plaintiff’s standing. Not once in any case filing or official announcement by the government did they ever claim that the Plaintiff, Nanicholls, was guilty of a crime under the law. The only implication in the case filing was that Nanicholls was involved as a witness and party.
+3. The Plaintiff has not proven that the Defendant otherwise caused reputational damage to them. While the Plaintiff does allege the proximity of the case close to the electoral period, they fail to acknowledge or explain how that impacted the outcome of the election, especially given that the Plaintiff won a seat to the parliament themselves.
+4. As all are considered, the Court believes that Plaintiff has not met the burden of proof required to establish that the statements made by the Defendant were false, nor to establish that the statements were made with malicious intent. Therefore, it does not meet the standards outlined in the Anti-Slander Act to justify liability.
+
+Decision
+The Azalea Isles Civil Court hereby rules in favour of the Defendant, and this trial is hereby adjourned. The Court thanks both parties for their time.
+
+Signed,
+Hon. Justice Raymond West
+
+
+## Outcome
+Pending.
+
+## Precedential Value
+Pending.
+
+## Lawyer Notes
+Pending.

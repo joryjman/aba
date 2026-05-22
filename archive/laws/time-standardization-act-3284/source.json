@@ -1,0 +1,20 @@
+{
+  "title": "Time Standardization Act",
+  "url": "https://cityrp.org/threads/time-standardization-act.3284/",
+  "threadAuthor": "Library of Parliament",
+  "startDate": "Mar 30, 2026",
+  "sourceKind": "law",
+  "court": null,
+  "scrapedAt": "2026-05-20T21:29:22.069Z",
+  "posts": [
+    {
+      "author": "Library of Parliament",
+      "date": "2026-03-30T08:44:28-0400",
+      "postNumber": "Mar 30, 2026",
+      "postUrl": "https://cityrp.org/threads/time-standardization-act.3284/post-6087",
+      "images": [],
+      "rawText": "Original Legislation:\nPassed Bill Link: https://cityrp.org/threads/time-standardization-act.3267/\nFinal Vote: 6-0-0\nRatified: March 30, 2026\n\nAuthor: jotoho\nSponsor: Nanicholls Nanicholls, MP\n\nTime Standardization Act\nPreamble: Currently, legislation and legal documents often use time or time-frames, but very rarely define the Calendar, Timezone or other details of the time system. This bill intends to solve that.\n\n1. General\n(a) The Legal System of the Azalea Isles shall not recognize in-game time.\n(b) The official calendar of Azalea Isles shall at all times be the real-life Gregorian calendar.\n(c) The first day of the week is Monday.\n(d) The first week of the year is the week containing that year's first Thursday.\n(e) The first day of the year is January 1st.\n\n2. Fallback Timezone Definition\n(a) Unless explicitly defined otherwise or automatically converted by technology, all dates and times shall be interpreted as Coordinated Universal Time (UTC).\n\nEnactment: This Act comes into force immediately upon passage and ratification.",
+      "pageNumber": 1
+    }
+  ]
+}

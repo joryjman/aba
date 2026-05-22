@@ -1,0 +1,732 @@
+# Case: Adjourned Sagg Wizard v. Ministry of Justice (2026) CV 18
+
+Court: District Court
+Status: Adjourned
+Case Number: 2026 CV 18
+Forum Link: https://cityrp.org/threads/sagg-wizard-v-ministry-of-justice-2026-cv-18.3280/
+
+## Summary
+Pending.
+
+## Parties
+- Plaintiff: Sagg Wizard
+- Defendant: Ministry of Justice
+
+## Legal Issues
+- Pending.
+
+## Source Metadata
+- Thread author: Aero
+- Start date: Mar 20, 2026
+- Scraped at: 2026-05-20T21:34:14.671Z
+- Posts captured: 33
+
+## Docket Timeline
+
+### Mar 20, 2026
+Author: Aero
+Date: 2026-03-20T15:41:55-0400
+Page: 1
+Post Link: https://cityrp.org/threads/sagg-wizard-v-ministry-of-justice-2026-cv-18.3280/post-6046
+Type: Unclassified
+Images:
+- https://cityrp.org/data/attachments/0/587-2ecf136243095769745f31cc53ec2931.jpg?hash=jAF0s1f4BR (P-001.png)
+- https://cityrp.org/data/attachments/0/588-c879e10638f5a95e8cebbf7d4d701ddd.jpg?hash=96gzRa495v (P-002.png)
+- https://cityrp.org/data/attachments/0/589-626c1b3438bbd8893ea353076ce714bd.jpg?hash=8szZd5aCcW (P-003.png)
+- https://cityrp.org/data/attachments/0/590-57347765f3de0f395980ff070d9e6262.jpg?hash=HHYA8GWyGN (P-004.png)
+- https://cityrp.org/data/attachments/0/591-7878833733e0a595961e0538a555e503.jpg?hash=F4CbDJqsWu (P-005.png)
+- https://cityrp.org/data/attachments/0/592-047d1ad01bdccf9e0813d6149cfe1e92.jpg?hash=bLjnMnJame (P-006.png)
+- https://cityrp.org/data/attachments/0/593-2c3fc346889e464d95b97df452b41244.jpg?hash=Yt4XjMLgZy (P-007.png)
+- https://cityrp.org/data/attachments/0/594-9f3f3e4e27e7374f8a80f339ef8b7c25.jpg?hash=Yw9QyttaV7 (P-008.png)
+
+Sagg Wizard, Plaintiff
+v.
+Ministry of Justice, Defendant
+
+Civil Complaint:
+
+The Ministry of Justice (MoJ) charged Plaintiff with the crime of Bank Robbery. Upon learning of this charge, Plaintiff opened an MoJ ticket to contest the charge and to ask to see the evidence against him. The MoJ provided their evidence and Plaintiff, finding the evidence to be lacking, demanded that the charge be dropped. The MoJ refused. Plaintiff then asserted his right for a trial. The MoJ refused again. This represents a breach of Plaintiff's civil rights and a gross overreach of powers by the Executive as it attempts to usurp the Judiciary's Constitutional role.
+
+Parties:
+
+Plaintiff: Sagg Wizard (IGN: "Saggwizard13")
+Defendant: Ministry of Justice
+Factual Allegations:
+
+(All dates and time are in Eastern Daylight Time, which is UTC-4.)
+
+On March 18, 2026, Plaintiff was charged with the crime of Bank Robbery by Minister of Justice Dogan Karaca (Exhibit P-001).
+This charge was manually created by Minister of Justice Dogan Karaca.
+Upon discovering this charge, Plaintiff opened an MoJ ticket, at approximately 9:41am, asking to see the evidence (Exhibit P-002).
+At approximately 9:45am, Plaintiff requested that his lawyer, Aero Nox, be added to the ticket (Exhibit P-003).
+Plaintiff's lawyer revieved the evidence presented by the MoJ and found it to be lacking.
+At approximately 10:51am. Plaintiff's lawyer told the MoJ that Plaintiff was exercising his right to a trial (Exhibit P-004).
+On March 20, 2026 at approximately 12:54pm, the Minister of Justice unconstituionally denied Plaintiff's right to a trial (Exhibit P-005).
+Starting at approximately 1:17pm, the Minister of Justice wrongfully stated that it was up to Plaintiff to prove his innocence (Exhibits P-006 & P-007).
+At approximately 1:37pm. Minister of Justice Dogan Karaca once again stated that he was denying Plaintiff a trial, while repeating the wrongful statement that Plaintiff needed to prove his innocence (Exhibit P-008).
+Legal Claims:
+
+1. Minister of Justice Dogan Karaca, by denying Plaintiff his right to a trial and claiming the authority to adjudicate, violated the Constitution and usurped the Judiciary's Constitutional authority.
+
+Articles 3-5 of the Constitution of Azalea Isles clearly lays out the roles of each of the three co-equal branches of government. The Executive responsibilities are clearly limited to the execution of the law, while the Judiciary is the only branch who shall be repsonsible for adjudicating disputes within Azalea Isles.
+
+The Executive is limited to executing the law and may not unilaterally deny access to statutory adjudicative procedures.
+
+2. Minister Dogan Karaca misinterpreted of the New Criminal Code Act §12(a).
+
+The New Criminal Code Act §12(a) states:
+
+(a) Misdemeanors can be contested in a Ministry of Justice ticket. Upon arrest, Ministry of Justice officers must inform the suspect that they can contest the charges alleged against them and ask if the suspect wishes to contest their charges.
+
+While this section does provide those charged with the procedural steps to contest their charge, it does not give the Executive the authority to deny access to statutory adjudicative procedures. Such a clause would clearly be unconstitutional, per the first legal claim.
+
+3. Minister Dogan Karaca wrongfully claims that those accused of a crime must prove their innocence.
+
+The "Principles of Criminal Law" clearly state:
+
+Guilty beyond a Reasonable Doubt: A defendant is assumed not guilty. A plaintiff presenting a criminal prosecution must prove guilty beyond a reasonable doubt to secure a conviction. However, a defendant found not guilty in a criminal trial may still find themselves guilty in a civil trial where the standards of evidence are lower.
+
+The burden of proof for criminal charges always lies with the Government. By demanding that those charged with crimes prove their innocence, Minister Dogan Karaca assumes that the defendant is guilty. This is a clear violation of the "Guilty beyond a Reasonable Doubt" principle.
+
+This principle has been upheld by the Court and is now clear precedent:
+
+https://cityrp.org/threads/azalea-isles-v-kli-astonmartin-2025-cr-07.2885/post-3976
+https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-700
+Prayer for Relief:
+
+1. Declaratory Relief
+
+A declaration that Minister Dogan Karaca’s actions denying Plaintiff a trial and purporting to adjudicate criminal charges usurp the Judiciary’s constitutional authority and violate Articles 3–5 of the Constitution of Azalea Isles.
+A declaration that Minister Karaca’s interpretation and application of the New Criminal Code Act §12(a) to deny access to the statutory misdemeanor contest procedure is unlawful and unconstitutional.
+A declaration that Minister Karaca’s statements and actions asserting that an accused must prove their innocence violate the constitutional presumption of innocence and the principle that the burden of proof in criminal prosecutions rests with the State.
+2. Mandatory Injunctive Relief
+
+A mandatory injunction ordering Minister Dogan Karaca and the Ministry of Justice to immediately accept and process Plaintiff’s Ministry of Justice ticket contest under New Criminal Code Act §12(a), and to permit the statutory adjudicative procedure to proceed without further Executive interference.
+An injunction prohibiting Minister Karaca and Ministry officials from further denying, blocking, interfering with, or purporting to adjudicate criminal charges that are properly within the Judiciary’s authority.
+3. Costs and Ancillary Relief
+
+An award of costs of these proceedings, including reasonable attorney’s fees.
+Such further or alternative relief as the Court deems just and proper, including sanctions against Minister Karaca or Ministry officials for contempt or willful violation of Court orders if warranted.
+Verification:
+
+I, Aero Nox, hereby affirm that the allegations in the complaint AND all subsequent statements made in court are true and correct to the best of the plaintiff's knowledge, information, and belief and that any falsehoods may bring the penalty of perjury.
+
+Evidence
+
+Spoiler: Exhibit P-001
+
+Spoiler: Exhibit P-002
+
+Spoiler: Exhibit P-003
+
+Spoiler: Exhibit P-004
+
+Spoiler: Exhibit P-005
+
+Spoiler: Exhibit P-006
+
+Spoiler: Exhibit P-007
+
+Spoiler: Exhibit P-008
+
+### Mar 20, 2026
+Author: Aero
+Date: 2026-03-20T16:03:36-0400
+Page: 1
+Post Link: https://cityrp.org/threads/sagg-wizard-v-ministry-of-justice-2026-cv-18.3280/post-6049
+Type: Unclassified
+
+EMERGENCY INJUNCTION
+
+Plaintiff respectfully moves this Court for an emergency temporary injunction prohibiting the Ministry of Justice from arresting Plaintiff for this charge, while the Court rules on the matter of Plaintiff's right to a trial for said charge.
+
+### Mar 25, 2026
+Author: Westray
+Date: 2026-03-25T11:41:09-0400
+Page: 1
+Post Link: https://cityrp.org/threads/sagg-wizard-v-ministry-of-justice-2026-cv-18.3280/post-6056
+Type: Unclassified
+
+Writ of Summons
+
+Azalea Isles District Court, Civil Case (CV)
+
+Case No. CV-26-18
+
+Plaintiff: Sagg Wizard (Saggwizard13)
+Defendant: Ministry of Justice
+
+The Defendant is required to appear before the court in the case of Sagg Wizard v. Ministry of Justice (2026). Failure to respond within 48 hours may result in a default judgement. Both parties are ask to familiarize themselves with the relevant court documents, including proper formats, as well as the laws referenced in the complaint. Ensure that you comply with any court orders.
+
+If you wish to hold this trial at the Azalea Courthouse in-person, please note that in your response. The Court will try to work with both parties to hold live hearings at convenient times.
+
+Signed,
+Hon. Chief Justice Raymond West
+
+### Mar 25, 2026
+Author: Westray
+Date: 2026-03-25T11:41:27-0400
+Page: 1
+Post Link: https://cityrp.org/threads/sagg-wizard-v-ministry-of-justice-2026-cv-18.3280/post-6057
+Type: Unclassified
+
+Aero said:
+EMERGENCY INJUNCTION
+
+Plaintiff respectfully moves this Court for an emergency temporary injunction prohibiting the Ministry of Justice from arresting Plaintiff for this charge, while the Court rules on the matter of Plaintiff's right to a trial for said charge.
+The Court will rule on this matter 24 hours from now. When responding to the summons, the Defendant may also provide a response to this emergency injunction, provided they do so before the Court's ruling.
+
+### Mar 25, 2026
+Author: DK3458
+Date: 2026-03-25T11:46:32-0400
+Page: 1
+Post Link: https://cityrp.org/threads/sagg-wizard-v-ministry-of-justice-2026-cv-18.3280/post-6058
+Type: Unclassified
+
+The Ministry of Justice is present, your Honour
+
+### Mar 25, 2026
+Author: DK3458
+Date: 2026-03-25T11:49:15-0400
+Page: 1
+Post Link: https://cityrp.org/threads/sagg-wizard-v-ministry-of-justice-2026-cv-18.3280/post-6059
+Type: Unclassified
+
+Your Honour, I would like to inform the respected court that the Government Prosecutors Ren Kuronoscucinder and Helena Adler will work on this case together as Co-Counsel.
+
+Respectfully submitted,
+
+Doğan Karaca
+Minister of Justice
+
+### Mar 25, 2026
+Author: Sparkimon
+Date: 2026-03-25T17:03:20-0400
+Page: 1
+Post Link: https://cityrp.org/threads/sagg-wizard-v-ministry-of-justice-2026-cv-18.3280/post-6060
+Type: Unclassified
+
+DK3458 said:
+Your Honour, I would like to inform the respected court that the Government Prosecutors Ren Kuronoscucinder and Helena Adler will work on this case together as Co-Counsel.
+
+Respectfully submitted,
+
+Doğan Karaca
+Minister of Justice
+I apologize, Your Honour. We are also adding Random Intruder on as co-counsel.
+
+### Mar 28, 2026
+Author: Westray
+Date: 2026-03-28T21:09:29-0400
+Page: 1
+Post Link: https://cityrp.org/threads/sagg-wizard-v-ministry-of-justice-2026-cv-18.3280/post-6063
+Type: Unclassified
+
+Aero said:
+EMERGENCY INJUNCTION
+
+Plaintiff respectfully moves this Court for an emergency temporary injunction prohibiting the Ministry of Justice from arresting Plaintiff for this charge, while the Court rules on the matter of Plaintiff's right to a trial for said charge.
+Seeing as no response has been provided by the Defendant, the Court has evaluated this request for an emergency injunction purely on the arguments presented at this time. Since these charges are being contested in this case, this appears on its face as a reasonable request. Therefore, the emergency injunction prohibiting the Ministry of Justice from arresting the Plaintiff for this charge is hereby granted.
+
+The Ministry of Justice may not detain or arrest the Plaintiff, Sagg Wizard, on the charge of Bank Robbery that was initially levied on March 18, 2026. In line with court procedure, the Ministry is hereby enjoined from committing such action for the duration of this case unless otherwise directed by the Court. This order is issued for Sagg Wizard v. Ministry of Justice (2026) CV 18 in the District Court.
+
+Such emergency injunction does not apply to future charges levied against the Plaintiff for the charge of Bank Robbery. Should Mr. Wizard be accused of robbing the bank on another occasion separate from this charge on March 18, this order does not protect them. This is offered as clarity to ensure that both the Ministry and the Plaintiff understand their roles and responsibilities.
+
+Signed,
+Hon. Chief Justice Raymond West
+
+### Mar 29, 2026
+Author: Westray
+Date: 2026-03-29T12:56:12-0400
+Page: 1
+Post Link: https://cityrp.org/threads/sagg-wizard-v-ministry-of-justice-2026-cv-18.3280/post-6065
+Type: Unclassified
+
+@Sparkimon @RandomIntruder, seeing as more than 48 hours have elapsed since the deadline has been provided, the Ministry of Justice is required to provide a satisfactory explanation for its lack of response.
+
+You have 24 hours, from this post, to submit a response to the complaint, along with a justification for failing to meet the Court's deadlines. Failure to do so may result in default judgement.
+
+### Mar 29, 2026
+Author: Sparkimon
+Date: 2026-03-29T16:17:28-0400
+Page: 1
+Post Link: https://cityrp.org/threads/sagg-wizard-v-ministry-of-justice-2026-cv-18.3280/post-6069
+Type: Unclassified
+
+Your Honour, we were not yet asked to respond to the initial complaint. We did not want to speak out of turn as to not receive any penalty. We will be submitting our response to the complaint shortly.
+
+### Mar 29, 2026
+Author: Westray
+Date: 2026-03-29T19:09:09-0400
+Page: 1
+Post Link: https://cityrp.org/threads/sagg-wizard-v-ministry-of-justice-2026-cv-18.3280/post-6070
+Type: Unclassified
+
+Sparkimon said:
+Your Honour, we were not yet asked to respond to the initial complaint. We did not want to speak out of turn as to not receive any penalty. We will be submitting our response to the complaint shortly.
+
+The Defendant was informed on March 25 through #government-announcements on discord and through the summons (the third post on this thread) to file an answer to the complaint within 48 hours. This is standard as established in countless other cases that the Ministry of Justice has handled. Nonetheless, given there is multiple new lawyers who appear to be on this case, I can offer the benefit of the doubt that perhaps some confusion emerged. Moving forward, do not misconstrue such latitude as if it is unlimited.
+
+Please provide your answer to complaint as soon as possible within the new 24-hour deadline that was set out earlier today.
+
+### Mar 30, 2026
+Author: xXLordLyonXx
+Date: 2026-03-30T01:57:41-0400
+Page: 1
+Post Link: https://cityrp.org/threads/sagg-wizard-v-ministry-of-justice-2026-cv-18.3280/post-6082
+Type: Unclassified
+Images:
+- https://cityrp.org/data/attachments/0/597-ec909d65a4793bcd9caf298a041874da.jpg?hash=kTfpW8fr6A (1774849348232.png)
+- https://cityrp.org/data/attachments/0/598-d0b1b72912b1d54823caa1b9665b62a5.jpg?hash=v9Zkv2f1gV (1774849452541.png)
+- https://cityrp.org/data/attachments/0/599-6a8e0414ea5c36638c889c3a27e0a0e6.jpg?hash=hG6N3L0ppY (1774849510515.png)
+- https://cityrp.org/data/attachments/0/600-bff815de8dbf48a5ff1c8c912006c0f0.jpg?hash=k1SW6Emlk_ (1774849671211.png)
+- https://cityrp.org/data/attachments/0/601-d04347746da9a8b5628cccbe35fdeb50.jpg?hash=R63nWH3GX9 (1774849828267.png)
+
+Respectfully, Your Honor, you seem to have mixed up your caseload, as no deadline was given in this thread.
+
+Your first message in this trial, attached below, was the initial summons request, where the Ministry is required to appear before the court to indicate our presence.
+
+Your second message, responding to your own summons, was an opportunity for the Ministry of Justice to respond to the emergency injunction, attached below. This is not a request for an answer to the complaint.
+
+The Ministry of Justice declined to contest the emergency injunction within the 24 hour period, so Your Honor's third message in this channel was ruling in favor of the requested injunction, attached below. Your Honor did not ask for an answer to the complaint at any time, and it is Your Honor who has set the prior precedent that responding to the court out of turn, even when attempting to increase judicial economy, can be grounds for contempt.
+
+Now, Your Honor's fourth message in this channel is accusing the Defendant of failing to respond. Your Honor has failed to set any deadline for an answer to the complaint - you set a deadline for the emergency injunction, which does not require the Ministry's response and has been resolved. However, you are instead here requesting a response to the complaint, and a justification for failing to respond before, in a 24 hour time period. Your Honor never even gave the Defendant their first 48 hour period to answer the complaint, and yet the Defendant asked to justify failing to meet a deadline they were not given.
+
+Your Honor's final message in this channel states that it was the Discord announcement that gave the answer to the complaint order, and the message in this thread. Your Honor claims this is consistent with the precedent of past cases.
+
+Respectfully, Your Honor, you have not followed normal court procedure or your own precedent in the initial handling of this case. Every Discord summons Your Honor posts requests an answer to the complaint within 48 hours, but Your Honor's conduct in the threads of every case up to this point has been contrary. Your Honor's writ of summons in the trial thread (where the official judicial business is conducted) never mentions this, and Your Honor has always separately allotted a new deadline of 48 hours after presence is indicated. Your Honor did this in Anthony Org v. Azalea Isles CV 17, Anthony Org v. Azalea Isles CV 12, and Ren Kuronoscucinder's first case in Your Honor's court, Kimijungun Kapteijn v. Ministry of Justice (2026) CV 11. If Your Honor needs additional case precedent, I am happy to provide it. The confusion generated here is due to Your Honor's departure from court norms and precedent, which has always granted a separate 48 hour timeline for responding to a complaint. No announcement of a change in court policy was provided, either.
+
+Therefore, I am respectfully requesting this court return to following court precedent and processes, as Your Honor has previously enforced, and the Ministry of Justice be given a proper 48 hour timeline to submit our answer to the complaint.
+
+### Mar 30, 2026
+Author: Westray
+Date: 2026-03-30T10:22:46-0400
+Page: 1
+Post Link: https://cityrp.org/threads/sagg-wizard-v-ministry-of-justice-2026-cv-18.3280/post-6085
+Type: Unclassified
+
+Thank you, Mr. Lysander, for your remarks on this case. The Defendant has listed Ren Kuronoscucinder, Helena Adler, and Random Intruder as co-counsel to handle this case. To my knowledge at this time, the Defendant has not listed you as co-counsel on this matter. These types of commentaries are also not appropriate for a court thread, and should be raised as an objection. If there is an issue with procedure, an objection by counsel on-file is the formal route. Failure to abide by this decorum or for non-parties to comment on this case may result in penalties like contempt of court.
+
+With respect to the procedural concerns raised, the Court maintains that the writ of summons provided sufficient notice that a response in some manner (such as a response to the complaint or a motion to dismiss as typical) was required within 48 hours. However, I also acknowledge that in prior cases like Kimijungun Kapteijn v. Ministry of Justice (2026) CV 11, it has at times issued a separate deadline within the trial thread following an appearance by the Defendant. To the extent that this may have created confusion, the Court will exercise its discretion to ensure clarity and fairness. Moving forward, this message will also be updated to ensure it is abundantly clear.
+
+Accordingly, the Defendant is granted an additional 24 hours to file its answer to the complaint. The Court expects full compliance with all deadlines moving forward. Any requests for extensions should be made in a timely and appropriate manner. Please avoid theatrics moving forward - if the Defendant has an objection or needs more time, there is procedure for this.
+
+### Mar 31, 2026
+Author: DK3458
+Date: 2026-03-31T05:44:18-0400
+Page: 1
+Post Link: https://cityrp.org/threads/sagg-wizard-v-ministry-of-justice-2026-cv-18.3280/post-6089
+Type: Unclassified
+
+Your Honour,
+
+I regret to inform that Ren Kuronoscucinder resigned from all his positions in the Ministry of Justice and took a Leave of Absence until June.
+
+### Mar 31, 2026
+Author: RandomIntruder
+Date: 2026-03-31T10:21:08-0400
+Page: 1
+Post Link: https://cityrp.org/threads/sagg-wizard-v-ministry-of-justice-2026-cv-18.3280/post-6090
+Type: Unclassified
+
+Answer to Complaint:
+
+Parties:
+Plaintiff: Sagg Wizard (IGN: "Saggwizard13")
+Defendant: Ministry of Justice
+
+Factual Claims
+The defendant AGREES with the factual claims 1-6.
+
+The defendant DISAGREES with the factual claims 7-9. We agree that the trial was denied, but whether that was unconstitutional is to be determined by the court, not the Plaintiff.
+
+Legal Claims:
+1. The law in question here, the New Criminal Code, specifically states “‘Misdemeanor’ shall be defined, for all intents and purposes, as a crime that may be ruled on by police with evidence provided by police plugin tools or simple context.” This specifically states the police may rule on these crimes, allowing the police to serve as a judge in these specific lower crimes in order to prevent crowding the courts.
+2. The Plaintiff agrees with the above claim even, stating “While this section does provide those charged with the procedural steps to contest their charge, it does give the Executive the authority to deny access to statutory adjudicative procedures. Such a clause would clearly be unconstitutional, per the first legal claim.”
+3. Therefore, to the letter of the law, there is no wrongdoing in the part of the Ministry of Justice. If the purpose is to find the law unconstitutional, the Plaintiff should refile the case against the Isles as a whole instead of the MOJ.
+4. The government has evidence that the MOJ minister had determined as guilty beyond a reasonable doubt. This evidence was presented to the Plaintiff. While it may have been poor communication to insist on proving innocence, the purpose was to give the Plaintiff a chance to present evidence contrary to the evidence provided by the MOJ that could explain the evidence in any other way than what was clear to the MOJ minister as guilty beyond a reasonable doubt.
+5. The precedents that were listed were working under a different criminal code that did not give the MOJ Minister any ruling power.
+
+I, RandomIntruder, hereby affirm that the allegations in the complaint AND all subsequent statements made in court are true and correct to the best of the plaintiff's knowledge, information, and belief and that any falsehoods may bring the penalty of perjury.
+
+### Mar 31, 2026
+Author: Westray
+Date: 2026-03-31T13:17:59-0400
+Page: 1
+Post Link: https://cityrp.org/threads/sagg-wizard-v-ministry-of-justice-2026-cv-18.3280/post-6091
+Type: Unclassified
+
+Thank you for the answer to the complaint.
+
+The Plaintiff now has 48 hours to present an opening statement. @Aero
+
+I would also like to briefly offer a friendly reminder to Plaintiff's counsel that they are required as a witness in another case, and the Court is waiting for them to indicate their presence.
+
+### Mar 31, 2026
+Author: Aero
+Date: 2026-03-31T14:21:26-0400
+Page: 1
+Post Link: https://cityrp.org/threads/sagg-wizard-v-ministry-of-justice-2026-cv-18.3280/post-6093
+Type: Unclassified
+
+MOTION TO AMEND
+
+My apologies your honour. The Defendant has pointed out an error in our second legal claim. We would like to correct the error in our claim as follows:
+
+While this section does provide those charged with the procedural steps to contest their charge, it does not give the Executive the authority to deny access to statutory adjudicative procedures. Such a clause would clearly be unconstitutional, per the first legal claim.”
+
+### Mar 31, 2026
+Author: Aero
+Date: 2026-03-31T14:25:11-0400
+Page: 1
+Post Link: https://cityrp.org/threads/sagg-wizard-v-ministry-of-justice-2026-cv-18.3280/post-6094
+Type: Unclassified
+
+MOTION FOR EXTENSION
+
+Your honour, I humbly request a 24 hour extension to the deadline set by the Court.
+
+I’m currently travelling for IRL responsibilities.
+
+### Apr 1, 2026
+Author: Westray
+Date: 2026-04-01T02:07:55-0400
+Page: 1
+Post Link: https://cityrp.org/threads/sagg-wizard-v-ministry-of-justice-2026-cv-18.3280/post-6097
+Type: Unclassified
+
+Aero said:
+MOTION TO AMEND
+
+My apologies your honour. The Defendant has pointed out an error in our second legal claim. We would like to correct the error in our claim as follows:
+This motion to amend has been made early on in the case and seeks to address a brief error. Therefore, this motion to amend is accepted.
+
+Aero said:
+MOTION FOR EXTENSION
+
+Your honour, I humbly request a 24 hour extension to the deadline set by the Court.
+
+I’m currently travelling for IRL responsibilities.
+This request for a 24-hour extension due to travelling is accepted. Enjoy your travels to Mosen.
+
+### Apr 3, 2026
+Author: Aero
+Date: 2026-04-03T11:22:34-0400
+Page: 1
+Post Link: https://cityrp.org/threads/sagg-wizard-v-ministry-of-justice-2026-cv-18.3280/post-6100
+Type: Unclassified
+
+IN THE DISTRICT COURT OF THE AZALEA ISLES
+
+OPENING STATEMENT
+
+Your Honour,
+
+The question presented is straightforward: did Parliament, through the New Criminal Code Act, vest the Ministry of Justice with exclusive, final authority to determine guilt in misdemeanor cases? It did not.
+
+First, the statutory text and scheme do not effectuate such a transfer of core adjudicative power. Section 3(l) defines “Misdemeanor” as a crime “that may be ruled on by police with evidence provided by police plugin tools or simple context,” and Section 12 provides that “Misdemeanors can be contested in a Ministry of Justice ticket” while “Felonies must be indicted in a court of law.” Nowhere does the Act say the Ministry shall have sole, exclusive, or final authority to determine guilt, nor does it provide language divesting courts of their adjudicative function. Where a statute intends to displace the judiciary’s fundamental role, Parliament does so in unmistakable terms; the New Criminal Code Act contains none.
+
+Second, long‑standing principles of statutory interpretation and the preservation of judicial functions compel the Plaintiff’s reading. Major reallocations of adjudicative authority, particularly those that result in executive conviction power, require clear and explicit textual authorization. Ambiguous or permissive language that allows police or Ministry processing cannot reasonably be read to accomplish the momentous change of converting the Executive into the exclusive finder of criminal guilt.
+
+Third, the Constitution of Azalea Isles and the Guiding Principles of Azalean law guard judicial independence, due process, impartial adjudication, and the rule of law. Those foundational provisions preserve courts as the proper fora for determining criminal guilt and securing procedural protections: neutral decisionmakers, adversarial testing of evidence, burdens and standards of proof, the right to counsel, and appellate review. Reading the Act to permit exclusive Ministry guilt‑finding would concentrate legislative, executive, and adjudicative authority in one branch and would subvert the institutional checks on power that the Constitution and Guiding Principles are designed to protect.
+
+Fourth, the Act contains no comprehensive administrative adjudication framework that would be constitutionally necessary to uphold exclusive executive guilt‑finding. A law that supplants judicial adjudication must itself establish procedural safeguards equivalent to those guaranteed by fair criminal process: clear standards of proof, notice and hearing procedures, meaningful rights to counsel, internal review mechanisms, and judicial review. The New Criminal Code Act supplies none of these. Instead it intermingles substantive offense definitions and penalties with brief administrative directives, an arrangement that supports administrative charging and contestable ticketing, not final executive conviction without judicial oversight.
+
+Fifth, basic rights‑protecting canons and doctrines compel the Court to construe the Act so as to preserve judicial adjudication. Nondelegation and major‑questions considerations counsel against inferring an implicit grant of exclusive guilt‑determining power to the Executive. The rule of lenity and the presumption that criminal laws are to be interpreted in ways that protect defendants further support construing Section 3(l) and Section 12 as authorizing administrative processing subject to contestation and judicial review, not as authorizing final, unreviewable convictions by the Ministry.
+
+Sixth, practical consequences reinforce the constitutional and textual analysis. Exclusive Ministry guilt determinations would permit convictions without consistent evidentiary norms, impartial decisionmakers, or meaningful appellate remedies, yielding arbitrary and potentially politicized outcomes. Parliament is not to be presumed to have authorized such a radical restructuring of criminal adjudication implicitly or by vague definitional language.
+
+Accordingly, the relief sought by the Plaintiff is straightforward and necessary to preserve constitutional order: a declaration that Section 3(l) and Section 12 of the New Criminal Code Act do not vest the Ministry of Justice with exclusive, final authority to determine guilt for misdemeanor offenses; and an injunction preventing the Ministry from treating its misdemeanor tickets as final and binding determinations of guilt absent access to judicial process and the procedural safeguards required by the Constitution and the Guiding Principles.
+
+For these reasons, the Plaintiff requests that the Court declare the Ministry’s purported exclusive guilt‑finding authority invalid and that the Court confirm that misdemeanors remain subject to contestation and judicial adjudication consistent with constitutional protections and the Guiding Principles of Azalean law.
+
+### Apr 6, 2026
+Author: Westray
+Date: 2026-04-06T16:27:27-0400
+Page: 2
+Post Link: https://cityrp.org/threads/sagg-wizard-v-ministry-of-justice-2026-cv-18.3280/post-6106
+Type: Unclassified
+
+Thank you for your opening statement.
+
+The Defendant, the Ministry of Justice, has 48 hours to present their opening statement.
+
+### Apr 7, 2026
+Author: RandomIntruder
+Date: 2026-04-07T10:10:39-0400
+Page: 2
+Post Link: https://cityrp.org/threads/sagg-wizard-v-ministry-of-justice-2026-cv-18.3280/post-6112
+Type: Unclassified
+
+Opening Statement
+
+Your honour,
+
+The Plaintiff claims they have been denied access to statutory adjudicative procedures. We argue not.
+
+The central question in this case is straightforward: in matters involving minor offences, is the Ministry of Justice always required to initiate judicial proceedings and proceed to trial simply because the accused disagrees with the evidence presented?
+
+We submit that it is not. Judicial review is available to the accused; the burden to initiate it lies, however, with the accused, not the Ministry.
+
+The Ministry of Justice has expressly been given the statutory authority to impose punishment without judicial proceedings for low-level crime.
+
+In fact, the very definition of a misdemeanour is that it is ruled on by the police.* "(l) “Misdemeanor” shall be defined, for all intents and purposes, as a crime that may be ruled on by police with evidence provided by police plugin tools or simple context." *https://cityrp.org/threads/new-criminal-code-act.3223/#post-6080
+
+Furthermore, the New Criminal Code Act also states under enforcement and prosecution procedures:
+"(a) Misdemeanors can be contested in a Ministry of Justice ticket. Upon arrest, Ministry of Justice officers must inform the suspect that they can contest the charges alleged against them and ask if the suspect wishes to contest their charges.
+(b) Felonies must be indicted in a court of law."
+
+The New Criminal Code clearly gives the police and the Ministry of Justice the authority to rule on misdemeanours.
+
+Therefore, the plaintiff's argument that the police cannot rule on misdemeanours and must go to trial simply because the accused asks should be dismissed.
+
+Does this mean that the judiciary has no authority to review the charges and order a trial if necessary? No.
+
+The MOJ does not prevent the plaintiff to appeal such decisions in court. The plaintiff could have chosen this route instead. However, they have not done this. Instead, their strategy was to attack the authority of the Ministry of Justice, expressly granted by the New Criminal Code.
+
+Essentially, the plaintiff is asking this (District) Court not to resolve a dispute on the merits of the evidence against the plaintiff but to fundamentally rewrite how minor offences are handled within our legal system.
+
+This administrative approach to misdemeanours is not new. It existed prior to the Constitution in the old criminal code and has since been reflected in statutory law, including the New Criminal Code.
+
+The plaintiff argues that the Constitution somehow abolished a long-standing and widely accepted practice. That is a significant claim, and one that should be supported with more substantive reasoning.
+
+However, the Plaintiff has not pointed to any provision in the Constitution that establishes such a requirement. There is no explicit right to a full judicial trial for every minor offence, nor any language suggesting that administrative handling of misdemeanours is prohibited.
+
+In the absence of such language, this Court should maintain the status quo that has existed before the constitution and rule in favour of the defendant.
+
+### Apr 8, 2026
+Author: Aero
+Date: 2026-04-08T11:07:12-0400
+Page: 2
+Post Link: https://cityrp.org/threads/sagg-wizard-v-ministry-of-justice-2026-cv-18.3280/post-6117
+Type: Unclassified
+
+MOTION FOR EXPEDITED TRIAL
+
+Plaintiff respectfully requests an expedited trial in this matter.
+
+### Apr 9, 2026
+Author: Westray
+Date: 2026-04-09T20:22:27-0400
+Page: 2
+Post Link: https://cityrp.org/threads/sagg-wizard-v-ministry-of-justice-2026-cv-18.3280/post-6120
+Type: Unclassified
+
+Aero said:
+MOTION FOR EXPEDITED TRIAL
+
+Plaintiff respectfully requests an expedited trial in this matter.
+
+The Defendant is asked to respond to the Plaintiff's request for an expedited trial, indicating if they agree or if they disagree and why.
+
+The Court will set a typical deadline of 48 hours for this response.
+
+### Apr 11, 2026
+Author: MilkCrack
+Date: 2026-04-11T00:06:38-0400
+Page: 2
+Post Link: https://cityrp.org/threads/sagg-wizard-v-ministry-of-justice-2026-cv-18.3280/post-6137
+Type: Unclassified
+
+Your Honor,
+
+We respectfully oppose the motion because we would prefer the opportunity to present our closing statements.
+
+### Apr 11, 2026
+Author: Westray
+Date: 2026-04-11T11:43:20-0400
+Page: 2
+Post Link: https://cityrp.org/threads/sagg-wizard-v-ministry-of-justice-2026-cv-18.3280/post-6141
+Type: Unclassified
+
+Alright, since there is not concurrence from both parties on an expedited trial, the motion is redundant. We will move forward with standard proceedings.
+
+Both parties have 48 hours to provide a list of witnesses they wish to call, or to indicate to the Court that they would like to move forward without calling any witnesses.
+
+### Apr 12, 2026
+Author: Aero
+Date: 2026-04-12T13:20:35-0400
+Page: 2
+Post Link: https://cityrp.org/threads/sagg-wizard-v-ministry-of-justice-2026-cv-18.3280/post-6146
+Type: Unclassified
+
+Plaintiff does not wish to call any witnesses.
+
+### Apr 12, 2026
+Author: MilkCrack
+Date: 2026-04-12T23:27:04-0400
+Page: 2
+Post Link: https://cityrp.org/threads/sagg-wizard-v-ministry-of-justice-2026-cv-18.3280/post-6177
+Type: Unclassified
+
+The state does not wish to call any witnesses either.
+
+### Apr 13, 2026
+Author: Westray
+Date: 2026-04-13T12:11:21-0400
+Page: 2
+Post Link: https://cityrp.org/threads/sagg-wizard-v-ministry-of-justice-2026-cv-18.3280/post-6184
+Type: Unclassified
+
+Alright. The Plaintiff has 48 hours to present a closing statement.
+
+@Aero
+
+### Apr 14, 2026
+Author: Aero
+Date: 2026-04-14T12:56:54-0400
+Page: 2
+Post Link: https://cityrp.org/threads/sagg-wizard-v-ministry-of-justice-2026-cv-18.3280/post-6197
+Type: Unclassified
+
+Closing Statement
+
+Your Honour,
+
+This case asks whether Parliament, through the New Criminal Code Act, conferred on the Ministry of Justice the exclusive, final authority to determine guilt in misdemeanor cases. It did not. For the reasons that follow - text, statutory structure, constitutional command, the Guiding Principles of Azalean law, procedural absence, and commonsense justice - the Court should reject the Ministry’s claim and confirm that misdemeanor guilt determinations remain subject to adjudication and judicial oversight.
+
+I. Text and Ordinary Meaning Do Not Vest Exclusive Guilt‑Finding Power in the Ministry
+Section 3(l) defines “Misdemeanor” as a crime “that may be ruled on by police with evidence provided by police plugin tools or simple context,” and Section 12 provides that “Misdemeanors can be contested in a Ministry of Justice ticket” while “Felonies must be indicted in a court of law.” Read in context, this is a permissive description of administrative processing routes and a summary ticketing mechanism, not a clear grant of irrevocable guilt‑finding authority to the Executive. Nowhere does the Act use unmistakable, mandatory language that divests courts of their adjudicative function. Statutory interpretation requires construing ambiguous provisions in favor of preserving judicial competence, especially where liberty and criminal guilt are at stake.
+
+II. The Statutory Scheme Preserves Contestation and Review, Not Final Executive Convictions
+The Act’s architecture contrasts administrative processing for misdemeanors with judicial indictment for felonies. That design denotes two procedural tracks, administrative ticketing and court indictment, not a single track that converts tickets into final, unreviewable convictions. The phrase “can be contested” implies a right to challenge and a procedural path for contestation. Crucially, Section 12 contemplates continued court involvement: where a citizen contests a Ministry ticket, it is for the Ministry of Justice to file formal criminal charges in court if it seeks a judicial determination - i.e., the administrative ticketing mechanism is not a substitute for court process when contestation occurs, but a trigger for court prosecution if the Ministry elects to proceed. This allocation preserves judicial adjudication as the ultimate forum for contested guilt findings.
+
+III. The Constitution and the Guiding Principles Foreclose an Exclusive Executive Role in Guilt Determination
+The Constitution of Azalea Isles and the Guiding Principles emphasize judicial independence, impartial adjudication, due process, and the rule of law. Those foundational commitments locate the function of determining criminal guilt within impartial tribunals and protect procedural safeguards that the administration cannot abridge by fiat. Allowing the Executive to be the exclusive finder of guilt would concentrate executive, and adjudicative authority in one organ and would subvert the institutional checks the Constitution and Guiding Principles are designed to protect. Ambiguous statutory language cannot be read to override these constitutional protections.
+
+IV. The Act Lacks the Procedural Safeguards Required to Support Executive Convictions
+If Parliament intended final administrative convictions for misdemeanors, it would have supplied a comprehensive administrative adjudicatory framework; standards of proof, notice and hearing rights, meaningful access to counsel, internal review or appeals, and express limits on executive coercion—together with explicit judicial‑review routes. The New Criminal Code Act supplies none of these. Section 12’s ticketing and Section 3(l)’s definitional language do not constitute the robust procedural architecture necessary to justify depriving defendants of judicial process. The only constitutionally coherent reading is that summary ticketing is an initial administrative step; when a citizen contests, prosecutorial action in court is the mechanism by which guilt is finally determined.
+
+V. Separation‑of‑Functions, Nondelegation, and Major‑Questions Principles Counsel Against the Ministry’s Reading
+This case implicates a major reallocation of adjudicative power. Nondelegation and major‑questions doctrines, grounded in separation‑of‑functions and the rule of law, require clear, express legislative authorization before permitting executive organs to exercise powers traditionally reserved to courts. The Ministry’s reading would allow executive convictions without trial, impartial adjudicators, or meaningful appeals. Absent explicit statutory language and procedural safeguards, the Court should refuse to infer such a sweeping delegation.
+
+VI. Protecting Individual Rights Requires Judicial Adjudication of Guilt
+Criminal guilt carries stigma and potential loss of liberty and property. Fundamental rights flow from how guilt is determined: impartial adjudicators, adversarial testing of evidence, consistent legal standards, and meaningful appellate remedies. The Act’s design, short statute of limitations, informal ticketing, and broad definitional shortcuts, cannot be squared with protection of individual rights unless administrative determinations remain subject to judicial scrutiny. The statutory scheme itself assigns the Ministry the role of prosecutorial decisionmaker: if a citizen contests a misdemeanor ticket, it is for the Ministry to file criminal charges in court to seek a judicial resolution. That prosecutorial responsibility underscores that final guilt‑finding belongs to the courts.
+
+VII. Practical Consequences Confirm the Court Should Reject an Exclusive Executive Model
+Permitting the Ministry to make final guilt determinations would enable inconsistent standards, arbitrary penalties, and politically motivated enforcement. It would create two systems of punishment, one with full procedural safeguards for felonies and another with informal, potentially summary executive convictions for misdemeanors, undermining equality before the law. Parliament is not presumed to have effected such a bifurcation implicitly or by vague definitional wording.
+
+VIII. Response to the Defendant’s Core Arguments
+The defendant relies on administrative practice, historical habit, and permissive statutory language to justify exclusive Ministry authority. Prior administrative practice cannot override the Constitution or displace the judiciary absent clear statutory direction. The Act’s permissive and contestable language, read in statutory and constitutional context, demonstrates that administrative ticketing is an alternative charging and summary disposition mechanism, subject to challenge, not a final, unreviewable transfer of guilt‑finding power. And the Act itself assigns prosecutorial responsibility to the Ministry to file charges in court when a citizen contests, reinforcing that contested guilt belongs in judicial hands.
+
+IX. Remedy
+The Plaintiff respectfully requests the Court to:
+
+Declare that the New Criminal Code Act, including Sections 3(l) and 12, does not vest the Ministry of Justice with exclusive, final authority to determine guilt in misdemeanor cases; and
+Enjoin the Ministry from treating its misdemeanor tickets as final, binding determinations of guilt absent access to judicial process and the procedural safeguards guaranteed by the Constitution and the Guiding Principles; and
+Confirm that, where a citizen contests a misdemeanor ticket, it is the Ministry of Justice’s responsibility to file criminal charges in court if it seeks a judicial determination of guilt.
+
+The proper construction of the New Criminal Code Act, consistent with its text, its structure, the Constitution, and the Guiding Principles, preserves the judiciary’s central role in determining criminal guilt. Ambiguous statutory wording, cannot be read to strip defendants of the protections of impartial adjudication and judicial review. For these reasons, the Court should rule for the Plaintiff.
+
+### Apr 15, 2026
+Author: Westray
+Date: 2026-04-15T16:13:18-0400
+Page: 2
+Post Link: https://cityrp.org/threads/sagg-wizard-v-ministry-of-justice-2026-cv-18.3280/post-6207
+Type: Unclassified
+
+Thank you for your closing statement.
+
+The Defendant has 48 hours to present a closing statement.
+
+### Apr 17, 2026
+Author: MilkCrack
+Date: 2026-04-17T16:13:08-0400
+Page: 2
+Post Link: https://cityrp.org/threads/sagg-wizard-v-ministry-of-justice-2026-cv-18.3280/post-6217
+Type: Unclassified
+
+Closing Statement
+
+Your Honour,
+
+The plaintiff once again fails to engage with the real issue of this case. They are painting a false picture of the facts. In no way, shape, or form have they been denied due process or the right to seek judicial review.
+The facts clearly demonstrate this.
+
+After being charged, the Plaintiff requested access to the evidence. The Ministry of Justice promptly provided that evidence in full. The Plaintiff then disagreed with the Ministry’s determination and expressed a desire to have the matter adjudicated by a court.
+
+This was expressly acknowledged by the Minister of Justice, who stated:
+“We shall let a judge decide.” Exhibit p-004
+
+The plaintiff’s framing, that the Ministry of Justice seeks to prevent judicial review, is therefore directly contradicted by their own evidence.
+
+The only dispute before this Court is a narrow procedural disagreement:
+(1) The Plaintiff asserts that it is the Ministry’s responsibility to initiate judicial proceedings;
+(2) The Ministry maintains that it is for the Plaintiff to petition the Court if they wish to challenge the determination.
+
+First, the Ministry’s position is firmly grounded in longstanding legal practice. One of the oldest pre-constitutional legal frameworks already recognises the authority of the Ministry of Justice to administratively handle low-level offences. The pre-constitutional Criminal Code explicitly states:
+“In any instance where an alleged crime’s punishment is less than the amount described in 4.1, Police may apply the punishment without a trial.”
+
+This provision clearly establishes that minor offences may be resolved administratively, without the automatic involvement of the judiciary.
+
+Furthermore, this practice is not merely historical; it is codified in current law. The New Criminal Code Act defines a misdemeanour as:
+“A crime that may be ruled on by police with evidence provided by police plugin tools or simple context.”
+
+The wording is unambiguous. It vests the authority to “rule on” misdemeanours in the police, that is, the Ministry of Justice.
+
+Similarly, just as the Ministry of Urban Development can enforce building regulations and the Ministry of Economic Affairs can impose fines for non-compliance, the Ministry of Justice can impose punishment for misdemeanours. And, as with those examples, if a person disagrees with the executive’s action, they may bring a case before the Court. However, the onus of initiating legal proceedings lies with the party contesting the decision, not the executive.
+
+This alleged right to be sued by the executive for misdemeanours is a complete fabrication. It is directly contrary to both the relevant statute and historical practice. Moreover, the plaintiff fails to cite any constitutional or statutory provision, despite repeatedly claiming that such provisions have been violated.
+
+Finally, the plaintiff briefly alleges in their complaint that “Minister Dogan Karaca wrongfully claims that those accused of a crime must prove their innocence.” It is unclear how this would give rise to damages, but we address it nonetheless.
+
+The plaintiff asks this Court to find that these statements violate a “constitutional presumption of innocence.” First, no specific constitutional provision is cited. Second, the presumption of innocence applies to criminal prosecutions not to the contesting of a determination that has already been made.
+
+The Ministry has already presented the evidence, reviewed it twice, and considered the plaintiff’s objections. In that context, the Minister’s statement that the plaintiff should present arguments and proof contradicting the evidence if they seek a different outcome is entirely reasonable.
+
+### Apr 25, 2026
+Author: Westray
+Date: 2026-04-25T17:14:56-0400
+Page: 2
+Post Link: https://cityrp.org/threads/sagg-wizard-v-ministry-of-justice-2026-cv-18.3280/post-6346
+Type: Unclassified
+
+Court Verdict
+Azalea Isles Court, Civil Case (CV)
+
+Case No. CV-26-18
+Sagg Wizard v. Ministry of Justice
+
+Position of the Plaintiff
+1. The Plaintiff, Sagg Wizard, alleges that the Defendant violated his constitutional rights by denying him access to a trial after he contested a misdemeanor charge of Bank Robbery in an MOJ ticket.
+2. The Plaintiff contends that the New Criminal Code Act does not grant the Ministry exclusive or final authority to determine guilt in misdemeanor cases, and that once a charge is contested, the matter must proceed to judicial adjudication.
+3. The Plaintiff argues that the Defendant improperly asserted that the burden of proof rested on the accused to prove innocence, in violation of the foundational principle that guilt must be established beyond a reasonable doubt by the state.
+4. The Plaintiff asserts that the actions undertaken by the Defendant constitute an unconstitutional overreach of executive authority and an improper usurpation of the Judiciary's role under in the Constitution.
+
+Position of the Defendant
+1. The Defendant, the Ministry of Justice, argues that the New Criminal Code Act expressly authorizes the Ministry to rule on misdemeanor offenses, and that such administrative handling has longstanding precedent.
+2. The Defendant contends that the Plaintiff was not denied access to judicial review, but rather that the Plaintiff neglected to file a complaint with the Court ecause after disagreeing with the Ministry's decision.
+3. The Defendant asserts that the statutory framework places no obligation on the Ministry to initiate judicial proceedings when a misdemeanor is contested, and that the burden lies with the accused to bring the matter before the Court.
+4. The Defendant maintains that any statements regarding the Plaintiff providing evidence to contradict the Ministry’s findings were part of an administrative review process and do not constitute a violation of criminal law principles.
+
+Court Opinion
+1. The Court first wishes to address the statutory framework established by the New Criminal Code Act. §3(l) provides that misdemeanors "may be ruled on by police," while §12(a) provides that such charges "can be contested in a Ministry of Justice ticket." The Court finds that this language permits administrative handling of minor offences like misdemeanors. This permission is also consistent with historical practice. To suggest that the Ministry must file dozens of court cases on a daily basis to address minor crimes is both an unreasonable expectation and a major administrative burden. This is why the New Criminal Code Act still stands to the scrutiny of a "reasonable limitation" specified in Article 1 of the Constitution. The limitation is reasonable because it is the only way the law can be adequately enforced to address the large volume of minor crimes.
+2. However, the Court rejects the interpretation that such administrative determinations by the Ministry of Justice constitute final findings of guilt insulated from judicial review. Claims from the Minister of Justice to suggest that an individual charged with a crime must provide "evidence of innocence" to be considered not guilty are completely unfounded, and not in the spirit of the law whatsoever. Regardless of reasonable limitations, the Constitution still guarantees protections including due process, protection against government overreach, and the right to fair adjudication in Article 1. These protections require that determinations of criminal guilt remain subject to independent judicial oversight when properly challenged.
+3. Putting aside the constitutional claims, the central issue before the Court is procedural: which party bears responsibility for initiating judicial review. On this point, the Court finds that the law does not impose an obligation on the Ministry of Justice to automatically bring every contested misdemeanor before the Court. This is also addressed in point #1 of the Court Opinion, which clarifies that imposing such responsibility on the Ministry would be an unreasonable expectation.
+4. The Court maintains that the burden of filing a formal case rests with the individual contesting a misdemeanor, rather than the Ministry. This strategy guarantees access to judicial review while maintaining administrative efficiency. If a case filed by the individual, the Ministry may then be expected to produce evidence of guilt to justify the punishment.
+5. Adding to this, to be clear, the Court is asserting one core fact: the burden of proof still remains at all times with the Ministry of Justice. The requirement that an individual punished with a misdemeanor initiate a challenge does not reverse or diminish the presumption of innocence, nor does it impose upon the defendant the obligation to prove their innocence. If a case is filed against the Ministry to contest a punishment, then the individual only has to prove that the Ministry made the punishment without sufficient evidence. There are caveats to this - such as if the individual filing a case against the Ministry does so months after being punished, as at such point it may be unreasonable to expect the Ministry to hold evidence for that long. But still, the overall idea remains the same.
+5. Regarding the accusation the the Ministry of Justice denied the Plaintiff's ability to a trial, the Court finds there is insufficient evidence of this. In Exhibit P-004, the Minister of Justice does state that the Plaintiff has the right to "bring it to court" if they wish. Where the problem emerges is when the Minister of Justice later states that the Plaintiff must provide "evidence of innocence" which is simply incorrect. Still, the Court finds that it would be insufficient to suggest that the Minister actively denied the Plaintiff the right to a trial - the filing of this case itself proves otherwise.
+
+Decision
+
+The Court hereby rules in favor of the Defendant in part, while adopting key constitutional limitations advanced by the Plaintiff. This includes that:
+
+1. Drawing on the New Criminal Code Act, the Court upholds the Ministry of Justice's authority to impose and enforce misdemeanor punishments through administrative procedures. Those who want to challenge such decisions must initiate a court case in a timely manner, as stated in the Court Opinion.
+2. While the punished individuals have the responsibility to file a court case, the Court clarifies that the New Criminal Code Act does not grant the Ministry of Justice exclusive or final authority to determine guilt in misdemeanor cases. Upon a valid challenge within a reasonable timeframe, the Ministry of Justice may be expected to present its evidence before the Court. The Ministry cannot serve as the "judge" who makes a final determination for misdemeanors.
+
+In this opinion, the Court's interpretation harmonizes the statutory text, preserves the functional role of administrative enforcement, and ensures that constitutional safeguards remain intact. It stays away from both potential extremes: an unconstrained administrative body with little judicial scrutiny and an overworked judiciary that must hear every contested offence. As an additional note, the case does not address whether or not Mr. Wizard was unjustly punished for the bank robbery offence, as such determination was not pursued in this case by the Plaintiff.
+
+This trial is hereby adjourned. The Court thanks both parties for their time.
+
+Signed,
+Hon. Chief Justice Raymond West
+
+
+## Outcome
+Pending.
+
+## Precedential Value
+Pending.
+
+## Lawyer Notes
+Pending.

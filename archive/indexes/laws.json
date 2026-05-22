@@ -1,0 +1,992 @@
+[
+  {
+    "title": "Impeachment Procedure Act",
+    "slug": "impeachment-procedure-act-3502",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/impeachment-procedure-act.3502/",
+    "scrapedAt": "2026-05-20T21:28:56.486Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Case Structure Formalization Act",
+    "slug": "case-structure-formalization-act-3501",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/case-structure-formalization-act.3501/",
+    "scrapedAt": "2026-05-20T21:28:58.062Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "New Criminal Code Act",
+    "slug": "new-criminal-code-act-3223",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/new-criminal-code-act.3223/",
+    "scrapedAt": "2026-05-20T21:28:59.782Z",
+    "postsCaptured": 12
+  },
+  {
+    "title": "Industrial Regulation Act",
+    "slug": "industrial-regulation-act-3353",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/industrial-regulation-act.3353/",
+    "scrapedAt": "2026-05-20T21:29:01.240Z",
+    "postsCaptured": 4
+  },
+  {
+    "title": "Autonomous Weapons Control Act",
+    "slug": "autonomous-weapons-control-act-3492",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/autonomous-weapons-control-act.3492/",
+    "scrapedAt": "2026-05-20T21:29:02.693Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Parliamentary Procedure Act",
+    "slug": "parliamentary-procedure-act-2046",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/parliamentary-procedure-act.2046/",
+    "scrapedAt": "2026-05-20T21:29:08.366Z",
+    "postsCaptured": 7
+  },
+  {
+    "title": "Electrify Azalea Act",
+    "slug": "electrify-azalea-act-3489",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/electrify-azalea-act.3489/",
+    "scrapedAt": "2026-05-20T21:29:11.366Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "National Oath Act",
+    "slug": "national-oath-act-3490",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/national-oath-act.3490/",
+    "scrapedAt": "2026-05-20T21:29:12.205Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Inheritance and Succession Act",
+    "slug": "inheritance-and-succession-act-2392",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/inheritance-and-succession-act.2392/",
+    "scrapedAt": "2026-05-20T21:29:14.205Z",
+    "postsCaptured": 3
+  },
+  {
+    "title": "Marriage Equality Act",
+    "slug": "marriage-equality-act-3491",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/marriage-equality-act.3491/",
+    "scrapedAt": "2026-05-20T21:29:15.031Z",
+    "postsCaptured": 2
+  },
+  {
+    "title": "Upstanding MPs Act",
+    "slug": "upstanding-mps-act-3268",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/upstanding-mps-act.3268/",
+    "scrapedAt": "2026-05-20T21:29:15.919Z",
+    "postsCaptured": 2
+  },
+  {
+    "title": "Adoption Act",
+    "slug": "adoption-act-3487",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/adoption-act.3487/",
+    "scrapedAt": "2026-05-20T21:29:16.802Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Judicial Compensation Act",
+    "slug": "judicial-compensation-act-3486",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/judicial-compensation-act.3486/",
+    "scrapedAt": "2026-05-20T21:29:17.618Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Historic Landmarks Act",
+    "slug": "historic-landmarks-act-3350",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/historic-landmarks-act.3350/",
+    "scrapedAt": "2026-05-20T21:29:18.448Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Business & Contracts Government Contracts Act 2.0",
+    "slug": "business-and-contracts-government-contracts-act-2-0-3275",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/government-contracts-act-2-0.3275/",
+    "scrapedAt": "2026-05-20T21:29:19.311Z",
+    "postsCaptured": 2
+  },
+  {
+    "title": "Treaties Act",
+    "slug": "treaties-act-3287",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/treaties-act.3287/",
+    "scrapedAt": "2026-05-20T21:29:20.117Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Active Parliament Act",
+    "slug": "active-parliament-act-2059",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/active-parliament-act.2059/",
+    "scrapedAt": "2026-05-20T21:29:21.254Z",
+    "postsCaptured": 3
+  },
+  {
+    "title": "Time Standardization Act",
+    "slug": "time-standardization-act-3284",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/time-standardization-act.3284/",
+    "scrapedAt": "2026-05-20T21:29:22.069Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Court Reformation Act",
+    "slug": "court-reformation-act-2057",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/court-reformation-act.2057/",
+    "scrapedAt": "2026-05-20T21:29:22.925Z",
+    "postsCaptured": 2
+  },
+  {
+    "title": "Government Reporting Act",
+    "slug": "government-reporting-act-2049",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/government-reporting-act.2049/",
+    "scrapedAt": "2026-05-20T21:29:23.751Z",
+    "postsCaptured": 2
+  },
+  {
+    "title": "Finance & Economy Financial Consumer Protection Act",
+    "slug": "finance-and-economy-financial-consumer-protection-act-2920",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/financial-consumer-protection-act.2920/",
+    "scrapedAt": "2026-05-20T21:29:24.596Z",
+    "postsCaptured": 3
+  },
+  {
+    "title": "Business & Contracts Gaming Regulation and Commission Act",
+    "slug": "business-and-contracts-gaming-regulation-and-commission-act-3274",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/gaming-regulation-and-commission-act.3274/",
+    "scrapedAt": "2026-05-20T21:29:25.483Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Government Internship Act",
+    "slug": "government-internship-act-3269",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/government-internship-act.3269/",
+    "scrapedAt": "2026-05-20T21:29:26.332Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Law & Justice Frisk & Bail Act",
+    "slug": "law-and-justice-frisk-and-bail-act-3262",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/frisk-bail-act.3262/",
+    "scrapedAt": "2026-05-20T21:29:27.132Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Prohibited Items Designation Act",
+    "slug": "prohibited-items-designation-act-3261",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/prohibited-items-designation-act.3261/",
+    "scrapedAt": "2026-05-20T21:29:27.964Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Police Brutality Act",
+    "slug": "police-brutality-act-2379",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/police-brutality-act.2379/",
+    "scrapedAt": "2026-05-20T21:29:28.871Z",
+    "postsCaptured": 2
+  },
+  {
+    "title": "Protect the People Act",
+    "slug": "protect-the-people-act-3263",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/protect-the-people-act.3263/",
+    "scrapedAt": "2026-05-20T21:29:29.742Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Government Application Response Act",
+    "slug": "government-application-response-act-3241",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/government-application-response-act.3241/",
+    "scrapedAt": "2026-05-20T21:29:30.556Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Freedom of Information Act",
+    "slug": "freedom-of-information-act-2054",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/freedom-of-information-act.2054/",
+    "scrapedAt": "2026-05-20T21:29:32.256Z",
+    "postsCaptured": 3
+  },
+  {
+    "title": "Parliamentary Vacancy Act",
+    "slug": "parliamentary-vacancy-act-3228",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/parliamentary-vacancy-act.3228/",
+    "scrapedAt": "2026-05-20T21:29:33.099Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Election Map Requirements Act",
+    "slug": "election-map-requirements-act-2404",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/election-map-requirements-act.2404/",
+    "scrapedAt": "2026-05-20T21:29:33.942Z",
+    "postsCaptured": 2
+  },
+  {
+    "title": "Business & Contracts Business Reform Act",
+    "slug": "business-and-contracts-business-reform-act-2407",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/business-reform-act.2407/",
+    "scrapedAt": "2026-05-20T21:29:34.904Z",
+    "postsCaptured": 3
+  },
+  {
+    "title": "Governing Structure Act",
+    "slug": "governing-structure-act-2073",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/governing-structure-act.2073/",
+    "scrapedAt": "2026-05-20T21:29:36.985Z",
+    "postsCaptured": 6
+  },
+  {
+    "title": "Finance & Economy Taxation Act",
+    "slug": "finance-and-economy-taxation-act-2394",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/taxation-act.2394/",
+    "scrapedAt": "2026-05-20T21:29:37.853Z",
+    "postsCaptured": 3
+  },
+  {
+    "title": "Press Release Channel Act",
+    "slug": "press-release-channel-act-3215",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/press-release-channel-act.3215/",
+    "scrapedAt": "2026-05-20T21:29:38.685Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Government Application Response Act",
+    "slug": "government-application-response-act-3212",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/government-application-response-act.3212/",
+    "scrapedAt": "2026-05-20T21:29:39.494Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Elder Guidance Act",
+    "slug": "elder-guidance-act-3189",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/elder-guidance-act.3189/",
+    "scrapedAt": "2026-05-20T21:29:40.341Z",
+    "postsCaptured": 2
+  },
+  {
+    "title": "Open Governance Act",
+    "slug": "open-governance-act-3137",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/open-governance-act.3137/",
+    "scrapedAt": "2026-05-20T21:29:41.149Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Sunset Act",
+    "slug": "sunset-act-3115",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/sunset-act.3115/",
+    "scrapedAt": "2026-05-20T21:29:41.983Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Finance & Economy Better Banking Act 2.0",
+    "slug": "finance-and-economy-better-banking-act-2-0-3062",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/better-banking-act-2-0.3062/",
+    "scrapedAt": "2026-05-20T21:29:42.837Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Finance & Economy Banking Foundations Act",
+    "slug": "finance-and-economy-banking-foundations-act-3061",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/banking-foundations-act.3061/",
+    "scrapedAt": "2026-05-20T21:29:43.710Z",
+    "postsCaptured": 2
+  },
+  {
+    "title": "Voter Registration Act",
+    "slug": "voter-registration-act-2378",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/voter-registration-act.2378/",
+    "scrapedAt": "2026-05-20T21:29:44.551Z",
+    "postsCaptured": 2
+  },
+  {
+    "title": "Diplomatic Procedures Act",
+    "slug": "diplomatic-procedures-act-3060",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/diplomatic-procedures-act.3060/",
+    "scrapedAt": "2026-05-20T21:29:45.378Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Free Travel Act",
+    "slug": "free-travel-act-3036",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/free-travel-act.3036/",
+    "scrapedAt": "2026-05-20T21:29:46.301Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Production on Plots Act",
+    "slug": "production-on-plots-act-3057",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/production-on-plots-act.3057/",
+    "scrapedAt": "2026-05-20T21:29:47.167Z",
+    "postsCaptured": 2
+  },
+  {
+    "title": "Finance & Economy Economic Integrity Act",
+    "slug": "finance-and-economy-economic-integrity-act-3018",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/economic-integrity-act.3018/",
+    "scrapedAt": "2026-05-20T21:29:47.970Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Northern Light Accountability Act",
+    "slug": "northern-light-accountability-act-3017",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/northern-light-accountability-act.3017/",
+    "scrapedAt": "2026-05-20T21:29:48.826Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Azalean Land Protection Act",
+    "slug": "azalean-land-protection-act-3016",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/azalean-land-protection-act.3016/",
+    "scrapedAt": "2026-05-20T21:29:49.916Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Finance & Economy Azalea Sourcing Act",
+    "slug": "finance-and-economy-azalea-sourcing-act-2879",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/azalea-sourcing-act.2879/",
+    "scrapedAt": "2026-05-20T21:29:50.869Z",
+    "postsCaptured": 2
+  },
+  {
+    "title": "National Anthem Act",
+    "slug": "national-anthem-act-3022",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/national-anthem-act.3022/",
+    "scrapedAt": "2026-05-20T21:29:52.019Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Business & Contracts Fair Competition Act",
+    "slug": "business-and-contracts-fair-competition-act-2999",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/fair-competition-act.2999/",
+    "scrapedAt": "2026-05-20T21:29:52.862Z",
+    "postsCaptured": 2
+  },
+  {
+    "title": "Tariff Act",
+    "slug": "tariff-act-2990",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/tariff-act.2990/",
+    "scrapedAt": "2026-05-20T21:29:53.689Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "The No Activity Nullification Initiative Act",
+    "slug": "the-no-activity-nullification-initiative-act-2991",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/the-no-activity-nullification-initiative-act.2991/",
+    "scrapedAt": "2026-05-20T21:29:54.499Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "The Police Reporting Act",
+    "slug": "the-police-reporting-act-2982",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/the-police-reporting-act.2982/",
+    "scrapedAt": "2026-05-20T21:29:55.329Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Purposeful Plots Act",
+    "slug": "purposeful-plots-act-2876",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/purposeful-plots-act.2876/",
+    "scrapedAt": "2026-05-20T21:29:56.186Z",
+    "postsCaptured": 2
+  },
+  {
+    "title": "Judicial Guidance Act",
+    "slug": "judicial-guidance-act-2933",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/judicial-guidance-act.2933/",
+    "scrapedAt": "2026-05-20T21:29:57.008Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Business & Contracts Azalean Worker's Rights Act",
+    "slug": "business-and-contracts-azalean-worker-s-rights-act-2932",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/azalean-workers-rights-act.2932/",
+    "scrapedAt": "2026-05-20T21:29:57.878Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Open Parliament Act",
+    "slug": "open-parliament-act-2389",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/open-parliament-act.2389/",
+    "scrapedAt": "2026-05-20T21:29:58.770Z",
+    "postsCaptured": 2
+  },
+  {
+    "title": "Business & Contracts Contract Establishment Act",
+    "slug": "business-and-contracts-contract-establishment-act-2043",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/contract-establishment-act.2043/",
+    "scrapedAt": "2026-05-20T21:29:59.900Z",
+    "postsCaptured": 2
+  },
+  {
+    "title": "Business & Contracts Open The Port Act",
+    "slug": "business-and-contracts-open-the-port-act-2048",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/open-the-port-act.2048/",
+    "scrapedAt": "2026-05-20T21:30:00.769Z",
+    "postsCaptured": 2
+  },
+  {
+    "title": "Mines Transportation Act",
+    "slug": "mines-transportation-act-2898",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/mines-transportation-act.2898/",
+    "scrapedAt": "2026-05-20T21:30:01.604Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Essential Tools for Citizens Act",
+    "slug": "essential-tools-for-citizens-act-2896",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/essential-tools-for-citizens-act.2896/",
+    "scrapedAt": "2026-05-20T21:30:02.556Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "The Burning Reduction Act",
+    "slug": "the-burning-reduction-act-2893",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/the-burning-reduction-act.2893/",
+    "scrapedAt": "2026-05-20T21:30:03.388Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Finance & Economy Financial Institution Establishment Act",
+    "slug": "finance-and-economy-financial-institution-establishment-act-2060",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/financial-institution-establishment-act.2060/",
+    "scrapedAt": "2026-05-20T21:30:04.269Z",
+    "postsCaptured": 3
+  },
+  {
+    "title": "Plot Exception Act",
+    "slug": "plot-exception-act-3195",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/plot-exception-act.3195/",
+    "scrapedAt": "2026-05-20T21:30:05.144Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Finance & Economy Financial Revisions Act",
+    "slug": "finance-and-economy-financial-revisions-act-2061",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/financial-revisions-act.2061/",
+    "scrapedAt": "2026-05-20T21:30:06.333Z",
+    "postsCaptured": 2
+  },
+  {
+    "title": "Public Sector Billboard Act",
+    "slug": "public-sector-billboard-act-2398",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/public-sector-billboard-act.2398/",
+    "scrapedAt": "2026-05-20T21:30:07.229Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Inactive Requisition Act",
+    "slug": "inactive-requisition-act-2386",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/inactive-requisition-act.2386/",
+    "scrapedAt": "2026-05-20T21:30:09.356Z",
+    "postsCaptured": 2
+  },
+  {
+    "title": "Plot Regulation Act",
+    "slug": "plot-regulation-act-3059",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/plot-regulation-act.3059/",
+    "scrapedAt": "2026-05-20T21:30:10.765Z",
+    "postsCaptured": 2
+  },
+  {
+    "title": "Death Act",
+    "slug": "death-act-2406",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/death-act.2406/",
+    "scrapedAt": "2026-05-20T21:30:12.757Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Azalean Defense Act",
+    "slug": "azalean-defense-act-2075",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/azalean-defense-act.2075/",
+    "scrapedAt": "2026-05-20T21:30:13.878Z",
+    "postsCaptured": 2
+  },
+  {
+    "title": "Business & Contracts Establish Copyright Protections Act",
+    "slug": "business-and-contracts-establish-copyright-protections-act-2076",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/establish-copyright-protections-act.2076/",
+    "scrapedAt": "2026-05-20T21:30:14.741Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Business & Contracts Seizure Act",
+    "slug": "business-and-contracts-seizure-act-2053",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/seizure-act.2053/",
+    "scrapedAt": "2026-05-20T21:30:15.653Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Finance & Economy Financial Preservation Act",
+    "slug": "finance-and-economy-financial-preservation-act-2052",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/financial-preservation-act.2052/",
+    "scrapedAt": "2026-05-20T21:30:16.562Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Parliamentary Leave of Absence Act",
+    "slug": "parliamentary-leave-of-absence-act-2058",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/parliamentary-leave-of-absence-act.2058/",
+    "scrapedAt": "2026-05-20T21:30:17.392Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Redundant Legislation Repeal Act",
+    "slug": "redundant-legislation-repeal-act-280",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/redundant-legislation-repeal-act.280/",
+    "scrapedAt": "2026-05-20T21:30:18.454Z",
+    "postsCaptured": 2
+  },
+  {
+    "title": "Continuity Act",
+    "slug": "continuity-act-2050",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/continuity-act.2050/",
+    "scrapedAt": "2026-05-20T21:30:19.601Z",
+    "postsCaptured": 2
+  },
+  {
+    "title": "International Research Act",
+    "slug": "international-research-act-2056",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/international-research-act.2056/",
+    "scrapedAt": "2026-05-20T21:30:20.436Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Proper Citizen Registration Act",
+    "slug": "proper-citizen-registration-act-2380",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/proper-citizen-registration-act.2380/",
+    "scrapedAt": "2026-05-20T21:30:21.278Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Legislative Clarity Act",
+    "slug": "legislative-clarity-act-2051",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/legislative-clarity-act.2051/",
+    "scrapedAt": "2026-05-20T21:30:22.131Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Repeal the \"Not Very Good\" Omnibus Bill",
+    "slug": "repeal-the-not-very-good-omnibus-bill-186",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/repeal-the-not-very-good-omnibus-bill.186/",
+    "scrapedAt": "2026-05-20T21:30:23.065Z",
+    "postsCaptured": 2
+  },
+  {
+    "title": "Representation in Government Act",
+    "slug": "representation-in-government-act-3021",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/representation-in-government-act.3021/",
+    "scrapedAt": "2026-05-20T21:30:24.031Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Business & Contracts Minimum Wage Act",
+    "slug": "business-and-contracts-minimum-wage-act-3020",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/minimum-wage-act.3020/",
+    "scrapedAt": "2026-05-20T21:30:24.859Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Damages Reform Act",
+    "slug": "damages-reform-act-2395",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/damages-reform-act.2395/",
+    "scrapedAt": "2026-05-20T21:30:25.676Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Civil Suit Reform Act",
+    "slug": "civil-suit-reform-act-2382",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/civil-suit-reform-act.2382/",
+    "scrapedAt": "2026-05-20T21:30:26.594Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Borough Zoning Act",
+    "slug": "borough-zoning-act-3029",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/borough-zoning-act.3029/",
+    "scrapedAt": "2026-05-20T21:30:27.400Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Court Orders Procedure Act",
+    "slug": "court-orders-procedure-act-2384",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/court-orders-procedure-act.2384/",
+    "scrapedAt": "2026-05-20T21:30:28.276Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Ministry Clarity Act",
+    "slug": "ministry-clarity-act-2385",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/ministry-clarity-act.2385/",
+    "scrapedAt": "2026-05-20T21:30:29.099Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Budget Act",
+    "slug": "budget-act-2403",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/budget-act.2403/",
+    "scrapedAt": "2026-05-20T21:30:29.935Z",
+    "postsCaptured": 2
+  },
+  {
+    "title": "Fire Escape Act",
+    "slug": "fire-escape-act-2388",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/fire-escape-act.2388/",
+    "scrapedAt": "2026-05-20T21:30:30.742Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Contempt of Parliament Act",
+    "slug": "contempt-of-parliament-act-2387",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/contempt-of-parliament-act.2387/",
+    "scrapedAt": "2026-05-20T21:30:31.556Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Criminal Code Reformation Act v. 2",
+    "slug": "criminal-code-reformation-act-v-2-3058",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/criminal-code-reformation-act-v-2.3058/",
+    "scrapedAt": "2026-05-20T21:30:32.387Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Repealed Legislation Act",
+    "slug": "repealed-legislation-act-3055",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/repealed-legislation-act.3055/",
+    "scrapedAt": "2026-05-20T21:30:33.294Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Judicial Appointment Standards Act",
+    "slug": "judicial-appointment-standards-act-2393",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/judicial-appointment-standards-act.2393/",
+    "scrapedAt": "2026-05-20T21:30:34.273Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Recall Act",
+    "slug": "recall-act-2063",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/recall-act.2063/",
+    "scrapedAt": "2026-05-20T21:30:35.568Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Mailbox Act",
+    "slug": "mailbox-act-2064",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/mailbox-act.2064/",
+    "scrapedAt": "2026-05-20T21:30:36.408Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "National Holiday Act",
+    "slug": "national-holiday-act-2391",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/national-holiday-act.2391/",
+    "scrapedAt": "2026-05-20T21:30:37.232Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "The Tavares Act",
+    "slug": "the-tavares-act-3023",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/the-tavares-act.3023/",
+    "scrapedAt": "2026-05-20T21:30:38.059Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Community Petitions Act",
+    "slug": "community-petitions-act-2047",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/community-petitions-act.2047/",
+    "scrapedAt": "2026-05-20T21:30:38.907Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Business & Contracts Gambling Governance Act",
+    "slug": "business-and-contracts-gambling-governance-act-120",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/gambling-governance-act.120/",
+    "scrapedAt": "2026-05-20T21:30:39.934Z",
+    "postsCaptured": 2
+  },
+  {
+    "title": "Driveway/Entrances Act",
+    "slug": "driveway-entrances-act-2072",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/driveway-entrances-act.2072/",
+    "scrapedAt": "2026-05-20T21:30:40.752Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Property Pricing and Creation Act",
+    "slug": "property-pricing-and-creation-act-2065",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/property-pricing-and-creation-act.2065/",
+    "scrapedAt": "2026-05-20T21:30:41.609Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Plots The Landlord's Rights and Regulations Act",
+    "slug": "plots-the-landlord-s-rights-and-regulations-act-2042",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/the-landlords-rights-and-regulations-act.2042/",
+    "scrapedAt": "2026-05-20T21:30:42.459Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Plot Regulation Act",
+    "slug": "plot-regulation-act-52",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/plot-regulation-act.52/",
+    "scrapedAt": "2026-05-20T21:30:43.570Z",
+    "postsCaptured": 2
+  },
+  {
+    "title": "Criminal Expungement Redo Act",
+    "slug": "criminal-expungement-redo-act-3056",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/criminal-expungement-redo-act.3056/",
+    "scrapedAt": "2026-05-20T21:30:44.447Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "The Criminal Expungement Redo Act",
+    "slug": "the-criminal-expungement-redo-act-55",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/the-criminal-expungement-redo-act.55/",
+    "scrapedAt": "2026-05-20T21:30:45.440Z",
+    "postsCaptured": 2
+  },
+  {
+    "title": "Immigrant Exploitation Act",
+    "slug": "immigrant-exploitation-act-2397",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/immigrant-exploitation-act.2397/",
+    "scrapedAt": "2026-05-20T21:30:46.359Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Protection of Tenants Act",
+    "slug": "protection-of-tenants-act-2041",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/protection-of-tenants-act.2041/",
+    "scrapedAt": "2026-05-20T21:30:47.187Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Anti-Slander Act",
+    "slug": "anti-slander-act-2040",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/anti-slander-act.2040/",
+    "scrapedAt": "2026-05-20T21:30:48.001Z",
+    "postsCaptured": 1
+  },
+  {
+    "title": "Electoral Crimes and Registration Act",
+    "slug": "electoral-crimes-and-registration-act-2038",
+    "kind": "law",
+    "court": null,
+    "url": "https://cityrp.org/threads/electoral-crimes-and-registration-act.2038/",
+    "scrapedAt": "2026-05-20T21:30:48.860Z",
+    "postsCaptured": 1
+  }
+]

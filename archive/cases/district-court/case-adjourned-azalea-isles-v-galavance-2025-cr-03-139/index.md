@@ -1,0 +1,1570 @@
+# Case: Adjourned Azalea Isles v. Galavance (2025) CR 03
+
+Court: District Court
+Status: Adjourned
+Case Number: 2025 CR 03
+Forum Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/
+
+## Summary
+Pending.
+
+## Parties
+- Plaintiff: Azalea Isles
+- Defendant: Galavance
+
+## Legal Issues
+- Pending.
+
+## Source Metadata
+- Thread author: Omegabiebel
+- Start date: Jan 17, 2025
+- Scraped at: 2026-05-20T21:36:44.242Z
+- Posts captured: 75
+
+## Docket Timeline
+
+### Jan 17, 2025
+Author: Omegabiebel
+Date: 2025-01-17T10:07:39-0500
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-460
+Type: Unclassified
+
+Azalea Isles, Prosecution
+
+v.
+
+Galavance, Defendant
+
+Criminal Complaint
+Introduction:
+The defendant, Galavance, is charged with Corruption (3x) and Treason (1x). While serving as Minister of Justice, Galavance systematically abused their authority to coerce, deceive, and unlawfully prosecute political opponents for personal and political gain. These actions, undertaken with the intent to secure an electoral victory for their newly formed party, the APA, undermined the rule of law and the integrity of the electoral process in Azalea Isles.
+
+This is most highlighted by the fact that they unlawfully prosecuted political opponents by trying to get them barred from re-running while they did not do the same for their allies. Furthermore, they even coerced Luke into joining their party in return for dropping the charges.
+
+Parties:
+
+Prosecution: Ministry of Justice
+Defendant: Galavance
+Witnesses: LuketheGreat, VenomSaint, Fluffywaafelz, Spyrolix, OverlordOfPeonys
+
+Factual Allegations:
+Formation of APA and Intent to Exploit Ministry of Justice for political purposes:
+1. On January 10, 2025, the defendant, Galavance, announced their candidacy for parliamentary elections and the formation of a new political party, the APA, following a falling-out with their previous party over a tax-cut bill.
+2. The defendant sought to leverage their position as Minister of Justice to secure an electoral advantage by targeting political opponents for prosecution.
+
+Coordination of Corrupt Actions within #High-Command:
+3. On January 11, 2025, in the Ministry of Justice’s internal communication channel #High-Command, Galavance held discussions with Nanicholls and Spyrolix—both loyal APA members—about prosecuting political opponents.
+4. Political opponents discussed included sitting Members of Parliament (MPs) Wetc, LukeTheGreat, Milkcrack, and Fluffywaafelz, all of whom had publicly opposed Galavance and the APA. - Exhibit E
+5. High Command strategized about how best to remove these individuals from office and bar them from participating in the upcoming election even though there was no legal justification to do so. - Exhibit B.
+
+Unlawful Targeting of Political Opponents:
+6. The group decided to pursue charges against Fluffywaafelz and LukeTheGreat, fabricating accusations of bribery, bank robbery, and murder.
+7. These charges were intended to force the removal of the MPs from office and prevent their candidacy—despite the punishment being unconstitutional under Azalea Isles law.
+8. Charges against Milkcrack and Wetc were deferred due to insufficient evidence and logistical challenges in removing them from office.
+
+Coercion through Threats and Backroom Negotiations:
+9. High-Command initiated secret backroom negotiations with the targeted MPs including in secret VCs outside official Ministry channels, excluding the original prosecutor assigned to the cases.
+10. The defendant dismissed the original prosecutor and replaced them with a High-Command member loyal to the APA to ensure compliance with their plan. - Exhibit I
+11. The charges against Fluffywaafelz were dropped after the lack of evidence became unattainable.
+13. During negotiations, Galavance and High Command coerced LukeTheGreat into joining the APA and running as a candidate under its banner in exchange for dropping the fabricated charges against him. - Exhibit A
+14. Moments after joining the APA Luke's charges were dropped. - Exhibit G
+15. Which LukeTheGreat promptly accepted. - Exhibit G
+
+Systematic Abuse of Power for Political Gain:
+16. The defendant used their position as Minister of Justice to intimidate political opponents, manipulate the justice system, and control the electoral process for their benefit
+17. Galavance’s actions directly advanced the APA’s political objectives by eliminating competition and securing political alliances under duress.
+
+Favourable sentencing for allies:
+18. Despite being as involved as LukeTheGreat in the alleged bank robbery and the MOJ having the same amount of evidence on OverlordOfPeonys, they were only arrested for bank robbery with a $1000 fine and 5 minutes of jail time. - Exhibit C
+19. Overlord was not prosecuted to be barred from running in the next election because they were a member of the APA. - Exhibit F
+
+Violation of Laws
+2.4 Corruption
+It shall be illegal for any person with any government job to refuse to fulfill their duty or use their position for personal gain or for the gain of a friend.
+
+By using his role as Minister of Justice Galavance to unlawfully go after political opponent LukeTheGreat, Galvance used their government position for personal gain.
+
+2.5 Treason
+
+It shall be illegal for any person to subvert national sovereignty or security.
+By using his role as Minister of Justice Galavance to unlawfully go after political opponent FluffyWaafelz, Galvance used their government position for personal gain.
+
+By using his role as Minister of Justice Galavance to unlawfully coerce a political opponent LukeTheGreat into joining their party, Galvance used their government position for personal gain.
+
+By using the Ministry of Justice as a secret police targeted at political opponents with the purpose of barring them from office, Galavance subverted the sovereignty and security of the nation.
+
+Punishment:
+Fines - $30,000 dollars for the 3 counts of corruption, and $10.000 from treason.
+Jail - 180 minutes for the 3 counts of corruption and 40 minutes from treason.
+Removal from any government jobs after being found guilty due to corruption and treason.
+
+Verification:
+I, Omegabiebel, hereby affirm that the allegations in the complaint AND all subsequent statements made in court are true and correct to the best of the prosecution's knowledge, information, and belief and that any falsehoods may bring the penalty of perjury.
+
+### Jan 17, 2025
+Author: Westray
+Date: 2025-01-17T11:10:51-0500
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-461
+Type: Unclassified
+
+Writ of Summons
+
+Azalea Isles Criminal Court (CR)
+
+Case No. CR-25-03
+
+Prosecutor: Omega Biebel (Omegabiebel)
+Defendant: Gala Hamilton (Galavance)
+
+The Defendant is required to appear before the court in the case of Azalea Isles v. Galavance. Failure to respond within 48 hours may result in a default judgement.
+
+Both parties are ask to familiarize themselves with the relevant court documents, including proper formats, as well as the laws referenced in the complaint. Ensure that you comply with any court orders.
+
+Signed,
+Hon. Justice Raymond West
+
+### Jan 17, 2025
+Author: Galavance
+Date: 2025-01-17T11:24:19-0500
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-462
+Type: Unclassified
+
+Your honor,
+
+I request an extension. I have IRL responsibilities until late Saturday and do not have a lawyer at this time.
+
+### Jan 17, 2025
+Author: Westray
+Date: 2025-01-17T11:46:49-0500
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-463
+Type: Unclassified
+
+Since no specific timeframe was specified in the request, the Court will be providing the Defendant with an extension of 48 hours while they seek out legal counsel. This will be in addition to the previous 48 hour notice, providing 96 hours from the summons in total.
+
+### Jan 18, 2025
+Author: spyrolix
+Date: 2025-01-18T22:39:15-0500
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-465
+Type: Unclassified
+
+Answer to Civil Complaint:
+
+Azalea Isles, Prosecution
+
+v.
+
+Galavance, Defendant, represented by Spyrolix
+
+Factual Defenses or Challenges:
+The defendant pleads NOT GUILTY to all three (3) charges of corruption, which are based solely on circumstantial speculation and unsubstantiated evidence presented by the prosecution.
+The defendant pleads NOT GUILTY to the charge of treason, as it is presented without any supporting evidence.
+Given the numerous points raised, the defense will address each one individually. and respectfully in the following response. The defense notes that point 12 was skipped in the prosecution’s listing, which explains the jump from point 11 to point 13 in our response.
+
+1. The defendant did not leave their previous political party over a tax-cut bill. No evidence for this claim is provided, therefore this should be seen as speculation.
+
+2. The defendant denies the accusation that I sought to leverage my position as Minister of Justice to secure an electoral advantage by targeting political opponents for prosecution. This claim is unsubstantiated and unsupported by any evidence. The defendant requests the prosecutor to provide credible evidence to support their allegation.
+
+3. On January 11, 2025, there was a discussion in the Ministry of Justice’s internal communication channel #High-Command involving Nanicholls, Spyrolix, and Galavance of Justice regarding political opponents. However, this discussion was strictly focused on individuals implicated in alleged criminal activity. At no point were individuals discussed for prosecution without evidence of involvement in a crime or alleged crime.
+
+4. The individuals discussed were all implicated in alleged criminal activity, as evidenced by the provided documentation. Specifically, WetC is alleged to have been involved in bribery (Exhibit E), LukeTheGreat (Luke201556) is alleged to have committed bank robbery (Exhibit J), and MilkCrack is alleged to have been involved in robbery and assault (Exhibit K). There is no indication in the evidence that these individuals were targeted as political opponents of the defendant or any related party. The focus of the discussion was solely on addressing their alleged criminal actions.
+
+5. The discussion partially shown in Exhibit B arose from uncertainty among the participants regarding whether mechanisms for accountability were in place at the time, specifically concerning the suspension of a Prime Minister in the absence of a Deputy Prime Minister. This uncertainty was compounded by the fact that the Prime Minister, MilkCrack, was uncuffable at the time of the incident. It remained under investigation whether this was due to an abuse of power or a technical issue, such as a permissions bug.
+
+6. As shown in Exhibit J for LukeTheGreat (Luke2012556) and Exhibits L and M for fluffywaafelz, the accusations were credible and based on evidence. At no point did the defendant, or anyone else in the group, fabricate the accusations. The charges were pursued following established legal procedures and grounded in the evidence available at the time. Furthermore, the prosecution has provided no evidence to substantiate the claim that the accusations were fabricated, rendering this assertion baseless.
+
+7. The charges of bribery against Fluffywaafelz were pursued with the intention of removing them from office, as outlined in Article 2.6 of the criminal code, which states that bribery warrants removal from any government position. However, the punishment to permanently ban them from office was added unilaterally by the then-General Prosecutor without prior discussion. This action was later reconsidered, leading to the replacement of the General Prosecutor due to a lack of communication on the matter.
+In the case of LukeTheGreat, while the message regarding the removal from office was initially presented as a draft and lacked legal standing at the time, it was later included in the official file. However, it is important to clarify that the inclusion of this message was not meant to indicate finality or immediate action. The handling officer, who admits to being mistaken due to lack of sleep, did not intend for the statement to be taken literally or for it to guide legal proceedings without further discussion. The matter was intended to be reviewed and addressed properly, and any decisions regarding LukeTheGreat's charges and consequences were to be made based on thorough deliberation and established legal procedures.
+
+8. The charges against MilkCrack were put aside temporarily pending the conclusion of the investigation into whether their uncuffable status was due to an abuse of power or a technical issue. The defendant intended to resume the prosecution once the matter was clarified, but this was delayed due to a lack of resources and time within the department.
+Regarding WetC, the charges of bribery were dropped after further investigation revealed that the issue was not related to bribery but was, instead, a staff-related matter. As such, no further action was pursued in that case.
+
+9. The prosecution has provided no evidence to support the claim that such a voice-chat took place. Any verbal or written communication regarding the possibility of a settlement, as opposed to proceeding with the trial, occurred solely through Spyrolix, the then-General Prosecutor handling the case. There is no indication that the defendant was involved in these discussions.
+
+Furthermore, there is no evidence to suggest that any communication between the defendant and the mentioned individuals was related to the settlement or involved negotiations between the Ministry of Justice and the affiliated parties of the individuals in question.
+
+10. This claim is based purely on speculation. The evidence presented in Exhibit I only demonstrates that the original prosecutor was being replaced. The prosecution has failed to provide any proof of a secret backroom plan, nor have they shown any concrete details of the discussions that took place in #High-Command at that time. Without such evidence, the assertion remains unfounded and unsupported.
+
+11. The charges against Fluffywaafelz were dropped due to errors made by the original prosecutor handling the case, as outlined in the motion to dismiss on January 15th (Exhibit H). The prosecution has failed to provide any evidence suggesting that there was ill intent behind the decision to drop the charges. The action taken was a result of procedural mistakes, not any unlawful or improper motivations.
+
+13. As previously stated, no charges were fabricated. Exhibit A clearly shows LukeTheGreat stating, and I quote, "doing this for the moment means my court case will be dropped once that happens it's time to play politics tetris." However, the defendant was not aware of this ulterior intent on the part of LukeTheGreat. The prosecution has failed to demonstrate that the defendant approached or offered Luke with the intention or implication that his charges would be dropped as a result of him joining the party.
+Furthermore, on January 13th at 11:59, LukeTheGreat provided a response explaining why he did not wish to join the APA (Exhibit N). The conversation that followed, including a voice discussion (exhibit O), was focused on addressing those concerns and did not involve any discussions related to the dropping of charges or political favors.
+
+14. As shown in Exhibits P and Q, LukeTheGreat joined the party on January 13th at 22:21 CEST and became a candidate for parliament within the party on January 14th at 23:01 CEST. The motion to dismiss the charges was filed on January 15th at 17:21 CEST, a full day later, contrary to the prosecution's claim that the events occurred "moments after" each other.
+Additionally, the evidence provided by the prosecution (Exhibit G) does not demonstrate that the charges were dropped. Instead, it shows LukeTheGreat responding to the judge after attempting to continue the court case (Exhibit R) following the filing of the motion to dismiss and the agreed settlement. The charges were officially dropped on January 17th at 1:39 CEST, when the judge formally accepted the motion to dismiss, as shown in exhibit S . This occurred four days after LukeTheGreat joined the party, further disproving the prosecution's claim of immediate or connected actions.
+
+15. As shown in Exhibit R, LukeTheGreat did not promptly accept the dismissal of the case. Instead, he filed a response pleading not guilty to all charges. However, the judge did not take this response into account, as it was submitted after the settlement had already been agreed upon and the motion to dismiss had been filed.
+Furthermore, the evidence provided by the prosecution to support their claim only reflects LukeTheGreat's own intention or belief that the charges would be dropped if he joined the party. It does not provide any evidence of an offer being made or accepted by LukeTheGreat on behalf of the Defendant. This lack of evidence undermines the prosecution’s claim and fails to establish any improper conduct by the Defendant.
+
+16. The prosecution has presented no evidence to support this statement. The defendant has never intended to use their position as Minister of Justice to intimidate anyone. If any individual felt intimidated, it was not due to any deliberate action or intention on the part of the defendant. Such perceptions, if they occurred, were entirely unintentional and do not constitute misconduct.
+
+17. The prosecution fails to specify what is meant by "Galavance's actions." While the defendant acknowledges having a conversation with LukeTheGreat about joining the party, as previously stated and evidenced in Exhibits N and O, this conversation did not involve any form of duress. Furthermore, there is no indication that the defendant leveraged their position as Minister of Justice to exert undue influence on LukeTheGreat during this discussion.
+
+18. This statement is supported by Exhibit C, which contains no mention of OverlordOfPeonys. Exhibit F, however, documents crimes committed on January 13th. The defendant acknowledges that OverlordOfPeonys had not yet been prosecuted for their involvement in the crimes committed on January 11th. At that time, the investigation was still ongoing, and it was the responsibility of the handling officer, Spyrolix, to complete the investigation in due course.
+
+According to the statutes of limitations, this investigation must be concluded within two months, by March 11th. As this deadline has not yet been reached, the Ministry of Justice still has time to prosecute OverlordOfPeonys and is actively planning to proceed with the prosecution within the established timeframe.
+
+19. The accusation that OverlordOfPeonys was not prosecuted in order to bar them from running in the next election due to their membership in the APA is purely speculative and unfounded. Exhibit F merely demonstrates that OverlordOfPeonys was fined and jailed for committing the crime of robbing a bank on January 13th. This is unrelated to the crime committed by LukeTheGreat on January 11th.
+
+Furthermore, as previously stated, the punishment barring an individual from running in the next election was part of a draft that should have been reviewed and discussed before being filed. It was improperly carried over by the original prosecutor without the necessary deliberation.
+
+Legal Defenses or Challenges:
+
+The prosecution charges the defendant with three counts of corruption but only lists one under the section "corruption" in the allegations.
+
+The defendant is being accused of using a “secret police” , which is never mentioned in the evidence or the factual allegations.
+Most of the statements made by the prosecution are not supported by substantial evidence, and those without evidence have been taken out of context, which is refuted by the evidence provided by the defendant. The defendant respectfully requests a motion to dismiss this trial.
+
+Verification:
+I, Spyrolix, hereby affirm that the allegations in the answer AND all subsequent statements made in court are true and correct to the best of the defendant’s knowledge, information, and belief and that any falsehoods may bring the penalty of perjury.
+
+### Jan 18, 2025
+Author: Westray
+Date: 2025-01-18T22:52:55-0500
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-466
+Type: Unclassified
+
+The Court thanks the Defendant for their answer to the complaint. The Prosecution now has 48 hours to provide an opening statement to the court.
+
+### Jan 20, 2025
+Author: Omegabiebel
+Date: 2025-01-20T10:35:21-0500
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-477
+Type: Unclassified
+
+Your Honour,
+
+In this case, we will prove that Galavance as Minister of Justice abused his authority by knowingly and purposefully targeting political opponents to try and bar them from running in the election.
+
+Galavance has knowingly and purposefully approved the prosecution of 2 political opponents, with the intent to disbar them from holding office and running in any election. This punishment was outside of the law and served no legal justification.
+
+The defendant has lied on several occasions in public chat claiming that no one in high command has ordered the disbarment of these people and they were unaware. Even though there is direct evidence of Galavance discussing just this in the High Command channel prior to the lawsuit.
+
+Furthermore, the defendant has made a clear distinction in the prosecution of these individuals. According to his own Ministry of Justice. OvelordOfPeonys was at the same bank robbery as Luke201556, committing the same act. Yet, OverlordOfPeonys was only charged with bank robbery and never prosecuted with the intent to disbar them from public office or running in any election. OverlordOfPeonys was running with Galavance under his party in the election unlike, Luke201556 who was at the time a political opponent of Galavance.
+
+Additionally, Luke201556 was requested to join the APA at the time, where they had a 23-minute long VC. After which Luke201556 joined the APA and was promptly approached with a very favourable deal to drop his charges and allow him to run in the next election.
+
+Not only, are all of these undisputed facts there is much more additional circumstantial and direct evidence to prove that there was a quid pro quo orchestrated by Galavance where the Ministry of Justice would drop its charges against Luke201556 in return for joining the APA.
+
+The defendant has engaged in a clear pattern of behaviour to plan the targeted malicious prosecution of political opponents under unlawful sentences and successfully use these prosecutions to benefit himself and his party. This makes the defendant guilty of corruption and treason.
+
+### Jan 20, 2025
+Author: Westray
+Date: 2025-01-20T15:59:06-0500
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-479
+Type: Unclassified
+
+The Defendant now has 48 hours to provide an opening statement to the court.
+
+At this time, I wish to remind both parties about the Case Structure. Once the Defendant concludes their opening statement, witnesses will be called. Please begin to prepare a witness list in advance to ensure a timely process in this trial.
+
+### Jan 20, 2025
+Author: spyrolix
+Date: 2025-01-20T18:02:26-0500
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-480
+Type: Unclassified
+
+Your Honor,
+
+I stand here today to defend Mr. Galavance against baseless accusations of corruption and treason. These allegations lack substance and are built on mischaracterization, aimed at undermining his leadership.
+
+Every prosecution during the defendant’s term has been based on evidence, not political affiliations. This includes the two political opponents mentioned by the plaintiff. It is the defendant’s duty, as Minister of Justice, to prosecute those who break the law, regardless of their position or political beliefs. His commitment to impartial justice should not be misconstrued as political targeting.
+
+The claim that OverlordOfPeonys was treated differently is false—his case remains under investigation, and the crime occurred on January 13th, not January 11th. Regarding Luke201556, any sentencing irregularities were the result of an honest mistake by the arresting officer, which led to a request for case dismissal and settlement. These decisions were not made by the defendant, who took responsibility by allowing the settlement.
+
+The plaintiff also claims the defendant lied about disbarment orders. This is not true. No official order was made; it was a draft, mistakenly including the request of disbarment due to the officer’s fatigue. This draft was never sent in #high-command. The subsequent discussions in #high-command were focused on correcting this error, not enforcing disbarment.
+
+Finally, the plaintiff suggests a link between Luke201556’s joining the APA and the dropping of charges. In reality, the charges were dropped due to irregularities in the case handling, including unlawful punishment. There is no evidence of any ill intent by the defendant —he simply took responsibility for the errors and corrected them.
+
+As you can see, Your Honor, there are two sides to this story. One based on facts and the other based on unsustained evidence and assumptions. In conclusion, the defendant has acted lawfully, impartially, and with integrity throughout his tenure. The accusations against him are unsupported by credible evidence, and we trust the court will see through these baseless claims.
+
+### Jan 20, 2025
+Author: Westray
+Date: 2025-01-20T18:51:47-0500
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-482
+Type: Unclassified
+
+Both parties have 48 hours to provide a list of witnesses they wish to call, or to indicate to the Court that they would like to move forward without calling any witnesses.
+
+### Jan 22, 2025
+Author: spyrolix
+Date: 2025-01-22T15:52:14-0500
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-484
+Type: Unclassified
+
+Your Honor,
+
+The defense respectfully submits the following list of witnesses it intends to call in the order listed below:
+
+OverlordOfPeonys
+Nanicholis
+Galavance (Defendant)
+We appreciate the Court’s consideration of these witnesses and will proceed with any further requirements as directed.
+
+### Jan 23, 2025
+Author: Omegabiebel
+Date: 2025-01-23T03:18:39-0500
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-485
+Type: Unclassified
+
+The prosecution wishes to call LukeTheGreat, Venomsaint and fluffywaafelz to the stand.
+
+### Jan 23, 2025
+Author: Westray
+Date: 2025-01-23T18:34:58-0500
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-487
+Type: Unclassified
+
+Writ of Summons - Witnesses
+
+Azalea Isles Criminal Court (CR)
+
+Case No. CR-25-03
+
+Prosecutor: Omega Biebel (Omegabiebel)
+Defendant: Gala Hamilton (Galavance)
+
+The following individuals are required to appear before the court:
+
+Overlord Peonys (Overlordofpeonys)
+
+Nanicholls
+
+Gala Hamilton (Galavance)
+
+Luke Thegreat (Luke201556)
+
+James Carrington (ven0msaint)
+
+Lebron James (fluffywaafelz)
+
+Please indicate your presence in this thread. Failure to respond within 72 hours may result in contempt of court.
+
+Signed,
+Hon. Justice Raymond West
+
+### Jan 23, 2025
+Author: Westray
+Date: 2025-01-23T18:36:16-0500
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-488
+Type: Unclassified
+
+The Defendant and Prosecution are both required to produce questions for their own witnesses first. Please post them as soon as possible, in a format like such:
+
+Witness A:
+1. Did you x
+2. Why did you x
+3. Do you x
+
+Witness B:
+1. Do you think x
+2. What happened x
+...
+
+and so forth, in order to ensure each witness knows which question to respond to accordingly.
+
+### Jan 23, 2025
+Author: nanicholls
+Date: 2025-01-23T18:40:22-0500
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-489
+Type: Unclassified
+
+I am present.
+
+### Jan 23, 2025
+Author: Galavance
+Date: 2025-01-23T19:34:33-0500
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-490
+Type: Unclassified
+
+Present your honor.
+
+### Jan 24, 2025
+Author: Luke201556
+Date: 2025-01-24T11:46:06-0500
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-491
+Type: Unclassified
+
+Present your honour
+
+### Jan 24, 2025
+Author: James Carrington
+Date: 2025-01-24T23:40:10-0500
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-493
+Type: Unclassified
+
+I’m present but I’ll be out of town till next weekend so I really won’t be able to be present a lot.
+
+### Jan 25, 2025
+Author: Overlordofpeonys
+Date: 2025-01-25T10:44:38-0500
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-495
+Type: Unclassified
+
+Present, Your Honor
+
+### Jan 25, 2025
+Author: Westray
+Date: 2025-01-25T10:54:23-0500
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-497
+Type: Unclassified
+
+Westray said:
+The Defendant and Prosecution are both required to produce questions for their own witnesses first. Please post them as soon as possible, in a format like such:
+
+Witness A:
+1. Did you x
+2. Why did you x
+3. Do you x
+
+Witness B:
+1. Do you think x
+2. What happened x
+...
+
+and so forth, in order to ensure each witness knows which question to respond to accordingly.
+The Prosecution @Omegabiebel and Defence @spyrolix are given a final reminder to please present your questions. You have 48 hours to do so.
+
+### Jan 26, 2025
+Author: spyrolix
+Date: 2025-01-26T05:38:54-0500
+Page: 2
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-499
+Type: Unclassified
+
+OverlordOfPeonys
+
+According to your criminal record, you were arrested for bank robbery on January 13th. Who was the arresting officer, and can you provide a detailed account of the events leading up to and following your arrest?
+Was anyone else present with you in the bank on that day? If so, please state how many individuals were involved.
+Was Police Sergeant Spyrolix online and active in Azelea at the time of this incident?
+Nanicholles
+
+Did you participate in a discussion regarding the prosecution of Members of Parliament in #high-command on the 5th of January?
+If you did participate in this discussion, did you strategize on how to best disbar the Members of Parliament in question?
+When and how did you join the political party APA?
+Have you ever used your position or resources within the Ministry of Justice to gain a political advantage during the elections?
+Did you fabricate any charges or allegations against Fluffywaafelz and LukeTheGreat?
+Did you have any communication with LukeTheGreat regarding his criminal case outside of the official Ministry of Justice channels?
+Galavance
+
+What were your reasons for leaving your previous political party?
+During your term, did you ever prosecute or endorse the prosecution of an individual without valid evidence to support the charges?
+At any point during your term, did you or others strategize in #high-command on methods to remove political opponents from office, and if so, what was discussed?
+How were the charges against WetC handled?
+How were the charges against MilkCrack handled?
+Were the charges and allegations against Fluffywaafelz and LukeTheGreat fabricated or intentionally manipulated by Naninchollis, Spyrolix, or yourself?
+Were these two individuals charged with their respective charges with the intent of removing them from office and preventing them from running in the election?
+What were the specific reasons for the charges against Fluffywaafelz?
+What were the specific reasons for the charges against LukeTheGreat?
+Did you engage in any communication that had a significant influence on the case with LukeTheGreat or Fluffywaafelz regarding their case outside of official ministerial channels?
+What was the content of the 23-minute phone call with LukeTheGreat on January 13th, and what topics or matters were discussed during that conversation?
+What were the grounds for replacing the original prosecutor, ven0msaint, in this case?
+What were the reasons for the charges against Fluffywaafelz being dropped?
+What were the reasons for the charges against LukeTheGreat being dropped?
+A message was sent in #prosecutors containing a draft of the criminal complaint against LukeTheGreat . Were you aware that this draft included a request for removal from office?
+At any point, did you force or order the general prosecutor to file these charges with the court exactly as stated in the draft?
+At the time of the events in question, was there an established protocol within the Ministry of Justice that required the Minister’s approval for filing a written complaint with the court?
+Did the original general prosecutor, ven0msaint, at any point request your approval to file the complaint?
+During your time as Minister of Justice, did you use your position or authority to intimidate, coerce, or threaten any individual, either directly or indirectly, in order to influence their actions or decisions?
+When was the first time you discussed running as a party with your current co-party leaders, Spyrolix and Naninchollis?
+Were any alliances between individuals or parties being discussed prior to this conversation?
+I have no further questions, your honor.
+
+### Jan 26, 2025
+Author: Overlordofpeonys
+Date: 2025-01-26T12:36:40-0500
+Page: 2
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-500
+Type: Unclassified
+
+1. I was arrested by Mister of Justice Galavance Hamilton for bank robbery. I had robbed the bank, then he asked me to come to the police station, telling me he didn't want to have to chase me down, knowing I was to be arrested I went ahead to the police station and was arrested.
+2.I can not confidently say but I doubt so as I did not see any potion effects
+3. No police sergeant spryolix was not online during the arrest
+
+### Jan 26, 2025
+Author: nanicholls
+Date: 2025-01-26T13:33:39-0500
+Page: 2
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-501
+Type: Unclassified
+
+Yes, I did.
+I took part in a discussion where we tried to figure out the legislation relating to the suspension of the Prime Minister. I had earlier attempted to cuff him for a robbery and it told me he was immune to cuffing, so this was an ongoing dicussion we had because it was something we had not encountered. The MoJ looked into this to investigate if it was a staff issue or abuse of his position.
+I joined the APA on January the 10th. Galavance and I had a dicussion that day where I had complained that my party felt dead in the water and he had said he planned to make a party. I joined that evening.
+I have not.
+I did not.
+No.
+
+### Jan 26, 2025
+Author: Galavance
+Date: 2025-01-26T15:19:43-0500
+Page: 2
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-502
+Type: Unclassified
+
+1. The way Milkcrack had treated me led me to be disgusted with his political behavior.
+
+2. I did not.
+
+3. We did not.
+
+4. WetC wasn't prosecuted as it was a screenshot from a staff-related outreach program.
+
+5. MilkCrack was under investigation as he was uncuffable, we decided not to prosecute him due to lack of evidence.
+
+6. All charges were based on substantial and credible evidence.
+
+7. The two individuals were charged with their respective charges NOT with the intention to remove them from office nor to prevent them from running in the election.
+
+8. Fluffywaafelz committed murder with multiple witnesses, for which a 911 call was placed. Afterward, he attempted to bribe the arresting officer.
+
+9. LukeTheGreat was being charged with bank robbery and murder because the arresting officer was present in the bank, undercover.
+
+10. I did not.
+
+11. During the call, I mentioned that a settlement would be coming up for both cases. I only mentioned this—no offers were made by either of us. We also discussed his joining the APA, his political views, and some ideas he had for bills.
+
+12. ven0msaint was removed as the prosecutor as he filed to permanently bar Fluffy and Luke.
+
+13. The charges were dropped, and the Ministry of Justice pushed for a settlement as the prosecutor had delayed filing the case for too long. Additionally, the prosecutor unilaterally added a charge of permanent disbarment, which was later changed to 'temporary suspension from holding any government job for a period determined by the court'—a measure not stated in the law. The general prosecutor also failed to consult the Ministry of Justice before responding in court.
+
+14. The charges were dropped because the prosecutor failed to proofread or properly assess the charges, resulting in an unconstitutional prayer for relief. Additionally, the defense against a motion to dismiss relied on a defunct mandate.
+
+15. I was not.
+
+16. I did not.
+
+17. There was.
+
+18. They did not.
+
+19. Never.
+
+20. 1/10/25/ 11:49 AM PST was the first time a party was discussed with Spyrolix. 1/10/2025 1:14 PM PST Was the first time I discussed merging parties with Naninchollis.
+
+21. They were not.
+
+### Jan 27, 2025
+Author: Omegabiebel
+Date: 2025-01-27T02:46:28-0500
+Page: 2
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-506
+Type: Unclassified
+
+LukeTheGreat:
+
+Could you please confirm that Galavance approached you to join the APA before or during the 13th of January?
+Did it strike you as odd, for the minister in charge of the ministry seeking your disbarment from office to ask you to join their political party?
+When initially approached you said you had no interest in joining the APA correct?
+After you stated you had no interest Galavance, asked you to VC correct?
+During this 23-minute-long VC did you at any point implicitly or explicitly discuss your case?
+Did Galavance mention he had a gift for you? If so what was this gift?
+What is the reason that you joined the APA even though you have explicitly stated that you did not want to join the APA before this VC?
+How long after the VC did you get a settlement offer from the Ministry of Justice?
+Did Galavance implicitly or explicitly offer to drop your charges in return for joining the APA?
+Venomsaint:
+
+You were the original prosecutor on the case against Luke correct?
+Were you ordered by 'High Command' to include disbarment from running for parliament as a charge?
+And you were requested to do this ASAP correct?
+Was there any indication by 'High Command' to review these records, or in any way give feedback on the punishments they described?
+On the 13th of January why were you let go, from your role as Prosecutor on the case?
+Did you notice anything suspicious around the case? or do you have any reason to think there was an alternative motive for letting you go from this role?
+Fluffywaafelz:
+
+During or prior settlement negotiations in your case, did you at any point mention to Galavance that disbarring you from running for parliament was illegal and/or unconstitutional?
+Did Galavance engage or be willing in any way to discuss this issue?
+Besides being illegal, do you have reason to believe there was an alternative motive, other than upholding justice to disallow you from running for parliament?
+
+### Jan 27, 2025
+Author: fluffywaafelz
+Date: 2025-01-27T10:49:58-0500
+Page: 2
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-508
+Type: Unclassified
+
+Present your honor. My apologies for my tardiness as I came down with the flu and haven't been on my desktop.
+
+1. Yes, it was brought up multiple times.
+2. At first no, it was ignored. After a little while of when I assumed they discussed how it actually was illegal he said they were going to modify the prayer for relief.
+3. Yes, I believe it was to decrease competition in the election.
+
+### Jan 27, 2025
+Author: spyrolix
+Date: 2025-01-27T11:35:42-0500
+Page: 2
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-509
+Type: Unclassified
+
+In the Court of the Azalea Isles
+
+Your Honor,
+The defense seeks your attention to these objections and requests for any answers already given or given in the meantime of your judgement to be motioned to strike.
+
+OBJECTION LEADING
+question 1 to LukeTheGreat:
+
+This question suggests the answer and is framed to confirm a fact rather than allowing the witness to provide their own testimony.
+
+question 3 to LukeTheGreat:
+
+This question assumes the witness explicitly stated they had no interest and frames the answer within the question itself.
+
+question 3 to Ven0mSaint:
+
+This question suggests urgency instead of asking whether urgency was present. The question merely asks for confirmation.
+
+OBJECTION COMPOUND QUESTION
+question 7 to LukeTheGreat:
+
+This question combines two questions: (1) Why did you join the APA? and (2) Why did you join despite stating you didn’t want to?
+
+question 4 to Ven0mSaint:
+
+This question combines two separate questions: (1) Was there an indication of high command reviewing these records? and (2) Was there an indication of high command giving feedback?
+
+OBJECTION ARGUMENTATIVE
+question 7 to LukeTheGreat:
+
+The phrasing of this question implies inconsistency on the witness's part and challenges them to explain it, making it argumentative.
+
+OBJECTION SPECULATION
+question 9 to LukeTheGreat:
+
+This question asks the witness to interpret potential implicit offers, which would require speculation rather than direct knowledge.
+
+question 6 to ven0mSaint:
+
+This question asks the witness to speculate about possible motives.
+
+question 3 to fluffywaafelz:
+
+This question asks the witness to infer motives rather than testify to what they know.
+
+Thank you, Your Honor.
+
+### Jan 27, 2025
+Author: spyrolix
+Date: 2025-01-27T11:41:49-0500
+Page: 2
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-510
+Type: Unclassified
+
+In the Court of the Azalea Isles
+
+OBJECTION SPECULATION
+Your Honor,
+
+The defense objects to the second answer provided by the witness, Fluffywaafelz, in response to the prosecution's question. Specifically, the witness stated, and I quote: 'After a little while of when I assumed they discussed how it actually was illegal, he said they were going to modify the prayer for relief.' The witness is offering assumptions about the discussions of others, which constitutes speculation and lacks personal knowledge. We respectfully request that this specific answer, in response to question 2, be fully stricken from the record, as it is speculative and inadmissible.
+
+Thank you, Your Honor.
+
+### Jan 27, 2025
+Author: Luke201556
+Date: 2025-01-27T11:42:38-0500
+Page: 2
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-511
+Type: Unclassified
+
+Could you please confirm that Galavance approached you to join the APA before or during the 13th of January?
+
+Yes.
+
+Did it strike you as odd, for the minister in charge of the ministry seeking your disbarment from office to ask you to join their political party?
+
+It came across extremely odd especially as I had previously held openly opposite or contradictory views to the APA and the views of the parties adjoining before the merger. Furthermore, compounded that I was publicly and openly libertarian right in my political views father than the centre left that the APA claims to be.
+
+When initially approached you said you had no interest in joining the APA correct?
+
+Admittedly I was not so direct with my dismissal and no interest of joining due to my legal disposition and Galavances oversee of the my case I had shown my uninterest through the following statement, "well the APA does not currently have any policies that mesh with my economic platform and well you've seen me with Milk I tend to get into yelling matches even with people on my side of the dotted line". This was meant as a polite way of saying no while avoiding offending the other party who had already got a court case against me and had tried to get me disbarred from office. After he further attempted to get me to join I made my stance more clear by going through a small list of the reasons why I was not interested in working with them.
+
+After you stated you had no interest Galavance, asked you to VC correct?
+
+Galavance asked me if I could join a private VC with directly following the above stated list of reasons why I did not wish to join the APA.
+
+During this 23-minute-long VC did you at any point implicitly or explicitly discuss your case?
+
+There was no explicit discussion of the case other than Galavance stating that I would be happy to hear that Spyrolix would be in contact soon to discuss a plea deal to drop the case.
+
+Did Galavance mention he had a gift for you? If so what was this gift?
+
+No
+
+What is the reason that you joined the APA even though you have explicitly stated that you did not want to join the APA before this VC?
+
+Due to the timing and tone of Galavance's announcement of the above mentioned soon to be contact by Spyrolix for a plea deal and the fact that Galavance had asked for this to be a VC rather than just continuing messaging on discord where I would have record and evidence of him saying that there was to be a plea deal, as we had previously been messaging before without issue. This lead me to strongly believe that I had no option but to join the APA or I would not get the aforementioned plea deal and I would have to continue fighting my expensive lawsuit with no legal council.
+
+How long after the VC did you get a settlement offer from the Ministry of Justice?
+
+I was contacted by Spyrolix approximately 40 Minutes after the above mentioned VC.
+
+Did Galavance implicitly or explicitly offer to drop your charges in return for joining the APA?
+
+There was no explicit offer, but in the way of which the events unfolded especially stating that a plea deal would be offered while they where trying to recruit me to the APA literally in the same call and the time between the agreement being made and actually posted seemingly waiting until I was publicly a member of the APA extremely implied that should I have not joined the APA it would not have been offered or subsequently posted after it was agreed.
+
+### Jan 27, 2025
+Author: Westray
+Date: 2025-01-27T12:05:31-0500
+Page: 2
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-512
+Type: Unclassified
+
+After careful consideration, the Court renders the following decisions on the Defence's objections:
+
+Question 1 to Luke: Objection is overruled. The question is not leading because it seeks confirmation of a fact that the witness is in a unique position to answer
+Question 7 to Luke: Objection is overruled. The phrasing of such question seeks clarification on whether the witness expressed their position explicitly. It does not suggest the answer as is required for a question to be argumentative.
+Question 9 to Luke: Objection is overruled. The question does not require speculation. The witness is asked to testify based on their perception and experience, which is within their personal knowledge.
+
+Question 3 to James (Venom): Objection is overruled. The question seeks factual confirmation of whether urgency was present. It does not direct the witness to a specific answer. The witness is asked to answer.
+Question 4 to James (Venom): Objection is sustained. The question merges two separate issues: oversight and feedback. The witness is asked to answer both questions separately instead.
+Question 6 to James (Venom): Objection is sustained. The question invites the witness to speculate about the motives of others, which is inadmissible unless they have direct knowledge or evidence. Instead, the witness is asked to answer the first part of the question only.
+
+Question 3 to Lebron (Fluffywaafelz): Objection is sustained. The question requires the witness to infer motives, which is speculative and inadmissible. The question and answer by the witness shall be struck from the record.
+Answer to Question 4 by Lebron (Fluffywaafelz): Objection is overruled. The witness is recounting their perception of the events and their interpretation of the situation as it unfolded, rather than outright speculating.
+
+@James Carrington, for your own clarification, the Court is asking that you answer questions 1, 2, 3, by the Prosecution in addition to these rephrased questions:
+
+4. Was there any indication by 'High Command' to review these records?
+5. Was there any way to give feedback on the punishments they described?
+6. On the 13th of January why were you let go, from your role as Prosecutor on the case?
+7. Did you notice anything suspicious around the case?
+
+### Jan 27, 2025
+Author: James Carrington
+Date: 2025-01-27T23:57:10-0500
+Page: 2
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-514
+Type: Unclassified
+
+Thank you, I will answer the questions tomorrow. (sorry for the delay, school has been horrendous)
+
+### Jan 28, 2025
+Author: James Carrington
+Date: 2025-01-28T19:27:02-0500
+Page: 2
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-515
+Type: Unclassified
+
+You were the original prosecutor on the case against Luke correct?
+Yes
+
+Were you ordered by 'High Command' to include disbarment from running for parliament as a charge?
+Not sure if Spyro counts as hicom, but on the report they sent they started the MOJ asked for the defendant to be disbarred.
+
+And you were requested to do this ASAP correct?
+I was asked, yes, again by Spyro.
+
+Was there any indication by 'High Command' to review these records
+No, not exactly.
+
+Was there any way to give feedback on the punishments they described
+I was able to write in chat but I didn’t ask anything else.
+
+On the 13th of January why were you let go, from your role as Prosecutor on the case?
+Gala said he didn’t like the way I handled the case but nothing else was explained.
+
+Did you notice anything suspicious around the case?
+No, I just followed the orders to prosecute.
+
+### Jan 28, 2025
+Author: Westray
+Date: 2025-01-28T23:44:31-0500
+Page: 2
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-516
+Type: Unclassified
+
+The Prosecution may now cross-examine by posing questions to the witnesses called by the Defence:
+
+Overlord Peonys (Overlordofpeonys)
+Nanicholls
+Gala Hamilton (Galavance)
+The Prosecution has 48 hours to do so, @Omegabiebel.
+
+### Jan 30, 2025
+Author: Omegabiebel
+Date: 2025-01-30T18:48:53-0500
+Page: 2
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-534
+Type: Unclassified
+
+The Prosecution would like to request a 48 hour extension. I had an alternating currents exam today which prevented me from working on this case. The prosecution apologizes for requesting it so late.
+
+### Jan 31, 2025
+Author: Westray
+Date: 2025-01-31T03:18:49-0500
+Page: 2
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-540
+Type: Unclassified
+
+Omegabiebel said:
+The Prosecution would like to request a 48 hour extension. I had an alternating currents exam today which prevented me from working on this case. The prosecution apologizes for requesting it so late.
+You have 24 hours from this post to provide your cross-examination questions.
+
+I would like to remind the government that there is a considerable expectation of timeliness as the party that has filed this criminal case.
+
+### Jan 31, 2025
+Author: Omegabiebel
+Date: 2025-01-31T18:31:50-0500
+Page: 2
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-542
+Type: Unclassified
+
+OverlordOfPeonys
+
+According to the case Azalea Isles v. LukeTheGreat. You, Luke and Spyrolix were all positioned in the bank at the time of the robbery on the 11th of January. Is this true?
+According to the case on the 11th of January, "Spyrolix arrested OverlordOfPeonys after the alarm was triggered. " Did Spyrolix arrest you?
+If so, why are you claiming that " No police sergeant Spryolix was not online during the arrest"?
+Is this alleged incident on January 13th separate from the Incident on the 11th of January or the Earlier bank robbery you were charged with on the 6th of January?
+If so, were you ever charged for the bank robbery on the 11th of January?
+Please look at the appended image from the case against LukeTheGreat and the timestamp, are you any of these invisible people?
+Galavance
+
+Did you or did you not say in a public chat, that no one in high command ordered the disbarment of political opponents?
+Do you now admit that this was a lie?
+Did you, or did you not speculate in High-Command channels on how to suspend political opponents from their role in government? Such as Such as Wetc, Milkcrack, Fluffywaafelz or LukeTheGreat.
+Did anyone in high command suggest to you, to disbar people from running for mp? If so, what was your reaction?
+Did you at any point talk with Spyrolix about settling the case with LukeTheGreat, outside of official channels in the ministry?
+Did you at any point talk with LukeTheGreat about settling with LukeTheGreat outside of official channels in the ministry?
+According to the case against LukeTheGreat. OverlordOfPeonys, and LukeTheGreat, were both robbing the bank on the 11th of January. Can you please explain why LukeTheGreat was prosecuted requesting disbarment from running for office, and Overlordofpeonys was not?
+According to the testimony by Overlordofpeonys, you asked overlordofpeonys to report, to the police station so "you did not have to chase them down". Could you confirm whether this is true?
+No questions for nanicholls at this time. Depending on the answers we might have follow-up questions, your honour.
+
+### Jan 31, 2025
+Author: spyrolix
+Date: 2025-01-31T20:23:08-0500
+Page: 2
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-543
+Type: Unclassified
+
+In the Court of the Azalea Isles
+
+Your Honor,
+The defense requests your attention to the following objections regarding the prosecution's questions during cross-examination. Additionally, we move to strike any answers given in the meantime, pending your judgement.
+
+OBJECTION SPECULATION
+question 2 to Galavance:
+This question assumes that the defendant has lied and effectively seeks an admission of guilt, rather than allowing the witness to provide an impartial response.
+
+OBJECTION REPETITIVE
+question 3 to Galavance:
+This question was answered during direct examination in question 3 towards the defendant.
+
+question 6 to Galavance:
+This question was answered during direct examination in question 11 towards the defendant.
+
+OBJECTION PRIVILEGED COMMUNICATION
+question 5 to Galavance:
+This question inquires detail on communication between the client and their attorney. This is a breach of the attorney-client privilege. This question will only be answered if specified that said communication should have been publicly expressed.
+
+Thank you, Your Honor.
+
+### Feb 1, 2025
+Author: Westray
+Date: 2025-02-01T00:17:50-0500
+Page: 2
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-544
+Type: Unclassified
+
+After careful consideration, the Court renders the following decisions on the Defence's objections:
+
+Question 2 to Hamilton (Galavance): Objection is sustained. The question presupposes that the Defendant has lied, which improperly assumes guilt and compels an admission rather than allowing the witness to provide an independent answer. The witness is directed not to answer this question.
+
+Question 3 to Hamilton (Galavance): Objection is overruled. While the defense claims this was answered in direct examination, cross-examination allows for revisiting testimony to challenge inconsistencies or clarify key facts. The Prosecution may continue with this line of questioning if it seeks to expose contradictions. The witness is asked to answer.
+
+Question 5 to Hamilton (Galavance): Objection is overruled. Question 5 is with regards to a discussion involving a prosecutor and their supervisor. It is relevant to this case as the Prosecution has alleged prosecutorial misconduct on the Defendant's orders. You are correct that no questions regarding your privileged communication between Galavance as a defence attorney and client CANNOT be shared, however communication between a prosecutor and their supervisor is relevant to establish whether or not misconduct occurred. The relationship of a prosecutor and their supervisor is employer-employee, rather than client-attorney. The witness is asked to answer.
+
+Question 6 to Hamilton (Galavance): Objection is overruled. The questions are significantly different in nature. Question 11, as asked by the Defence towards Hamilton, was with regards to a specific 23-minute phone call. Question 6, as asked by the Prosecution towards Hamilton, is more broadly asking about any further communication outside official channels. This could include the alleged phone call, but it might also include other communications or direct messages applicable to the case. The witness is asked to answer.
+
+The Court hereby reminds the Defendant that they also have the right to refuse self-incrimination in a court of law, in accordance with the Constitution, and may invoke such right towards any question should they believe that their answer may incriminate themselves.
+
+@Overlordofpeonys and @Galavance are reminded to respond to this case.
+
+### Feb 1, 2025
+Author: Overlordofpeonys
+Date: 2025-02-01T15:43:14-0500
+Page: 2
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-550
+Type: Unclassified
+
+I invoke my right against self-incrimination and decline to answer this question.
+I invoke my right against self-incrimination and decline to answer this question.
+As this question follows directly from Question 2, I invoke my right against self-incrimination and decline to answer. However, I have testified regarding the incident on January 13th, and I maintain that Sergeant Spyrolix was not online during this incident.
+I have testified regarding the incident that occurred on January 13th. If there are any questions related to a possible incident on January 11th, I invoke my right against self-incrimination and decline to answer.
+I invoke my right against self-incrimination and decline to answer this question.
+I invoke my right against self-incrimination and decline to answer this question.
+
+### Feb 2, 2025
+Author: Galavance
+Date: 2025-02-02T14:43:44-0500
+Page: 2
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-560
+Type: Unclassified
+
+1. I did not
+
+3. I did not
+
+4. There was no suggestion made to me specifically. The only thing that could be interpreted as a suggestion was the draft written by Spyrolix. I had, due to IRL health circumstances, overlooked the part of the draft about disbarment. When discovering it publicly through this lawsuit, I reacted in surprise. Spyrolix said he was tired at the time and made the mistake due to fatigue and expected a discussion before it was filed. I found this fair.
+
+5. Spyrolix outside of the official governmental channels, but these conversations did not cause a significant influence on the case.
+
+6. Yes, I have. I mentioned the settlement of LukeTheGreat's case during the voice call.
+
+7. OverlordOfPeonys has not yet been prosecuted for the incident on January 11th. At the time, the Ministry of Justice was still investigating the validity of the evidence regarding Overlord’s full involvement and determining what and how many explicit charges he would face.
+
+8. Yes, this is true.
+
+### Feb 2, 2025
+Author: Westray
+Date: 2025-02-02T17:53:20-0500
+Page: 3
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-563
+Type: Unclassified
+
+If the Prosecution wishes to ask any follow-up questions, they have 12 hours to do so. Afterwards, the Defence will have the opportunity to cross-examine the other side's witnesses.
+
+### Feb 3, 2025
+Author: Omegabiebel
+Date: 2025-02-03T01:57:36-0500
+Page: 3
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-566
+Type: Unclassified
+
+Your honour 12 hours is a ridiculously small window. The witnesses have been extremely uncooperative requiring us to be more precise in our questions and provide and upload evidence in support of facts that should be undisputed, this process takes time but is essential to proving the case.
+
+Furthermore, since overlord is refusing to cooperate, we ask that you call Spyrolix to the stand to answer the other side of the arrest.
+
+Questions for Galavance
+
+You deny saying that no one in high command ordered political disbarments. Can you explain your comments in Attachment 1 from the political forums?
+You deny discussing suspending political opponents in high command. Can you explain your comments in Attachment 2?
+On January 5th, you asked Venom to investigate PM Milkcrack for robbery and assault. Later, you told them to not prosecute Milkcrack. Why was this decided? Attachments 3 and 4
+On January 11th, you asked Venom to re-open the investigation into Milkcrack. What changed between the 5th and the 11th? Attachment 5
+You asked prosecutors to investigate Wetc for bribery based on a screenshot in Attachment 5. How did you obtain that screenshot?
+The bribery case against Wetc was quickly dismissed. Why?
+You also ordered investigations into Luke, Wetc, Fluffy, and Milkcrack but never mentioned OverlordOfPeonys, despite their three prior arrests for bank robbery. Why did you target these four MPs but ignore OverlordOfPeonys?
+On January 13th, did OverlordOfPeonys indeed comply with your request to come to the station, as you claimed, so "you did not have to chase them down"?
+Questions for Spyrolix
+
+Did you arrest OverlordOfPeonys for bank robbery on January 11th?
+Why was no case or criminal record filed for this arrest?
+You told the prosecutor to file charges against Luke ASAP. Why the urgency? Attachment 6
+Why was there no similar urgency for OverlordOfPeonys?
+
+### Feb 3, 2025
+Author: spyrolix
+Date: 2025-02-03T08:13:47-0500
+Page: 3
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-569
+Type: Unclassified
+
+Your Honor,
+
+As I was neither listed as a witness nor did I testify on my own behalf during direct examination, the prosecution cannot unilaterally add me to the witness list and subject me to questioning. OverlordOfPeonys has invoked his right against self-incrimination, a fundamental constitutional protection that the prosecution must respect.
+
+Additionally, I request an explanation as to why the prosecution is presenting this evidence so late in the trial. Standard legal procedure dictates that such evidence should be disclosed at the outset of the case to ensure both parties have sufficient time for review and preparation. Introducing new evidence at this stage creates an unfair disadvantage and raises concerns about procedural fairness. Therefore, I seek confirmation on whether this evidence will be admitted in court.
+
+Furthermore, as many of the newly submitted attachments provide additional context to previously introduced evidence, I ask the prosecution to clarify why this context was omitted earlier, despite their apparent prior access to it. Their delayed disclosure raises questions about the completeness and fairness of the evidence presented thus far.
+
+If the Court allows these new questions and evidence, the defense respectfully requests at least 36 hours to review the materials and confer with the defendant before proceeding.
+
+### Feb 3, 2025
+Author: Westray
+Date: 2025-02-03T10:08:20-0500
+Page: 3
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-570
+Type: Unclassified
+
+As Spyrolix was not on the initial witness list, he will not be included in the questioning. That being said, since Spyrolix is the defence attorney for the Defendant, it is advisable that he may consider answering such questions in his closing remarks.
+
+With regards to the evidence presented, if it was not presented during the discovery period, it will not be taken into consideration in the overall verdict. However, it may be used to help support in questioning the witnesses, as I believe was intended.
+
+As for Galavance, he is asked to answer the questions posed by the Prosecution above. He has 36 hours to do so.
+
+### Feb 4, 2025
+Author: Galavance
+Date: 2025-02-04T16:26:55-0500
+Page: 3
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-580
+Type: Unclassified
+
+1. In Attachment 1 presented by the prosecution, I stated, "I don't believe anyone in high command within the MOJ asked for you to be disbarred." The prosecution alleges that I claimed no one ordered political disbarments. However, I must clarify that I have never used the term "ordered," and there is a significant distinction between being "asked" and being "ordered," which I wish to emphasize.
+
+To address any potential misunderstandings, I would like to state the following:
+
+a) To the best of my knowledge, no one in high command ordered nor asked for the illegal permanent disbarment of Fluffywaafelz from running for office. The charges of bribery carried a punishment of disbarment from governmental office, not permanent disbarment from running for office.
+
+b) To the best of my knowledge, no one in high command ordered the illegal disbarment of LukeTheGreat. While a draft of the complaint was made, there was no order given. The prosecutor was not instructed to explicitly follow or replicate what Spyrolix suggested.
+
+I cannot stress enough the critical difference between being "asked" and being "ordered," and I stand by my original statement.
+
+2. I did not deny discussing the suspension of political opponents. To be exact the question was “Did you, or did you not speculate in High-Command channels on how to suspend political opponents from their role in government? Such as Such as Wetc, Milkcrack, Fluffywaafelz or LukeTheGreat. .” To which I responded “I did not “.
+
+Yes I did discuss the suspension of these individuals, but this was regardless of their political preference or position. They were being investigated for crimes (bribery and corruption) that hold disbarment from office in their punishment. What I did not do was speculate on the best approach to suspending them.
+
+What is shown in Attachment 2 is the discussion surrounding the suspension of
+
+Fluffywaafelz and MilkCrack. At the time, they were under investigation for bribery and corruption, respectively. In MilkCrack's case, there were concerns regarding his inability to be cuffed, and we were uncertain whether this was due to a technical staff issue or abuse of his position. This issue ultimately turned out to be a staff-related matter. Furthermore, the other charges he was being investigated for lacked sufficient evidence, and as a result, we decided not to prosecute him.
+
+The primary reason our focus shifted towards Fluffywaafelz was due to the limited resources at our disposal. Additionally, we were still in the process of determining the appropriate legislative framework for suspending a Prime Minister and what procedures would follow in such a scenario as there is no Deputy Prime Minister appointed.
+
+3. I did not ask Venom to investigate. I asked them to prosecute. This means that the police department provided them with evidence they could use in a court case.
+
+I believed we had limited resources at our disposal—particularly as we only had a single Government prosecutor—and therefore prioritized the case against Fluffywaafelz, as previously mentioned. I had planned to schedule MilkCrack's case as well, but in the meantime, it was determined that the issue of immunity against cuffing was staff-related, and the evidence was ultimately deemed not credible enough.
+
+4. The investigation against MilkCrack was not officially closed on the 5th. What is mentioned in Attachment 5 are cases where the investigation process had been initiated but had not yet reached a conclusion, whether through dismissal or prosecution.
+
+5. This is confidential information within the MoJ. I do not see how this is relevant for the case, as the issue with wetc was resolved shortly after.
+
+6. WetC wasn't prosecuted as it was a screenshot from a staff-related outreach program.
+
+7. The high command handled each investigation individually. I assume the prosecution is referring to Attachment 5. The investigation into OverlordOfPeonys had not yet begun due to a lack of resources. The only names listed, alongside Fluffywaafelz, were individuals who, as mentioned earlier, already had ongoing investigations against them.
+
+8. Yes, he did.
+
+### Feb 5, 2025
+Author: Westray
+Date: 2025-02-05T05:00:14-0500
+Page: 3
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-586
+Type: Unclassified
+
+@Omegabiebel does the Defence have any more follow-up questions?
+
+### Feb 6, 2025
+Author: Omegabiebel
+Date: 2025-02-06T03:49:33-0500
+Page: 3
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-591
+Type: Unclassified
+
+Your Honour, Galavance has not answered question 5 the way the evidence was gathered and the following order to investigate can be relevant to motive.
+
+We request that they are required to do so.
+
+### Feb 6, 2025
+Author: spyrolix
+Date: 2025-02-06T11:21:39-0500
+Page: 3
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-592
+Type: Unclassified
+
+In the Court of the Azalea Isles
+
+OBJECTION IRRELEVANCE
+
+Your Honor,
+
+The defense maintains that this question is irrelevant, as the defendant has already stated in their testimony. The prosecution is inquiring about how evidence was obtained in a case that was previously investigated and dismissed, having been determined to be related to an outreach program rather than roleplay.
+
+While the prosecution argues that this may be relevant to the current case, there is no clear proof or evidence to substantiate this claim. They assert that the question must be answered to establish or refute the defendant’s motive. However, the prior investigation was concluded and dismissed before it could even reach court, and it was not made public until it was introduced as evidence in this case.
+
+The defense fails to see how this could reasonably be considered a possible motive, let alone how the source of the report itself could be relevant.
+
+Furthermore, I wish to emphasize the defendant’s statement that this information is confidential. Reports of crimes or individuals submitted to the Ministry of Justice should remain anonymous unless formally disclosed in a public channel. Breaching this confidentiality endangers the safety of the informant.
+
+### Feb 6, 2025
+Author: Westray
+Date: 2025-02-06T17:07:10-0500
+Page: 3
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-593
+Type: Unclassified
+
+The Defence may respond to the Plaintiff's objection by explaining to the Court why they believe such question is relevant.
+
+If there is no response within the next 12 hours, the Court will rule on the objection regardless of a response.
+
+### Feb 6, 2025
+Author: Omegabiebel
+Date: 2025-02-06T18:05:26-0500
+Page: 3
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-595
+Type: Unclassified
+
+Your honour,
+
+A 12 hour deadline is way too short. People have lives, people need to sleep. I request a 24 hour extension so I can at least do this properly, and so I can do this while not being exhausted.
+
+### Feb 6, 2025
+Author: Westray
+Date: 2025-02-06T18:42:12-0500
+Page: 3
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-596
+Type: Unclassified
+
+Omegabiebel said:
+Your honour,
+
+A 12 hour deadline is way too short. People have lives, people need to sleep. I request a 24 hour extension so I can at least do this properly, and so I can do this while not being exhausted.
+
+Your extension request has been granted. You have 24 hours, from this post, to respond to the objection if you wish. I emphasize that a response to the objection is entirely optional, and if you miss such deadline the Court will rule on the motion without giving you any sanction for failing to post a reply.
+
+### Feb 7, 2025
+Author: Omegabiebel
+Date: 2025-02-07T06:06:09-0500
+Page: 3
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-600
+Type: Unclassified
+
+Your Honour,
+
+The prosecution's case seeks to prove that Galavance selectively ordered the investigation of political opponents for personal gain. In pursuit of this, we assert that Galavance attempted to fabricate charges against Wetc, serving no legitimate purpose.
+
+The context of how Galavance came into possession of this evidence speaks directly as to whether Galavance had a legitimate concern, or was merely on a fishing expedition to find any justification at all, for launching an investigation.
+
+Furthermore, the defence is trying to argue they acted in good faith because Galavance stopped the investigation as soon as they found it was staff related. We content that the evidence has only been shown in a staff-related context and Galavance would have known this all along.
+
+Whether or not Galavance obtained the evidence in a staff-related context or not is therefore of material concern.
+
+### Feb 7, 2025
+Author: Westray
+Date: 2025-02-07T10:22:19-0500
+Page: 3
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-601
+Type: Unclassified
+
+After careful consideration of both arguments, the Defence's objection to this question is hereby overruled. The question is seen as relevant to the case because it relates to the accusation that the Defendant had allegedly used his position for political purposes. It is important to examine whether or not "Wetc" was targeted as an individual or part of a more broad investigation.
+
+The witness, @Galavance, is asked to answer question 5 from the prosecution, regarding how such screenshot was obtained. An answer will be required within the next 24 hours or as soon as possible. This will be the last question asked towards the witness before the Defence has the opportunity to cross-examine.
+
+### Feb 7, 2025
+Author: Galavance
+Date: 2025-02-07T14:19:33-0500
+Page: 3
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-606
+Type: Unclassified
+
+Your Honor,
+The screenshot mentioned in Exhibit E was sent to me by Ven0mSaint. I have attached evidence to support this.
+
+### Feb 7, 2025
+Author: Westray
+Date: 2025-02-07T20:42:57-0500
+Page: 3
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-608
+Type: Unclassified
+
+The Defence may now cross-examine by posing questions to the witnesses called by the Prosecution:
+
+Luke Thegreat (Luke201556)
+James Carrington (ven0msaint)
+Lebron James (fluffywaafelz)
+The Defence has 48 hours to do so, @spyrolix.
+
+### Feb 8, 2025
+Author: spyrolix
+Date: 2025-02-08T18:05:58-0500
+Page: 3
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-610
+Type: Unclassified
+
+Your Honor,
+
+The defense respectfully requests an extension of 36 to 48 hours due to real-life health issues. I sincerely apologize for any delay this may cause in the trial. Despite my best efforts, I am unable to operate effectively in my current condition.
+
+I will do my best to submit my questions before the deadline, but I wanted to inform the court in advance.
+
+Thank you for your understanding.
+
+### Feb 9, 2025
+Author: Westray
+Date: 2025-02-09T12:07:41-0500
+Page: 3
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-611
+Type: Unclassified
+
+spyrolix said:
+Your Honor,
+
+The defense respectfully requests an extension of 36 to 48 hours due to real-life health issues. I sincerely apologize for any delay this may cause in the trial. Despite my best efforts, I am unable to operate effectively in my current condition.
+
+I will do my best to submit my questions before the deadline, but I wanted to inform the court in advance.
+
+Thank you for your understanding.
+
+Your extension request has been granted. You have an additional 48 hours to provide any cross-examination questions accordingly.
+
+### Feb 10, 2025
+Author: spyrolix
+Date: 2025-02-10T15:30:20-0500
+Page: 3
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-617
+Type: Unclassified
+
+Your Honor,
+
+The defense hereby asks their questions for cross-examination
+
+LukeTheGreat
+1. At any point in time, did you ask Galavance for their reasoning regarding the alleged link between the dismissal of your court case and your decision to join the party?
+2. At any point in time, did Galavance explicitly connect the dismissal of your court case to your decision to join the party?
+3. Did Galavance offer you a settlement?
+4. Did Spyrolix contact you with an offer for a settlement?
+5. If so, during this conversation, did Spyrolix bring up the topic of you joining the party at any point in time from the offer of the settlement until the case was settled?
+6. At any point in time, did you ask Spyrolix for a possible reasoning regarding the alleged link between the dismissal of your court case and your decision to join the party?
+7. In CR-25-02 on january 17th (CEST), you stated and I quote: "I have taken the plea deal and wish to continue with it my response was due to the allotted extra 24 hours to respond was finishing and I did not wish for the court to decide on a default ruling". Why did you accept the settlement, but then attempt to continue the court case against you?
+
+Ven0mSaint
+1. Were you ordered by anyone in high command to include the punishment of permanent disbarment from office in the case Azelea Isles vs Fluffywaafelz (CR-25-01)?
+2. If so, through which communication channel was this order given?
+3. Before the filing the complaint in CR-25-02, did Spyrolix provide you with a proposed outline for the complaint?
+4. If so, were you explicitly ordered to copy all punishments mentioned by Spyrolix in the outline?
+5. Were you given the opportunity to provide feedback on this outline before proceeding with the filing?
+6. Did you raise with anyone in high command that one or more punishments in the outline could be illegal?
+
+### Feb 12, 2025
+Author: Westray
+Date: 2025-02-12T10:20:20-0500
+Page: 3
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-627
+Type: Unclassified
+Images:
+- https://cityrp.org/data/attachments/0/134-f5a961d2ae069ccfe3ee4d8c1e34e101.jpg?hash=9alh0q4GnM (1739369991484.png)
+
+The witnesses, @Luke201556 and @James Carrington, are reminded that they must respond to the Court within the next 24 hours, or else they may face charges for contempt of court. Both have been notified as of yesterday to respond:
+
+### Feb 12, 2025
+Author: Luke201556
+Date: 2025-02-12T11:54:43-0500
+Page: 3
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-628
+Type: Unclassified
+
+1. No, for I did not wish to risk Galavance pulling away my plea deal which would have left me fighting a legal battle I could not afford with no legal council or possibility of finding one.
+
+2. No
+
+3. Not directly no, this was covered in my first round of questioning.
+
+4. Yes
+
+5. No
+
+6. I did not, for I did not want to risk jeopardising the plea deal because I of the above stated reasons in Q.1.
+
+7. I was legally obligated to post my response to the court before the end of allotted timeframe to do so, which as the legal representative you should know, otherwise I would have been liable to be held in competent of court or have a default ruling be made against me. If Spyrolix had posted the the dismissal of the case sooner I would not have needed to post my response. But due to the stalling of Spyrolix on the posting of this dismissal I was forced to respond, these actions made by Spyrolix also strongly made me feel as if the plea deal was meant as a distraction so that the default ruling would be made with me being removed from my office and would have me prosecuted as in contempt of court as well as such I made sure to prepare a response in case the deadline came due, which it very almost did.
+
+### Feb 13, 2025
+Author: spyrolix
+Date: 2025-02-13T13:13:55-0500
+Page: 4
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-636
+Type: Unclassified
+
+MOTION FOR SANCTIONS
+Your Honor,
+
+The deadline for responding to the defense's questions has passed by two hours. @James Carrington (ven0msaint) has neither provided responses nor indicated availability or requested an extension.
+
+Given this, the defense requests that Mr. Carrington be held in contempt of court. If permitted by the court, the defense wishes to proceed without his responses. However, we request that it be noted on the record that the defense was unable to question this witness, and as a result, his testimony should be regarded with caution.
+
+### Feb 13, 2025
+Author: Westray
+Date: 2025-02-13T13:21:43-0500
+Page: 4
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-637
+Type: Unclassified
+
+Given that James Carrington (ven0msaint) has failed to respond to the case as a witness in cross-examination, despite ample notification to do so, this leaves the Court will no choice but to find him in contempt of court. The Ministry of Justice is ordered to fine the witness $500 for failing to respond to a court-issued order.
+
+The Defence has 12 hours to provide any follow-up questions to the witness who answered, Luke. If they do not have any follow-up questions, it is asked that they please indicate such to the Court.
+
+### Feb 13, 2025
+Author: spyrolix
+Date: 2025-02-13T19:04:22-0500
+Page: 4
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-638
+Type: Unclassified
+
+Your Honor,
+
+The defense has a few follow-up questions for LukeTheGreat:
+
+1. You stated that the defendant did not offer you a settlement directly. Could you clarify what you mean by this?
+2. Before the case was dismissed, did you express any concerns to government officials about the plea deal being tied to joining the party?
+3. Did you specifically raise concerns with any authoritative figures in the government regarding the plea deal’s requirement to join the party?
+4. If so, who?
+5. You remained in the APA until you were forced out by party leaders. Why did you choose to stay after the case was dismissed?
+
+### Feb 13, 2025
+Author: Luke201556
+Date: 2025-02-13T20:50:08-0500
+Page: 4
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-642
+Type: Unclassified
+
+1. As stated in my previous questioning, I was not explicitly offered the plea deal directly by Galavance but was told "...that I would be happy to hear that Spyrolix would be in contact soon to discuss a plea deal to drop the case."
+
+2. Yes, although I was severely limited by who I could talk to as all member of the MOJ are currently expressly considered under the Minister, who was the accused, while the honourable judge had previously denied my motion and my accusations of corruption against the minister and prosecutor ruling, in my opinion given the information the judge could access at the time fairly against it but leaving me the option to re-submit the motion, that there was not sufficient evidence, in hindsight I should have taken precautions when I was contacted by Galavance and should have reported what had happened directly to the judge but as stated many times I had not the resources to continue fighting a legal battle with no legal representatives even if I had thought to inform the judge.
+
+3. Yes I did inform members of the government at the time of my strong belief that Galavance was using his position to force me to join the party or the plea deal would be withdrawn. I also spoke about it to high members of the ruling party at the time as due to the supermajority government control they where the only people who stood to be able to do something about which and they now stand as members of the current government.
+
+4. ChrisAkselsen01 and later on Milcrack was informed. I believe I informed another but I cannot honestly remember at the current time. I had also previously discussed the goings on at the time with Fluffywafles as well who was a member of parliament at the time but I am not sure if I directly discussed the plea deal situation with them.
+
+5. As between the time that the court case was closed and this one was opened at which point I was removed from the party I had completed a 12 hour shift doing electronics in a darn in the cold so by the time I was back at home, rested and got back up I was kicked out, so I simply did not have the time to leave other than when I was told spy had motioned to close the case and that I was free but the presiding judge had not acknowledged the withdraw at that point in time so I did not wish to jeopardise the plea deal.
+
+### Feb 14, 2025
+Author: spyrolix
+Date: 2025-02-14T16:44:19-0500
+Page: 4
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-646
+Type: Unclassified
+
+The defense has no further questions, your Honor.
+
+### Feb 16, 2025
+Author: Westray
+Date: 2025-02-16T04:03:34-0500
+Page: 4
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-649
+Type: Unclassified
+
+The Prosecution has 48 hours to present their closing statement.
+
+### Feb 17, 2025
+Author: Omegabiebel
+Date: 2025-02-17T16:53:56-0500
+Page: 4
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-653
+Type: Unclassified
+
+CLOSING STATEMENT
+Your Honour,
+The key facts of this case are uncontested. The law is clear. The defendant, Galavance, stands guilty of abusing their power to target political opponents, selectively enforcing the law to protect a political ally, and extorting political allegiance in exchange for dropping charges.
+
+Galavance personally initiated an investigation into Wetc, Luke, and Milkcrack, with the clear intent to disbar and suspend them from office. They and High Command were directly involved in filing charges, seeking the disbarment of Fluffywaafelz and Luke—without ever providing a single legal argument for their actions.
+Exhibits A, B and C
+
+After which, Galavance lied about their involvement and gave evasive answers when questioned.
+
+By using their authority as MOJ minister to initiate investigations against political opponents with the express purpose of suspending and disbarring them, without any legal justification, Galavance acted outside of the law.
+
+This was done to benefit themselves, and their political ambitions and to damage the reputation and electoral prospects of his opponents.
+
+Therefore, by the definition of corruption:
+"It shall be illegal for any person with any government job to refuse to fulfill their duty or use their position for personal gain or for the gain of a friend."
+
+Galavance used their position for personal gain, meeting the definition of corruption. Establishing Count 1x.
+
+While aggressively pursuing charges against Luke, Wetc, and Milkcrack, Galavance deliberately ignored clear evidence of misconduct by OverlordOfPeonys. Despite the evidence against Overlord being identical to Luke's, OverlordOfPeonys was not even charged with a crime let alone prosecuted with the intent to disbar them from running for office.
+
+The Ministry of Justice had extensive documentation—arrest reports, pictures, testimonies—proving OverlordOfPeonys committed the same crimes on multiple occasions. Yet, no investigation was ever launched.
+
+Galavance admitted to deprioritizing this case while prioritizing their political opponents. This is a textbook example of corruption: refusing duty to protect a friend or ally. Establishing count 2x of corruption.
+
+The third and most overt act of corruption is that: Galavance used their power to force Luke into joining their party.
+
+The facts are that Luke did not want to join the APA before the conversation. Galavance and Luke had a 23-minute voice chat where they discussed both the case and Luke’s potential membership. And Immediately after Luke joined the APA, the charges against him were dropped.
+
+After which Luke himself reported this blatant corruption and abuse of power to the Prime Minister.
+
+It is completely improper to discuss criminal charges against someone in the same context as attempting to get them to join your party. Galavance used its authority to extort political loyalty in exchange for dropping charges. That is an abuse of power of the highest order.
+
+There can be no doubt, that Luke was persuaded to join the APA only to have their charges dropped. There can be no doubt that Galavance knew that dropping Luke's charges would impact his decision to join the APA, otherwise he would not have discussed it.
+
+Therefore Galavance used his position, to benefit themselves and their political party contrary to the law.
+
+The law does not require proving intent—only that the acts themselves took place. But even if intent were necessary, Galavance’s actions leave no doubt. They deliberately misused their office, protected their allies, and extorted their opponents. Their repeated misconduct proves their clear intent to exploit their position for personal and political gain.
+
+These actions, together also meet the definition of treason and would ask the court to find Galavance guilty of that.
+
+Conclusion, Your Honour, the evidence is overwhelming. Galavance is guilty of three counts of corruption.
+
+Each of these offences is a serious violation of public trust. Each independently meets the legal definition of corruption. Taken together, they paint a picture of a Minister who believed their power placed them above the law.
+
+But no one is above the law. And today, justice must be served.
+Galavance is guilty.
+
+### Feb 17, 2025
+Author: Westray
+Date: 2025-02-17T17:11:11-0500
+Page: 4
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-654
+Type: Unclassified
+
+Thank you for your closing statement. The Defendant has 48 hours to present his closing statement.
+
+### Feb 17, 2025
+Author: spyrolix
+Date: 2025-02-17T21:45:51-0500
+Page: 4
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-656
+Type: Unclassified
+
+Your Honor,
+I begin by quoting the prosecution: "The law is clear." At least on this, we can agree.
+
+For the past 30 days, the prosecution has built its case on assumptions, filing a complaint full of speculation. Despite the defense repeatedly disproving their claims, they persisted until their closing statement.
+
+To conclude this case, the defense presents undeniable facts, supported by evidence, to put these baseless accusations to rest once and for all.
+
+1 No Abuse of Power - All investigations were lawful
+Investigations into Wetc, LukeTheGreat, and MilkCrack were initiated based on the evidence presented in Exhibits E, J, and K, respectively. All of this evidence was lawfully obtained, and the prosecution has failed to provide evidence to the contrary. The defendant has testified under oath that each investigation was based on valid evidence and that there was no strategizing aimed at disbarring political opponents. This testimony was further corroborated by Nanicholls.
+
+Naturally, as Minister of Justice, the defendant had the authority to initiate these investigations, as they were legitimate criminal matters.
+
+2 Selective Prosecution – False Equivalence
+It is absurd to assume all evidence in these cases is identical. Each case is handled independently, and the prosecution has failed to prove that the evidence against LukeTheGreat and OverlordOfPeonys is the same. Furthermore, OverlordOfPeonys has not been declared innocent, as the statute of limitations still allows for their arrest.
+
+The prosecution claims that 'deprioritizing' a case is the 'textbook definition of corruption.' However, Criminal Code Section 2.4 defines corruption as 'refusing to fulfill one's duty' or using a position for personal gain. Prioritizing cases due to an understaffed department is not corruption—it is necessary governance.
+
+Finally, the defense rejects the term 'political opponents' in reference to the defendant’s actions. As the defendant testified: 'Yes, I discussed suspensions, but regardless of political preference or position.'
+
+3. No coercion– LukeTheGreat’s Decision Was Voluntary
+The prosecution points to LukeTheGreat's belief that joining the party would lead to his case being dropped. But belief is not fact. Both the defendant and LukeTheGreat testified that no explicit offers were made.
+
+The prosecution presents no evidence beyond coincidental timing. The defense acknowledges LukeTheGreat’s feelings of pressure but maintains that the defendant was unaware of this—no concerns were ever communicated. Even those with the authority to question him failed to do so, instead rushing to file a lawsuit. The defendant cannot be held accountable for an assumption he neither knew of nor acted upon.
+
+4. No Corruption, No Treason, No Crime
+The prosecution insists that intent is irrelevant, yet their entire case depends on claims of deliberate misconduct—without proof.
+
+But without clear, indisputable proof of these deliberate acts, their case collapses.
+
+There was no abuse of power—only legal investigations.
+There was no selective prosecution—only prioritization.
+There was no coercion—only circumstantial timing.
+
+To claim treason is outright absurd. Treason is the highest crime against the state, involving betrayal, espionage, or acts of war. Political disputes and investigative decisions do not constitute treason.
+
+Conclusion
+Your Honor, to quote the prosecution once more: ‘the evidence is overwhelming.’
+But the law demands more than accusations—it demands evidence. It demands that guilt be proven beyond a reasonable doubt. The prosecution has failed to meet this standard. Their case is built on speculation, assumptions, and political theater, not concrete proof. They have presented no direct evidence of corruption, coercion, or intent.
+The defendant acted fully within the scope of their duties, and there is no lawful basis for a conviction.
+
+For these reasons, we respectfully ask the court to deliver a verdict of not guilty on all charges.
+
+Furthermore, this trial has placed an unjustified burden on the defendant. A case built entirely on speculation, assumptions, and baseless allegations—without sustainable proof—should never have been brought to trial. Over the course of a month, the defendant has been forced to divert time, energy, and resources to defend against unfounded claims. This has resulted in significant legal fees, damage to reputation due to bad publicity, and undue personal and professional stress.
+
+Thus, the defendant seeks compensatory damages of no less than $20,000 and up to $50,000 for legal expenses, reputational harm, and other damages incurred due to this state-sponsored act of malicious prosecution.
+
+As we’ve seen, Your Honor, one side is based on evidence, while the other relies on speculation, accusations, and assumptions. The defendant has acted lawfully, impartially, and with integrity. The charges are unsupported by credible evidence, and we trust the court will recognize this.
+
+Thank you, Your Honor.
+
+### Feb 27, 2025
+Author: Omegabiebel
+Date: 2025-02-27T13:20:56-0500
+Page: 4
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-670
+Type: Unclassified
+
+The prosecution and defense have reached an agreement and the defense agreed to a plea deal.
+
+### Feb 27, 2025
+Author: spyrolix
+Date: 2025-02-27T13:50:44-0500
+Page: 4
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-671
+Type: Unclassified
+
+Your Honor,
+
+The attachment presented by the prosecution does not constitute an agreement to a plea deal. During discussions with the prosecution, the defendant was offered a plea deal, which was subsequently rejected. The prosecution then inquired about the terms under which a resolution could be reached outside of court. The defendant’s response to this inquiry is reflected in the attachment.
+
+As evidenced in the attachment, the defendant has requested a formal offer from the prosecution, clarifying that they will not be the one to propose an offer. Rather, the defendant has merely outlined their conditions. If the prosecution extends an official offer that aligns with these terms, and the defendant agrees, they will sign the agreement.
+
+Furthermore, I wish to emphasize that this is not a plea deal. The defendant is only willing to sign an agreement in the form of a transactional settlement. Any agreement requiring an admission of guilt will be categorically rejected.
+
+Thank you.
+
+### Feb 28, 2025
+Author: Westray
+Date: 2025-02-28T13:28:23-0500
+Page: 4
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-673
+Type: Unclassified
+
+It is asked that both parties avoid giving the court the run-around while it is deliberating a verdict. The Prosecution must make it clear that the Defendant agrees to these terms by having them respond to the thread; and the Defendant must avoid adding confusion to that regard.
+
+Please also be advised that a plea deal does not necessarily constitute an admission of guilt. This deal may involve a plea of no contest or otherwise measure grounded in law. The next posts, if any, should be a clarified deal between the parties. It is asked that both avoid contradicting each other when trying to come to an out-of-court settlement.
+
+The Prosecution and Defendant have 48 hours to come to the Court with a deal that all parties have agreed to, if any.
+
+### Mar 3, 2025
+Author: Westray
+Date: 2025-03-03T11:42:09-0500
+Page: 4
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-693
+Type: Unclassified
+
+Before moving forward, does either party wish to present a settlement that was agreed to? The Court has a verdict prepared but I would like to ensure there is no out-of-court settlement that has already occurred. Both parties have an additional 48 hours to express whether a settlement was agreed to or if they wish to move forward to the verdict.
+
+### Mar 4, 2025
+Author: spyrolix
+Date: 2025-03-04T22:54:37-0500
+Page: 4
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-698
+Type: Unclassified
+
+Your Honor, the defense has not agreed to a settlement and has no settlement to propose. The defense wishes to move forward to the verdict.
+
+### Mar 5, 2025
+Author: Westray
+Date: 2025-03-05T23:40:35-0500
+Page: 4
+Post Link: https://cityrp.org/threads/azalea-isles-v-galavance-2025-cr-03.139/post-700
+Type: Unclassified
+
+Court Verdict
+Azalea Isles Criminal Court (CR)
+
+Case No. CR-25-03
+Azalea Isles v. Gala Hamilton (Galavance)
+
+Position of the Plaintiff
+1. The Prosecution alleges that the Defendant abused their position as Minister of Justice to engage in political corruption, including initiating investigations against political opponents with the intent to bar them from running in elections and selectively enforcing the law for personal and political gain.
+2. The Prosecution contends that the Defendant initiated investigations into Wetc, Luke, Fluffywaafez, and MilkCrack with the explicit intent of disbarring them, bypassing lawful procedures, and using their power to harm political opponents. The Prosecution claims these actions were contrary to the public trust and an abuse of authority.
+3. The Prosecution argues that Defendant's failure to pursue similar charges against OverlordOfPeonys (despite clear evidence of misconduct) constitutes selective prosecution. The Prosecution asserts that Defendant's decision to deprioritize the Overlord case while aggressively pursuing charges against others reflects political bias, which undermines the integrity of the Ministry of Justice.
+4. The Prosecution suggests that the Defendant's interaction with Luke, in which he allegedly pressured Luke into joining the APA to have charges dropped, is an abuse of power and coercion. The timing of Luke’s decision to join the party and the subsequent dropping of charges is cited as evidence of political manipulation and corruption.
+
+Position of the Defendant
+1. The Defendant, Galavance, asserts that all investigations into Wetc, Luke, Fluffywaafelz, and MilkCrack were lawful and based on valid evidence. The Defence contends that Galavance, in his capacity as Minister of Justice, had the legal right to initiate these investigations, and there was no political motive or abuse of power involved.
+2. The Defendant argues that the Prosecution’s claims of selective prosecution are unfounded, as the evidence against Overlordofpeonyswas not identical to that against Luke. The Defence explains that the decision to deprioritize the Overlord case was a result of resource constraints and not political bias.
+3. The Defendant asserts that there is no proof of intent to misuse power, as required to establish corruption. Their alleged actions were within the scope of their legal duties, and no clear evidence of misconduct or illegal acts has been
+provided.
+4. The Defendant rejects the Prosecution’s claims of coercion regarding Luke’s membership in the APA, arguing that Luke’s decision was voluntary and not the result of any explicit offer or pressure from Galavance. The Defence points out that no evidence was presented to show that the Defendant coerced Luke into joining the party in exchange for dropping charges.
+5. The Defendant argues that investigative decisions or political disputes do not constitute treason.
+
+Court Opinion
+1. In order to establish whether or not a crime has been committed, it is important to consider both the intent and act. Is there enough evidence to prove that the Defendant had the intent to be corrupt or commit treason? Is there enough evidence to show that the Defendant engaged in the act of corruption or treason? These are the questions the Court considered in their opinion and we find that circumstantial evidence based on assumptions only proves suspicions at this time.
+2. The Court acknowledges the Prosecution’s concerns regarding the potential abuse of power by Defendant, particularly in the context of political investigations and the timing of Luke’s decision to join the APA. However, the Court finds that the Prosecution has failed to provide direct, irrefutable evidence of improper motives behind the investigations or selective prosecution. While the timing of the voice chat is incredibly concerning, the Court cannot make assumptions as to what was said in such chat without clear evidence linking its relation.
+3. The Court also notes that while there may have been perceived political motivations behind the Defendant's actions, the Defence has successfully argued that the investigations were lawful and within the scope of the Minister of Justice’s duties. It has not been proven that the case against Overlordofpeonys was not identical to the others, and there is insufficient evidence to suggest intentional bias in prioritizing the cases.
+4. The Court agrees that the Ministry of Justice's decision to ask that defendants be barred from government in CR 01 and CR 02 to be unjustified. Bank Robbery and Murder are not charges that include removal from office, and so the Ministry of Justice made a clear mistake in their filing. However, as for the alleged connection, the prosecutor from those cases was James Carrington (ven0msaint), a member of the same party in which the defendants were. If the prosecution were truly motivated by political desires, the Court would need to see evidence of the Justice Minister demanding the cases be filed that way, which there has been insufficient evidence of. In ven0m's answers, they claimed that it was only Spyrolix who suggested potential removal, but did not elaborate nor claim that it was a direct order it as Spyrolix was not the minister-in-charge at the time.
+5. The Court finds that while Galavance’s actions may have had the appearance of a politically charged action, the Prosecution has not met the burden of proof required to establish corruption or treason beyond a reasonable doubt. The allegations, while serious, are based more on circumstantial evidence and assumptions than on concrete, proven misconduct. Constitutional law is built on innocent until proven guilty beyond a reasonable doubt, and therefore the principles of justice must prevail.
+
+Decision
+The Azalea Isles Criminal Court hereby rules in favour of the Defendant, declaring them not guilty of the charges put forward. While we find the actions of the Defendant to be incredibly questionable, likely justifying their eventual removal as Minister of Justice, we believe there is no proof beyond reasonable doubt to show that their actions fell under the definition of corruption and or treason.
+
+The Court thanks both parties for their time.
+
+Signed,
+Hon. Justice Raymond West
+
+
+## Outcome
+Pending.
+
+## Precedential Value
+Pending.
+
+## Lawyer Notes
+Pending.

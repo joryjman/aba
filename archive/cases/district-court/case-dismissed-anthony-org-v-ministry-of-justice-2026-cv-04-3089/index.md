@@ -1,0 +1,448 @@
+# Case: Dismissed Anthony Org v. Ministry of Justice (2026) CV 04
+
+Court: District Court
+Status: Dismissed
+Case Number: 2026 CV 04
+Forum Link: https://cityrp.org/threads/anthony-org-v-ministry-of-justice-2026-cv-04.3089/
+
+## Summary
+Pending.
+
+## Parties
+- Plaintiff: Anthony Org
+- Defendant: Ministry of Justice
+
+## Legal Issues
+- Pending.
+
+## Source Metadata
+- Thread author: Anthony_org
+- Start date: Jan 10, 2026
+- Scraped at: 2026-05-20T21:35:31.334Z
+- Posts captured: 17
+
+## Docket Timeline
+
+### Jan 10, 2026
+Author: Anthony_org
+Date: 2026-01-10T01:21:52-0500
+Page: 1
+Post Link: https://cityrp.org/threads/anthony-org-v-ministry-of-justice-2026-cv-04.3089/post-4793
+Type: Unclassified
+Images:
+- https://cityrp.org/data/attachments/0/414-2310baa64584959eb60797501502df6a.jpg?hash=tRJbuWKIoJ (1768025965285.png)
+
+Anthony_org
+
+v.
+
+Ministry of Justice
+
+Introduction
+
+This civil action arises from the unlawful arrest, detention, and punishment of Plaintiff Anthony_org by agents of the Ministry of Justice (“MOJ”) without judicial process or lawful authority. Plaintiff was subjected to criminal punishment without being brought before a court, without prosecutorial oversight, and without an opportunity to defend themselves, in contravention of the constitutional framework governing criminal adjudication in Azalea Isles.
+
+These actions violated the Constitution of Azalea Isles, including but not limited to:
+Article 1 – Protection against government overreach and the guarantee of the rule of law;
+Article 2 – Separation of powers between the Executive, Legislature, and Judiciary;
+Article 5 – The exclusive authority of the Judiciary to adjudicate criminal matters.
+
+Plaintiff brings this action to vindicate constitutional rights, to obtain redress for the harms suffered, and to prevent continued abuse of executive authority by the Ministry of Justice.
+
+PARTIES
+
+Plaintiff
+Anthony_org
+
+Defendant
+Ministry of Justice (“MOJ”)
+
+STATEMENT OF FACTS
+
+At all relevant times, the Ministry of Justice exercised authority over criminal enforcement and law enforcement actions in Azalea Isles.
+Plaintiff was subjected to criminal punishment imposed by law enforcement acting under the authority of the Ministry of Justice.
+Plaintiff was not brought before a court prior to the imposition of that punishment.
+No prosecutor headed Plaintiff’s case.
+The punishment imposed on Plaintiff exceeded thirty minutes of jail and/or one thousand dollars in fines.
+The Azalea Isles Criminal Code states that any content of the criminal code not explicitly mentioned or established by an Act of Parliament is invalid and shall be removed from the criminal code.
+No Act of Parliament establishes a procedure authorizing police to impose criminal punishment or arrest players without a trial.
+Despite the absence of such statutory authorization, law enforcement imposed criminal punishment on Plaintiff without judicial process.
+Plaintiff suffered harm as a direct result of this enforcement action.
+Witnesses
+
+BiscuitplaysYT - Arresting Officer
+Phoenixflamesong - Assisting Arresting Officer
+
+LEGAL CLAIMS
+
+COUNT I – VIOLATION OF ARTICLE 1: GOVERNMENT OVERREACH AND RULE OF LAW
+
+Article 1 of the Constitution of Azalea Isles guarantees protection against government overreach of powers not specified by the Constitution.
+Article 1 further guarantees that Azalea Isles is governed by the rule of law and that citizens are entitled to inviolable legal protections subject only to reasonable limits prescribed by law.
+No Act of Parliament authorizes police or the Ministry of Justice to impose criminal punishment or arrest players without judicial process.
+By imposing criminal punishment absent such lawful authority, the Ministry of Justice exercised powers not specified by the Constitution.
+This conduct violated Plaintiff’s constitutional protections under Article 1.
+Plaintiff suffered harm as a direct result of this violation.
+
+COUNT II – VIOLATION OF ARTICLE 2: SEPARATION OF POWERS
+
+Article 2 of the Constitution establishes three co-equal branches of government: the Parliament, the Executive, and the Judiciary.
+Parliament alone possesses authority to establish criminal law and criminal procedure.
+The Executive derives its authority from Parliament and may only execute constitutionally valid laws.
+The Judiciary alone possesses authority to adjudicate criminal matters and impose punishment through judicial process.
+Imposing criminal punishment without a court proceeding constitutes an exercise of judicial power.
+By permitting or directing law enforcement to impose criminal punishment without judicial proceedings or parliamentary authorization, the Ministry of Justice usurped legislative and judicial powers.
+This conduct violated the separation of powers mandated by Article 2.
+Plaintiff suffered harm as a direct result of this violation.
+COUNT III – VIOLATION OF ARTICLE 5: DENIAL OF JUDICIAL ADJUDICATION
+
+Article 5 of the Constitution vests the Judiciary with responsibility for adjudicating criminal trials and rendering verdicts in criminal matters.
+Criminal punishment may only be imposed following judicial adjudication.
+Plaintiff was subjected to criminal punishment without a court adjudication or criminal trial.
+By bypassing the Judiciary and imposing punishment directly, the Ministry of Justice deprived the courts of their constitutional role.
+This conduct violated Plaintiff’s rights under Article 5.
+Plaintiff suffered harm as a direct result of this violation.
+COUNT IV – VIOLATION OF ARTICLE 1: DENIAL OF EQUAL TREATMENT UNDER THE LAW
+
+Article 1 of the Constitution guarantees that each citizen is entitled to equal treatment under the law.
+Equal treatment under the law requires that criminal punishment be imposed only through constitutionally valid and uniformly applied procedures.
+The Ministry of Justice imposed criminal punishment through ad hoc executive enforcement rather than constitutionally prescribed judicial process.
+Plaintiff was subjected to treatment inconsistent with the constitutional framework governing criminal punishment.
+This denied Plaintiff equal treatment under the law in violation of Article 1.
+Plaintiff suffered harm as a direct result of this violation.
+PRAYER FOR RELIEF
+
+Plaintiff respectfully requests that this Court grant the following relief:
+
+A. A declaration that the Ministry of Justice violated Article 1 of the Constitution of Azalea Isles, and an award of $10,000 in punitive damages for Count I;
+B. A declaration that the Ministry of Justice violated Article 2 of the Constitution of Azalea Isles, and an award of $10,000 in punitive damages for Count II;
+C. A declaration that the Ministry of Justice violated Article 5 of the Constitution of Azalea Isles, and an award of $10,000 in punitive damages for Count III;
+D. A declaration that the Ministry of Justice violated Article 1 of the Constitution of Azalea Isles, and an award of $10,000 in punitive damages for Count IV;
+E. An award of legal fees equal to twenty percent (20%) of all monetary damages awarded;
+F. A declaration that the criminal punishment imposed on Plaintiff was unconstitutional and void;
+G. An order vacating and expunging all records of the unconstitutional punishment imposed on Plaintiff;
+H. An injunction prohibiting the Ministry of Justice from imposing criminal punishment or arrests without judicial process unless expressly authorized by an Act of Parliament consistent with the Constitution;
+I. Such other and further relief as the Court deems just, proper, and necessary to uphold the Constitution of Azalea Isles.
+
+VERIFICATION
+
+I, Anthony_org, affirm under penalty of perjury that the foregoing statements are true and correct to the best of my knowledge, information, and belief.
+
+### Jan 10, 2026
+Author: Westray
+Date: 2026-01-10T11:57:00-0500
+Page: 1
+Post Link: https://cityrp.org/threads/anthony-org-v-ministry-of-justice-2026-cv-04.3089/post-4798
+Type: Unclassified
+
+Writ of Summons
+
+Azalea Isles District Court, Civil Case (CV)
+
+Case No. CV-26-04
+
+Plaintiff: Anthony Org (Anthony_org)
+Defendant: Ministry of Justice
+
+The Defendant is required to appear before the court in the case of Anthony Org v. Ministry of Justice. Failure to respond within 48 hours may result in a default judgement. Both parties are ask to familiarize themselves with the relevant court documents, including proper formats, as well as the laws referenced in the complaint. Ensure that you comply with any court orders.
+
+If you wish to hold this trial at the Azalea Courthouse in-person, please note that in your response. The Court will try to work with both parties to hold live hearings at convenient times.
+
+Signed,
+Hon. Chief Justice Raymond West
+
+### Jan 10, 2026
+Author: RealHanuta
+Date: 2026-01-10T13:08:51-0500
+Page: 1
+Post Link: https://cityrp.org/threads/anthony-org-v-ministry-of-justice-2026-cv-04.3089/post-4802
+Type: Unclassified
+
+The Ministry of Justice is present before the Court
+
+### Jan 10, 2026
+Author: RealHanuta
+Date: 2026-01-10T13:16:16-0500
+Page: 1
+Post Link: https://cityrp.org/threads/anthony-org-v-ministry-of-justice-2026-cv-04.3089/post-4803
+Type: Unclassified
+
+Motion to Halt
+
+Your Honour,
+this case is directly related to another case brought forward by the Plaintiff. It is evident that the outcome of this case will provide a quick and simple solution to this case, or atleast cut it short considerably. I request that this trial be halted until 2026 CV 2 is resolved to be used as a basis. This is not to undermine the Plaintiff's right of going to court but to save ourselves a ton of work, which should be in all our interests.
+
+### Jan 10, 2026
+Author: Westray
+Date: 2026-01-10T13:58:24-0500
+Page: 1
+Post Link: https://cityrp.org/threads/anthony-org-v-ministry-of-justice-2026-cv-04.3089/post-4804
+Type: Unclassified
+
+RealHanuta said:
+Motion to Halt
+
+Your Honour,
+this case is directly related to another case brought forward by the Plaintiff. It is evident that the outcome of this case will provide a quick and simple solution to this case, or atleast cut it short considerably. I request that this trial be halted until 2026 CV 2 is resolved to be used as a basis. This is not to undermine the Plaintiff's right of going to court but to save ourselves a ton of work, which should be in all our interests.
+The Plaintiff has 48 hours to provide a response before the Court rules on this motion.
+
+### Jan 10, 2026
+Author: Anthony_org
+Date: 2026-01-10T18:56:44-0500
+Page: 1
+Post Link: https://cityrp.org/threads/anthony-org-v-ministry-of-justice-2026-cv-04.3089/post-4812
+Type: Unclassified
+
+RealHanuta said:
+Motion to Halt
+
+Your Honour,
+this case is directly related to another case brought forward by the Plaintiff. It is evident that the outcome of this case will provide a quick and simple solution to this case, or atleast cut it short considerably. I request that this trial be halted until 2026 CV 2 is resolved to be used as a basis. This is not to undermine the Plaintiff's right of going to court but to save ourselves a ton of work, which should be in all our interests.
+A HALT IS NOT WARRANTED BY RELATED LITIGATION
+
+The Defendant requests that this Court halt proceedings on the basis that another civil case, 2026 CV 02, involves overlapping issues. The Motion does not dispute this Court’s jurisdiction, does not argue that Plaintiff’s claims are untrue, and does not identify any legal defect requiring suspension of this action.
+
+The existence of a related case does not, by itself, justify halting a properly filed constitutional challenge. This action concerns discrete constitutional violations suffered by the Plaintiff and seeks individualized declaratory, injunctive, and monetary relief.
+
+THIS CASE PRESENTS A LIVE AND INDEPENDENT CONTROVERSY
+
+Plaintiff’s claims arise from specific actions taken against Plaintiff by the Ministry of Justice. Those actions have already occurred, their effects persist, and the requested relief is presently available.
+
+While 2026 CV 02 may address similar legal questions, it does not adjudicate the facts of this case. The claims here are therefore ripe and independently justiciable.
+
+Courts routinely consider parallel cases without pausing one in favor of another, particularly where constitutional violations are alleged.
+
+PLAINTIFF WOULD BE PREJUDICED BY DELAY
+
+Plaintiff seeks relief for alleged violations of the Constitution of Azalea Isles, including declarations of unconstitutionality and injunctive relief to prevent continued executive overreach.
+
+Delaying this action delays potential relief and leaves the challenged conduct unexamined.
+
+CONCLUSION
+
+This action was properly filed and presents a live constitutional dispute within this Court’s authority. The Defendant’s Motion to Halt is based on convenience rather than necessity and does not establish grounds for suspending proceedings.
+
+The Plaintiff respectfully requests that the Court deny the Motion to Halt and allow this matter to proceed in the ordinary course.
+
+### Jan 13, 2026
+Author: Anthony_org
+Date: 2026-01-13T17:48:00-0500
+Page: 1
+Post Link: https://cityrp.org/threads/anthony-org-v-ministry-of-justice-2026-cv-04.3089/post-4846
+Type: Unclassified
+
+MOTION FOR IN-GAME TRIAL
+
+Your honor, The plaintiff moves for an in-game trial. An in-game trial will allow this case to conclude at a much more rapid rate than a forum trial.
+
+### Jan 15, 2026
+Author: Westray
+Date: 2026-01-15T22:13:41-0500
+Page: 1
+Post Link: https://cityrp.org/threads/anthony-org-v-ministry-of-justice-2026-cv-04.3089/post-4864
+Type: Unclassified
+
+RealHanuta said:
+Motion to Halt
+
+Your Honour,
+this case is directly related to another case brought forward by the Plaintiff. It is evident that the outcome of this case will provide a quick and simple solution to this case, or atleast cut it short considerably. I request that this trial be halted until 2026 CV 2 is resolved to be used as a basis. This is not to undermine the Plaintiff's right of going to court but to save ourselves a ton of work, which should be in all our interests.
+Although I appreciate the consideration of saving the Court some time and effort, at this time I will have to respectfully reject this motion "to halt" the case. The Plaintiff makes reasonable justifications in opposition to this motion.
+
+Pausing the proceedings are an extraordinary measure and cannot granted as a matter of convenience. The moving party bears the burden of demonstrating that a halt is necessary to preserve judicial economy or prevent concrete prejudice. At this time, the Defendant has not met that burden. While the Court acknowledges that 2026 CV 02 may involve similar legal questions, that fact alone is insufficient to justify suspending this case.
+
+Anthony_org said:
+MOTION FOR IN-GAME TRIAL
+
+Your honor, The plaintiff moves for an in-game trial. An in-game trial will allow this case to conclude at a much more rapid rate than a forum trial.
+
+Before we proceed, an in-game trial may only be held if both parties agree and are able to find dates/times to coordinate on. The Court looks favourably on holding in-game trials but also understands that it can be difficult to coordinate timing.
+
+@RealHanuta the Defendant has 48 hours to indicate if they would be interested in an in-game trial, which the court would facilitate. In such case, if both parties are in concurrence on holding an ingame trial, a group chat will be created to coordinate a scheduled time.
+
+### Jan 17, 2026
+Author: DK3458
+Date: 2026-01-17T18:52:58-0500
+Page: 1
+Post Link: https://cityrp.org/threads/anthony-org-v-ministry-of-justice-2026-cv-04.3089/post-4890
+Type: Unclassified
+
+As Deputy Minister of the Ministry of Justice, with the Minister currently otherwise occupied, I am submitting the following response on behalf of the Defendant:
+
+The current caseload of the Ministry, in addition to the significant difference in time zones, unfortunately means an in-game trial is not possible at this time. As such, the Defendant cannot agree to the requested motion.
+
+### Feb 2, 2026
+Author: Westray
+Date: 2026-02-02T02:50:25-0500
+Page: 1
+Post Link: https://cityrp.org/threads/anthony-org-v-ministry-of-justice-2026-cv-04.3089/post-5199
+Type: Unclassified
+
+I offer my sincerest apologies for the delay in this case. The District Court is currently reviewing a total of nine cases, with only one presiding judge available at this time. This has caused some administrative backlogs in cases.
+
+Given both parties have not agreed to an in-person trial, we will proceed to the next stage on the forums instead.
+
+The Defendant is hereby asked to provide an answer to the complaint within 48 hours. @DK3458
+
+### Feb 3, 2026
+Author: DK3458
+Date: 2026-02-03T16:22:59-0500
+Page: 1
+Post Link: https://cityrp.org/threads/anthony-org-v-ministry-of-justice-2026-cv-04.3089/post-5215
+Type: Unclassified
+
+MOTION TO EXTEND
+
+Your Honour, I am really sorry but I will unfortunately have to take an extension of 24 hours as I didn’t have the time to prepare an answer for this due to having lots of stuff to do during the first days of this week. I am confident that I will be ready to give an answer to this complaint tomorrow or if I can not, my Deputy.
+
+Respectfully submitted,
+
+Doğan Karaca
+Minister of Justice
+
+### Feb 3, 2026
+Author: Anthony_org
+Date: 2026-02-03T17:00:33-0500
+Page: 1
+Post Link: https://cityrp.org/threads/anthony-org-v-ministry-of-justice-2026-cv-04.3089/post-5217
+Type: Unclassified
+
+DK3458 said:
+MOTION TO EXTEND
+
+Your Honour, I am really sorry but I will unfortunately have to take an extension of 24 hours as I didn’t have the time to prepare an answer for this due to having lots of stuff to do during the first days of this week. I am confident that I will be ready to give an answer to this complaint tomorrow or if I can not, my Deputy.
+
+Respectfully submitted,
+
+Doğan Karaca
+Minister of Justice
+RESPONSE
+
+Your honor, as has been continuously pointed out in my cases against the MoJ they routinely miss deadlines and keep pushing the deadlines back on these cases. The MoJ has much more manpower than the plaintiff does and routinely seeks to extend the duration of the case. The Defense so far has used 5 different lawyers over my cases (Hanuta, DK, Sparkimon, RandomIntruder, Lyon). It is unacceptable to continue to push back cases if they cannot manage their manpower in an efficient manner. Plaintiff moves for the deadline to be upheld.
+
+### Feb 3, 2026
+Author: Anthony_org
+Date: 2026-02-03T17:10:35-0500
+Page: 1
+Post Link: https://cityrp.org/threads/anthony-org-v-ministry-of-justice-2026-cv-04.3089/post-5218
+Type: Unclassified
+Images:
+- https://cityrp.org/data/attachments/0/539-e2b71589cf53851447570ce0974b6525.jpg?hash=W9Q-KizFrx (1770156334205.png)
+- https://cityrp.org/data/attachments/0/540-5d4d8dddf16c51040e548f433582355d.jpg?hash=WvXeOH01pO (1770156345084.png)
+
+RESPONSE (add-ons)
+
+Since the beginning of the latest deadline DK has done :
+
+1) Ministry work
+2) played on the server for approximately 8 hours.
+
+The plaintiff moves that the Defense had the time to comply with the courts orders and continues to make a mockery of this court with the blatant disrespect shown to the plaintiff and the courts.
+
+Day	Joined	Left	Time Played
+Yesterday	12:40 PM	3:13 PM	2h 33m
+Yesterday	3:15 PM	5:22 PM	2h 07m
+Yesterday Total	-	-	4h 40m
+Today	10:51 AM	1:36 PM	2h 45m
+Today	3:38 PM	4:06 PM	0h 28m
+Today Total	-	-	3h 13m
+Grand Total	-
+-
+
+7h 53m
+
+### Feb 3, 2026
+Author: xXLordLyonXx
+Date: 2026-02-03T23:13:53-0500
+Page: 1
+Post Link: https://cityrp.org/threads/anthony-org-v-ministry-of-justice-2026-cv-04.3089/post-5228
+Type: Unclassified
+
+Clarification
+Unfortunately, I was unable to match schedules with the Minister today, so I was unable to communicate we would have something drafted by tonight. However, I find it important to address the court on this "mockery of the court" claim.
+
+The Minister has other responsibilities involved in running the Ministry to conduct, as the Plaintiff has kindly provided examples of. I am happy to see Plaintiff's limitless enthusiasm and time for the judicial process. Unfortunately, Ministry employees have real-world obligations, such as school or a job, that take up our time, in addition to other responsibilities in the Government. We attempt to work around these in order to get timely responses in to the court, but sometimes that simply doesn't work out. In this case, the Minister did not believe we would be able to produce a response by the deadline, and so he respected the court's time by requesting an extension nearly 12 hours in advance of the due date.
+
+I have instead cancelled several irl commitments to provide the court an answer to the complaint tonight, so there is no issue about an extension, although having one would have been preferable. The Ministry of Justice will continue to do its best to respond on time, in accordance with precedent and procedure, as we have been - but as the court has recognized countless times before, most citizens do also have real-world circumstances that can impede response times, just as it took Your Honor time to move some of these cases forward. This is the case for our MoJ employees, who are not always in a position to immediately sacrifice irl commitments for a legal filing, when an easy 24 or 48 hour extension makes the caseload more manageable.
+
+With that addressed, I am unsure of whether Your Honor would prefer to reject the extension outright, or if the Defendant can simply revoke the motion (if so, I do), and move on, with our answer to the complaint filed below:
+
+Answer to Complaint
+
+The Ministry of Justice executed arrest warrants given to them by the plugin, which are considered valid arrest warrants per *Robi Hawes v. Ministry of Justice*. The Ministry acted within the bounds of the law.
+
+Parties:
+Plaintiff - Anthony_Org
+Defendant - Ministry of Justice
+
+Factual Defenses
+
+(1) The judiciary, in *Robi Hawes v. Ministry of Justice*, treated plugin-issued warrants as valid arrest warrants.
+
+(2) Arrest warrants authorize law enforcement to incarcerate the individual named on the warrant.
+
+(3) The warrants Plaintiff was jailed for are auto-generated warrants made by the plugin, many of which are a paired theft and murder charge, which indicate the Plaintiff ran /rob after killing the individual.
+
+(4) The Ministry of Justice executed these arrest warrants, considered valid warrants by the judicial branch in case precedent, against the Plaintiff.
+
+Legal Defenses
+
+(1) The numerous auto-generated theft warrants cast more than reasonable doubt on any potential self-defense claims, as individuals engaging in self-defense would not have reason to rob their attacker. Moreover, these warrants are issued when /rob is run, guaranteeing the Plaintiff committed those offenses.
+
+(2) The Ministry of Justice abided by case precedent, which considered plugin-issued warrants as valid arrest warrants. Arrest warrants allow law enforcement to arrest and detain individuals, bypassing the need for a trial. The Ministry of Justice enforced valid arrest warrants, as previously defined by the court system, breaching no protections or separation of powers.
+
+Verification
+
+I, Lysander Lyon, hereby affirm that the allegations in the answer AND all subsequent statements made in court are true and correct to the best of the defendant’s knowledge, information, and belief and that any falsehoods may bring the penalty of perjury.
+
+### Feb 3, 2026
+Author: Anthony_org
+Date: 2026-02-03T23:27:35-0500
+Page: 1
+Post Link: https://cityrp.org/threads/anthony-org-v-ministry-of-justice-2026-cv-04.3089/post-5229
+Type: Unclassified
+
+MOTION TO STRIKE
+
+Clarification
+Unfortunately, I was unable to match schedules with the Minister today, so I was unable to communicate we would have something drafted by tonight. However, I find it important to address the court on this "mockery of the court" claim.
+
+The Minister has other responsibilities involved in running the Ministry to conduct, as the Plaintiff has kindly provided examples of. I am happy to see Plaintiff's limitless enthusiasm and time for the judicial process. Unfortunately, Ministry employees have real-world obligations, such as school or a job, that take up our time, in addition to other responsibilities in the Government. We attempt to work around these in order to get timely responses in to the court, but sometimes that simply doesn't work out. In this case, the Minister did not believe we would be able to produce a response by the deadline, and so he respected the court's time by requesting an extension nearly 12 hours in advance of the due date.
+
+I have instead cancelled several irl commitments to provide the court an answer to the complaint tonight, so there is no issue about an extension, although having one would have been preferable. The Ministry of Justice will continue to do its best to respond on time, in accordance with precedent and procedure, as we have been - but as the court has recognized countless times before, most citizens do also have real-world circumstances that can impede response times, just as it took Your Honor time to move some of these cases forward. This is the case for our MoJ employees, who are not always in a position to immediately sacrifice irl commitments for a legal filing, when an easy 24 or 48 hour extension makes the caseload more manageable.
+
+With that addressed, I am unsure of whether Your Honor would prefer to reject the extension outright, or if the Defendant can simply revoke the motion (if so, I do), and move on, with our answer to the complaint filed below:
+
+Your honor, all of the above statements are irrelevant to the case. Making an argument of real-world obligations falls apart when the person submitting a motion to extend has spent approximately 16% of all hours in a 48 hour period (which at the time of doing the math still had 9 hours left) logged into the server.
+
+### Feb 8, 2026
+Author: Anthony_org
+Date: 2026-02-08T14:07:45-0500
+Page: 1
+Post Link: https://cityrp.org/threads/anthony-org-v-ministry-of-justice-2026-cv-04.3089/post-5318
+Type: Unclassified
+Images:
+- https://cityrp.org/data/attachments/0/552-22f65fbdce89ce0e77d21f6cfcb83816.jpg?hash=Runq05N7SP (1770577608915.png)
+
+MOTION TO SETTLE/DISMISS
+
+Your honor, the MoJ has implemented satisfactory changes that resolves the dispute on this case and CV2. I move for this case to be adjourned.
+
+### Feb 9, 2026
+Author: Westray
+Date: 2026-02-09T12:09:07-0500
+Page: 1
+Post Link: https://cityrp.org/threads/anthony-org-v-ministry-of-justice-2026-cv-04.3089/post-5323
+Type: Unclassified
+
+At the request of the Plaintiff, this case is hereby dismissed.
+
+
+## Outcome
+Pending.
+
+## Precedential Value
+Pending.
+
+## Lawyer Notes
+Pending.

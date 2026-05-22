@@ -1,0 +1,66 @@
+# Law & Justice Frisk & Bail Act
+
+Status: Active
+Type: Act of Parliament
+Ratified: March 4, 2026
+Forum Link: https://cityrp.org/threads/frisk-bail-act.3262/
+Original Bill Link: https://cityrp.org/threads/frisk-bail-act.3200/
+Final Vote: 8-0-0
+
+## Summary
+Pending.
+
+## Key Topics
+- Pending.
+
+## Source Metadata
+- Thread author: Library of Parliament
+- Start date: Mar 4, 2026
+- Scraped at: 2026-05-20T21:29:27.132Z
+- Posts captured: 1
+
+## Amendment History
+- Pending review.
+
+## Full Text
+
+Original Legislation:
+Passed Bill Link: https://cityrp.org/threads/frisk-bail-act.3200/
+Final Vote: 8-0-0
+Ratified: March 4, 2026
+
+Author: Phoenix Flamesong
+Sponsor: Siege Stormbringer, MP
+
+Frisk & Bail Act
+Preamble: With the increase of crime in Azalea, the ability to search criminals and the ability to post bail becomes more and more necessary. This act will establish frisking and bail guidelines.
+
+1. Short Title
+(a) This bill shall be referred to as “The Frisk & Bail Act”.
+(b) This bill was authored by Phoenix Flamesong.
+
+2. Definitions
+(a) “Frisking” shall be defined as the act of searching a potential criminal with a search warrant in order to attempt to find prohibited items.
+(b) “Accused Citizen” shall be defined as any citizen accused of but not convicted of a crime whether its through summary judgement or a court of law.
+(c) “Criminal” shall be defined as any citizen convicted of a crime, whether it’s through summary judgement or a court of law.
+(d) “Prohibited Items” shall be defined as any object that is illegal for a citizen to possess, unless they have the proper certification or reason.
+
+3. Frisk Authority
+(a) A police officer may conduct a frisk of an individual where the officer has reasonable cause to believe that the individual is in possession of a prohibited item as defined by law.
+(b) “Reasonable cause” shall mean specific, articulable facts and objective observations which would lead a reasonable officer to suspect possession of a prohibited item. Mere suspicion, rumor, or a single uncorroborated eyewitness account shall not alone constitute reasonable cause.
+(c) An officer conducting a frisk pursuant to this Section must be able to clearly articulate the basis for reasonable cause if later reviewed by the Ministry or a court of competent jurisdiction.
+(d) If illegal substances or contraband are discovered during a lawful frisk, the officer may immediately arrest the individual for the appropriate offense, and enforcement proceedings shall follow in accordance with existing law.
+(e) Any frisk conducted without reasonable cause shall constitute misconduct and may result in disciplinary action as applicable under Azalea law.
+
+4. Bail
+(a) If a criminal is arrested, they are allowed to post bail at the cost of $1 per second they have remaining on their sentence.
+(b) Should a criminal post bail, their sentence is considered served in full.
+(c) Should a citizen found formally to be a criminal but later it was determined they were falsely convicted, they shall be granted reparations $1 per second served on the false charge.
+
+Enactment: This Act comes into force immediately upon passage.
+
+## Additional Thread Posts
+
+
+## Lawyer Notes
+Pending.

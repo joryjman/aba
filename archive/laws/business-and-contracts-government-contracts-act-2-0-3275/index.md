@@ -1,0 +1,152 @@
+# Business & Contracts Government Contracts Act 2.0
+
+Status: Active
+Type: Act of Parliament
+Ratified: March 15, 2026
+Forum Link: https://cityrp.org/threads/government-contracts-act-2-0.3275/
+Original Bill Link: https://www.cityrp.org/threads/government-contracts-act-2-0.3265/
+Final Vote: 6-2-0
+
+## Summary
+Pending.
+
+## Key Topics
+- Pending.
+
+## Source Metadata
+- Thread author: Library of Parliament
+- Start date: Mar 15, 2026
+- Scraped at: 2026-05-20T21:29:19.311Z
+- Posts captured: 2
+
+## Amendment History
+- Amended April 14, 2026 by the Government Contracts Act 2.0 pt2
+
+## Full Text
+
+Original Legislation:
+Passed Bill Link: https://www.cityrp.org/threads/government-contracts-act-2-0.3265/
+Final Vote: 6-2-0
+Ratified: March 15, 2026
+Amendments:
+- Amended April 14, 2026 by the Government Contracts Act 2.0 pt2
+
+Author(s): Kli AstonMartin MP, Lysander Lyon, Iturgen Bolir
+Sponsor(s): Kli Astonmartin MP
+
+Government Contracts Act 2.0
+Preamble: It is important that new citizens are given opportunities to learn governmental functions, integrate into public service, and participate meaningfully in civic life. A formal internship framework promotes transparency, fairness, and accessibility while ensuring Ministries maintain consistent staffing standards.
+
+1. Short Title & Enactment
+(a) This bill shall be referred to as the “Government Contracts Act 2.0”.
+(b) This bill was authored by: Kli AstonMartin MP, Lysander Lyon, Iturgn Bolir
+(c) This bill repeals the Government Contracts Act.
+
+2. Government Contracts
+(a) Any agreement between an official government agent and any entity, individual or business, where money is paid or promised to be paid, is a government contract for the purposes of this bill.
+(b) Bonuses to Ministry staff are not included under this bill.
+
+3. Contract Type
+(a) Tenders are contracts that are publicly posted for the public to bid on, where a member of the public will supply a service or good, and receive payment, such as selling food to the government.
+(b) Auctions are contracts that are publicly posted for the public to bid on, where a member of the public offers payment to receive a service or good, such as buying a patent from the government.
+(c) Direct agreements are contracts that are offered directly by a member of the public to the government, solicited by the government from a member of the public, or posted publicly for members of the public to privately discuss with the government.
+
+4. Tenders and Auctions
+(a) Any tender or auction must be open for at least 24 hours before it can be closed.
+(b) No tender or auction may have an automatic resolution period (the period of no bids, after which the tender closes) shorter than 6 hours.
+(c) Tenders and auctions must have a final close date for the auction, a starting bid, a minimum bid increment, and a drop off by date included in their posting. The winner shall be the bid with the lowest price for tenders, highest price for auctions, assuming it follows the rules of the tender or auction.
+
+(i) Ministries or the Government may set additional rules in place for their tenders or auctions, so long as they are clearly stated in the post for the tender or auction where bidding occurs, not just in the announcement.
+
+5. Direct Agreements
+(a) Direct agreements of up to $10,000 in value for any given calendar month, for an individual entity, may be authorized by the respective Minister, with the Prime Minister’s explicitly stated approval.
+
+(i) These agreements must be forwarded to the Cabinet, where it shall remain on pause for 48 hours before being implemented.
+
+(ii) Any Minister may request the contract be put to a vote of the Cabinet during this 48 hour period. All Ministers, the Prime Minister, the Deputy Prime Minister, and any Cabinet Advisors shall each have one vote. Individuals with multiple titles shall only cast one vote.
+
+(iii) The vote shall last for 48 hours, or until a clear majority is in favor of or opposed to the agreement, whichever is the shorter time period. If a majority of votes are in favor, the agreement shall be implemented. However, if the vote is a tie, or fails, the agreement shall be rejected.
+
+(b) No single direct agreement may exceed $10,000 for any given calendar month, regardless of if it is for multiple entities or one, without being approved by the Cabinet process in 5(a)ii and 5(a)iii.
+(c) Any direct agreement that would take a Ministry over $15,000 in direct agreement costs, for any given calendar month, must be approved through the 5(a)ii and 5(a)iii Cabinet voting process.
+
+(i) If a Ministry already has $10,000 in direct agreement obligations that it will maintain for the next three months, and they sign a contract that costs $5,000 this month and $6,000 next month, that violates this clause, because the next month’s obligations would exceed $15,000.
+
+(ii) Any direct agreements proposed after a Ministry exceeds the $15,000 threshold must be approved by the 5(a)ii and 5(a)iii Cabinet voting process.
+
+(d) Direct agreements may be recurring or single-use.
+
+(i) Recurring direct agreements must have at least: clearly outlined prices, terms of the service and delivery, a date for renegotiation and reconsideration no later than four months into the future, an exit clause, and penalties for non-fulfillment by the non-governmental party.
+
+(ii) Single-use direct agreements must have at least: a clear completion date, price, exit clause and penalties for non-fulfillment by the non-governmental party.
+
+(e) Direct agreements may be approved on a basis where price is not the only or primary factor considered, such as a case where the government wishes to support a small business or supplier.
+(f) Any direct agreement where the Minister responsible for accepting or implementing the agreement has a clear conflict of interest, regardless of the value, service, or good, must go through the Cabinet voting process of 5(a)ii and 5(a)iii, with disclosure of the conflict given to the Cabinet.
+
+6. Notification and Cancellation
+(a) All direct agreements the government approves must be published by the respective Ministry in either its Discord or its forums.
+
+(i) If a budget is specially authorized by Parliament and not part of a Ministry’s normal budget, the agreement should still be assigned to and published on the page of the Ministry who is closest to overseeing the responsibilities that the agreement assists with.
+
+(b) Parliament may vote to cancel any direct agreement by motion. If a full majority of Parliament votes to repeal the agreement, currently five of nine seats, then the agreement shall be cancelled.
+
+(i) Any agreement cancelled by Parliament is nullified. The government shall pay the other party 20% of the value they were due to receive in the calendar month in which the agreement was cancelled, and 10% of the value they were due to receive in the calendar month after the calendar month in which the agreement was cancelled.
+
+(ii) Parliament may include in their cancellation motion an exit value override request, which reduces the nullification payout to 10% in the calendar month of cancellation and 5% in the calendar month following cancellation.
+
+7. Government Shop
+(a) The Executive shall be empowered to create a Government Shop at a location of its choosing, provided the land it occupies is owned by the Government. Its primary mission shall be to reduce barriers of entry in trading with the Government and keep stockpiles of items the Government expects to require in the future.
+(b) The shop and any chestshops thereof shall be the property of a company exclusively and permanently owned by the Azalea Isles Government. The name of this company may be decided by the Executive.
+
+(i) This shop company shall be exempted from all taxation and enterprise reporting duties.
+
+(ii) The Prime Minister, the Minister of Economic Affairs and the Minister of Urban Development shall ex officio serve as the executive leadership of the shop company. Leadership and Management decisions shall be made by a simple majority of votes among these executives. Any votes not submitted within 48 hours shall count as abstained.
+
+(iii) The shop company may only employ Government officials and employees and may not pay any employee salary or bonuses. This does not restrict other parts of the Government from rewarding work performed for the Government shop.
+
+(iv) The shop company may not enter into any debt.
+
+(c) The shop company may receive additional operating funds either from budgets allocated to it by Parliament or from Ministries choosing to yield funds from their own budgets to it.
+
+(i) The shop company may choose to return funds it holds to the Government at will. Parliament may also order the transfer of a specific amount of funds from the shop company to the Government balance via motion.
+
+(d) The goods owned by the Government Shop may be freely used for the facilitation of any Government projects and interests, such as Government pastes and upkeep. Such requisitions require the documented authorization of a member of Cabinet and must be logged.
+(e) The Ministry of Urban Development may use Government shop goods for private pastes, on the condition that the beneficiary reimburses the shop at a reasonable price determined by the shop. This reimbursement price may include handling fees and/or take into account changes in item value.
+
+## Additional Thread Posts
+
+### Apr 14, 2026
+Author: Library of Parliament
+Date: 2026-04-14T14:51:36-0400
+Page: 1
+Post Link: https://cityrp.org/threads/government-contracts-act-2-0.3275/post-6212
+Type: Unclassified
+
+Amending Legislation:
+Passed Bill Link: https://cityrp.org/threads/government-contracts-act-2-0-pt2.3288
+Final Vote: 5-1
+Ratified: April 14, 2026
+
+Author: jotoho
+Sponsor: Kli Astonmartin, MP
+
+Government Contracts Act 2.0 pt2
+Preamble: In order to stimulate the economy, enable additional earnings opportunities to citizens both new and established and simplify administrative burdens, this bill aims to allow the Government to create a shop where it may acquire supplies and building materials from citizens.
+
+Addition to Government Contracts Act 2.0, Section 7 “Government Shop”
+(a) The Executive shall be empowered to create a Government Shop at a location of its choosing, provided the land it occupies is owned by the Government. Its primary mission shall be to reduce barriers of entry in trading with the Government and keep stockpiles of items the Government expects to require in the future.
+(b) The shop and any chestshops thereof shall be the property of a company exclusively and permanently owned by the Azalea Isles Government. The name of this company may be decided by the Executive.
+(i) This shop company shall be exempted from all taxation and enterprise reporting duties.
+(ii) The Prime Minister, the Minister of Economic Affairs and the Minister of Urban Development shall ex officio serve as the executive leadership of the shop company. Leadership and Management decisions shall be made by a simple majority of votes among these executives. Any votes not submitted within 48 hours shall count as abstained.
+(iii) The shop company may only employ Government officials and employees and may not pay any employee salary or bonuses. This does not restrict other parts of the Government from rewarding work performed for the Government shop.
+(iv) The shop company may not enter into any debt.
+(c) The shop company may receive additional operating funds either from budgets allocated to it by Parliament or from Ministries choosing to yield funds from their own budgets to it.
+(i) The shop company may choose to return funds it holds to the Government at will. Parliament may also order the transfer of a specific amount of funds from the shop company to the Government balance via motion.
+(d) The goods owned by the Government Shop may be freely used for the facilitation of any Government projects and interests, such as Government pastes and upkeep. Such requisitions require the documented authorization of a member of Cabinet and must be logged.
+(e) The Ministry of Urban Development may use Government shop goods for private pastes, on the condition that the beneficiary reimburses the shop at a reasonable price determined by the shop. This reimbursement price may include handling fees and/or take into account changes in item value.
+
+Enactment: This Act comes into force immediately upon passage.
+
+
+## Lawyer Notes
+Pending.

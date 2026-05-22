@@ -1,0 +1,222 @@
+# Case: Adjourned Azalea Isles v. Vanguard National Bank (2025) CV 08
+
+Court: District Court
+Status: Adjourned
+Case Number: 2025 CV 08
+Forum Link: https://cityrp.org/threads/azalea-isles-v-vanguard-national-bank-2025-cv-08.299/
+
+## Summary
+Pending.
+
+## Parties
+- Plaintiff: Azalea Isles
+- Defendant: Vanguard National Bank
+
+## Legal Issues
+- Pending.
+
+## Source Metadata
+- Thread author: fauzfauzfauz
+- Start date: Jun 20, 2025
+- Scraped at: 2026-05-20T21:36:30.251Z
+- Posts captured: 11
+
+## Docket Timeline
+
+### Jun 20, 2025
+Author: fauzfauzfauz
+Date: 2025-06-20T14:48:20-0400
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-vanguard-national-bank-2025-cv-08.299/post-1057
+Type: Unclassified
+Images:
+- https://cityrp.org/data/attachments/0/215-b1825cfe56d24e28ca826a262789de7a.jpg?hash=sYJc_lbSTi (image.png)
+
+Azalea Isles, Plaintiff
+
+v.
+
+Vanguard National Bank, Defendant
+
+Complaint:
+The Defendant, Vanguard National Bank, has failed to supply the necessary financial reports, despite multiple reminders and warnings.
+
+Parties:
+Azalea Isles, Plaintiff
+Vanguard National Bank, Defendant
+
+Factual Allegations:
+1) The Ministry of Economic Affairs requested internal financial documents from VNB & their affiliates on June 10th.
+2) The Defendant was reminded on June 13th and 16th.
+3) The Defendant still has failed to supply the necessary documents.
+4) Transaction logs can be gathered by staff/admins through checking in-game, the other documents cannot.
+
+Legal Claims:
+1) The Ministry of Economic Affairs is empowered to request this data, and the Defendant's noncompliance is a violation.
+2) This court has the power to issue a subpoena, which will enable the Government to request the transaction logs of Vanguard and its affiliate companies in-game from staff.
+
+Prayer For Relief:
+1) A court-issued subpoena granting the Government the authority to pull Vanguard National Bank’s, and its affiliates', transaction logs.
+
+Evidence:
+Exhibit A: Initial prompt and reminders
+
+Verification:
+I, Fauz Wolfe, hereby affirm that the allegations in the complaint AND all subsequent statements made in court are true and correct to the best of the plaintiff's knowledge, information, and belief and that any falsehoods may bring the penalty of perjury.
+
+Motion For Expedited Hearing
+
+Your Honor, given the amount of money that has been moved out of the Discover Bank (a subsidiary of VNB) corporation in-game, and the amount left, it is important for fraud concerns the Government have access to these records. The consistent financial issues, in combination with VNB’s inability to provide the requested documentation in the last ten days, indicates serious concern for the stability of the bank and of the funds consumers keep deposited.
+
+### Jun 20, 2025
+Author: Westray
+Date: 2025-06-20T17:33:44-0400
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-vanguard-national-bank-2025-cv-08.299/post-1058
+Type: Unclassified
+
+Writ of Summons
+
+Azalea Isles Civil Court (CV)
+
+Case No. CV-25-07
+
+Plaintiff: Azalea Isles
+Defendant: Vanguard National Bank
+
+The Defendant is required to appear before the court in the case of Azalea Isles v. Vanguard National Bank. Failure to respond within 48 hours may result in a default judgement. Both parties are ask to familiarize themselves with the relevant court documents, including proper formats, as well as the laws referenced in the complaint. Ensure that you comply with any court orders.
+
+If you wish to hold this trial at the Azalea Courthouse in-person, please note that in your response. The Court will try to work with both parties to hold live hearings at convenient times.
+
+Signed,
+Hon. Chief Justice Raymond West
+
+### Jun 21, 2025
+Author: Nexalin
+Date: 2025-06-21T12:46:26-0400
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-vanguard-national-bank-2025-cv-08.299/post-1061
+Type: Unclassified
+
+Present
+
+### Jun 21, 2025
+Author: Westray
+Date: 2025-06-21T15:59:27-0400
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-vanguard-national-bank-2025-cv-08.299/post-1062
+Type: Unclassified
+
+The Defendant, Vanguard National Bank, has 48 hours to provide an answer to the complaint, which shall address the lawsuit as a whole and may also respond to the motion for an expedited hearing.
+
+### Jun 23, 2025
+Author: fauzfauzfauz
+Date: 2025-06-23T16:12:43-0400
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-vanguard-national-bank-2025-cv-08.299/post-1067
+Type: Unclassified
+
+Motion for Default Judgment
+
+Your Honor, due to the lack of response from the Defendant within the provided timeframe, and the Defendant’s history of failing to respond within said timeframe in court, we are motioning for default judgement.
+
+### Jun 24, 2025
+Author: Westray
+Date: 2025-06-24T11:06:36-0400
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-vanguard-national-bank-2025-cv-08.299/post-1069
+Type: Unclassified
+
+fauzfauzfauz said:
+Motion for Default Judgment
+
+Your Honor, due to the lack of response from the Defendant within the provided timeframe, and the Defendant’s history of failing to respond within said timeframe in court, we are motioning for default judgement.
+In your initial filing, it is stated that "The Ministry of Economic Affairs is empowered to request this data," could you please reference the statute law that empowers the Ministry to this regard?
+
+### Jun 24, 2025
+Author: fauzfauzfauz
+Date: 2025-06-24T22:34:52-0400
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-vanguard-national-bank-2025-cv-08.299/post-1070
+Type: Unclassified
+
+Yes Your Honor, I can. Section 7 of the Governing Structure Act is dedicated to the Ministry of Economic Affairs, whereas specifically 7(a)iii states the Ministry is tasked with “enforcing compliance and national corporate standards”, and 7(a)v states they are tasked with “promoting and maintaining the economy”
+
+7a(v) is specifically relevant here as the internal documents from VNB and its affiliates (Northstone, Discover Bank, etc) are needed to fulfill this duty. As financial institutions are a part of the economy, the MEA is empowered to request this information as such.
+
+In addition, the Financial Institution Establishment Act states in Section 5 that the Ministry of Commerce (now merged with the Ministry of Economic Affairs, with their responsibilities now under the MEA per the Governing Structure Act) must audit companies for compliance. The government has opted for a subpoena of records from VNB and its affiliates (Northstone, Discover Bank, etc) in order for the MEA to fulfill their duty under this act and counteract the Defendant’s noncompliance.
+
+### Jun 26, 2025
+Author: Westray
+Date: 2025-06-26T09:08:29-0400
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-vanguard-national-bank-2025-cv-08.299/post-1071
+Type: Unclassified
+
+fauzfauzfauz said:
+Yes Your Honor, I can. Section 7 of the Governing Structure Act is dedicated to the Ministry of Economic Affairs, whereas specifically 7(a)iii states the Ministry is tasked with “enforcing compliance and national corporate standards”, and 7(a)v states they are tasked with “promoting and maintaining the economy”
+
+7a(v) is specifically relevant here as the internal documents from VNB and its affiliates (Northstone, Discover Bank, etc) are needed to fulfill this duty. As financial institutions are a part of the economy, the MEA is empowered to request this information as such.
+
+In addition, the Financial Institution Establishment Act states in Section 5 that the Ministry of Commerce (now merged with the Ministry of Economic Affairs, with their responsibilities now under the MEA per the Governing Structure Act) must audit companies for compliance. The government has opted for a subpoena of records from VNB and its affiliates (Northstone, Discover Bank, etc) in order for the MEA to fulfill their duty under this act and counteract the Defendant’s noncompliance.
+Thank you for answering this inquiry.
+
+Before the Court can rule on this matter, you need to be specific regarding the requested relief. In the prayer for relief, it is asked that the Court provide the government with the authority "to pull Vanguard National Bank’s, and its affiliates', transaction logs" - in your most recent post, you refer to its affiliates as "Northstone, Discover Bank, etc" - what does etcetera (etc) entail?
+
+For the Court to provide the government with the explicit authority to pull financial records from a blanket vague remark of "its affiliates" could potentially enable the government to use a court order to look into any company at all under this justification. The main issue here is the lack of specificity and use of "etc." Would the government be able to further scope as to what they are asking for beyond just "its affiliates"? Is the government looking for companies owned by the the Defendant's owner, Nexalin? Is the government looking at companies that are subsidiaries or have contracts with the Defendant? Is the government looking at all companies in the financial sector?
+
+The Court would like to be very careful about granting what would essentially be a carte blanche court order for the government, and potentially risk contravening the right against unreasonable search. If the government can further scope what is specifically being asked of the Court, it will be provided.
+
+### Jun 26, 2025
+Author: fauzfauzfauz
+Date: 2025-06-26T15:27:26-0400
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-vanguard-national-bank-2025-cv-08.299/post-1072
+Type: Unclassified
+
+As the Government has been unable to receive clarification on what companies are owned by Nexalin in-game for over a week, we physically cannot provide the court with a specific list of what subsidiaries have been created in-game.
+As Nexalin does not appear to own or have started any companies that are not affiliated with Vanguard, and given the concerns involved here, we would ask for the authority to subpoena transaction logs of companies owned by Nexalin in-game. This is not specifically because we are targeting Nexalin himself - this lawsuit is against VNB - but it is because it is the only proxy we have for VNB affiliates, like DB and Northstone. Without a working way to find the list of companies owned by an individual, this is unfortunately the clearest the Government can be on this issue.
+
+### Jun 26, 2025
+Author: Westray
+Date: 2025-06-26T22:42:45-0400
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-vanguard-national-bank-2025-cv-08.299/post-1073
+Type: Unclassified
+
+Default Judgement
+Azalea Isles Civil Court (CR)
+
+Case No. CV-25-08
+Azalea Isles v. Vanguard National Bank
+
+The Court is prepared to accept the motion for default judgement as a result of the Defendant failing to provide an answer to the complaint. While the Defendant did state their presence, they did not present any arguments nor did they meet the deadline specified to answer the complaint. Therefore, given their absence and no request for extension, it leaves the Court with no option but to move forward.
+
+Based on the current facts presented, the Court hereby rules in favour of Azalea Isles, granting the following relief:
+
+1. The Court hereby approves the government's request for subpoena. The Ministry of Economic Affairs shall have the permission of the Court to pull the full transaction logs from the company Vanguard National Bank, and any other companies owned by its CEO Nexalin Diamond (Nexalin) with respect to its affiliation to Vanguard. They are asked to report back with their findings within 60 days.
+2. The Defendant, Vanguard National Bank, is hereby ordered to comply with the above by ensuring that the Ministry of Economic Affairs is equipped with all of the appropriate documentation and transactional history.
+
+Be advised that a default judgement is entered based on only the facts presented in the case filing given the Defendant's inability to respond beyond the specified deadlines. The Court is hereby adjourned.
+
+Signed,
+Hon. Chief Justice Raymond West
+
+### Aug 6, 2025
+Author: fauzfauzfauz
+Date: 2025-08-06T17:00:40-0400
+Page: 1
+Post Link: https://cityrp.org/threads/azalea-isles-v-vanguard-national-bank-2025-cv-08.299/post-3786
+Type: Unclassified
+
+Your Honor, the Ministries of Economic Affairs and Justice have reviewed the transaction logs of the Defendant. Our findings conclude the large amount of money was moved by a staff member on behalf of another citizen, and this was the cause of the resulting decrease in VNB’s public-facing balance.
+
+
+## Outcome
+Pending.
+
+## Precedential Value
+Pending.
+
+## Lawyer Notes
+Pending.

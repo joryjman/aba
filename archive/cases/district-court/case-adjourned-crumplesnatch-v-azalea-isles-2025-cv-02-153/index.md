@@ -1,0 +1,837 @@
+# Case: Adjourned Crumplesnatch v. Azalea Isles (2025) CV 02
+
+Court: District Court
+Status: Adjourned
+Case Number: 2025 CV 02
+Forum Link: https://cityrp.org/threads/crumplesnatch-v-azalea-isles-2025-cv-02.153/
+
+## Summary
+Pending.
+
+## Parties
+- Plaintiff: Crumplesnatch
+- Defendant: Azalea Isles
+
+## Legal Issues
+- Pending.
+
+## Source Metadata
+- Thread author: Asqii
+- Start date: Feb 1, 2025
+- Scraped at: 2026-05-20T21:36:48.549Z
+- Posts captured: 28
+
+## Docket Timeline
+
+### Feb 1, 2025
+Author: Asqii
+Date: 2025-02-01T08:25:13-0500
+Page: 1
+Post Link: https://cityrp.org/threads/crumplesnatch-v-azalea-isles-2025-cv-02.153/post-545
+Type: Unclassified
+
+Jebediah Crumplesnatch, Plaintiff
+
+v.
+
+Parliament, Defendant
+
+Civil Complaint:
+The Speakership Amendment Act was recently passed in parliament despite the standing orders requiring the speaker to vote against it. As the author of these standing orders, and as a citizen of Azalea who is entitled to a Parliament which abides by the law, I bring forward this case to overturn the recent vote. As shown in Crumplesnatch Vs Bezzer, merely being a citizen is enough standing to bring cases against parliament when law breaking is believed to have occurred.
+
+Whilst I do not personally approve of this bill, I do not bring this case forwards due to its contents, merely the manner in which it was passed.
+
+Parties:
+Plaintiff - Jebediah Crumplesnatch
+Defendant - Parliament
+
+Factual Allegations:
+- On 31/01/25 (or 01/02/25 depending on time zone), the house voted 3-3 towards the Speakership Amendment Act.
+- As written in the standing orders, The Speaker is required to cast a vote to break ties in these occasions.
+- The speakers vote must be to vote in a manner which retains continuity to prevent bills being passed without a majority from those serving in the House
+- This bill greatly disrupts the status quo and the balance of power in parliament, and so by voting for it to pass Speaker Milkcrack has broken these standing orders.
+- Whilst the Parliamentary Establishment and Standards act previously required new standing orders to be voted upon at the election of a new Speaker, this act was repealed and replaced by the Parliamentary Procedures Act, which gives no such guidance to when new standing orders must be brought forwards.
+- The clauses in the standing orders of the third parliament are therefore valid until the orders are entirely replaced, or until the house brings forward bills which would overrule them. The Speakership amendment act being one of these aforementioned bills.
+
+Legal Claims:
+Clause 9.2c parliamentary procedures act states that the speaker is responsible for "Enforcing the Parliamentary Procedure Act, Standing Orders, and general ethical standards."
+
+Clause 4ai of the Standing Orders states that "In the event of a tie, the Speaker will cast the deciding vote, and must always vote for continuity."
+
+Precedent established in Crumplesnatch Vs Bezzer allows this court to rule in favour of discounting votes cast illegally by the Speaker of Parliament.
+
+Prayer for Relief:
+I ask for this court to discount the vote cast illegally by Speaker Milkcrack resulting in a 3-3 tie and this bill not passing. I also request No restrictions on parliament bringing this bill forward again and allowing for it to pass in a legal manner.
+
+Verification:
+I Jebediah Crumplesnatch, hereby affirm that the allegations in the complaint AND all subsequent statements made in court are true and correct to the best of the plaintiff's knowledge, information, and belief and that any falsehoods may bring the penalty of perjury.
+
+### Feb 1, 2025
+Author: Asqii
+Date: 2025-02-01T08:31:47-0500
+Page: 1
+Post Link: https://cityrp.org/threads/crumplesnatch-v-azalea-isles-2025-cv-02.153/post-546
+Type: Unclassified
+
+Motion for Expedited Hearing
+I hereby request an expedited hearing on the grounds that an extended hearing would results in great disruption to Parliamentary process, and in light of on-going legal matters between myself and the speaker, I do not desire to have two cases ongoing between the same individuals as this can only bring confusion to involved parties.
+
+Additionally, as the speaker has publicly acknowledged that this clause is currently in the standing orders,and I have publicly warned that these standing orders carry over until replaced, I am sure the Speaker would have prepared an explanation as to why voting in this manner is legally sound.
+
+### Feb 1, 2025
+Author: Westray
+Date: 2025-02-01T10:26:35-0500
+Page: 1
+Post Link: https://cityrp.org/threads/crumplesnatch-v-azalea-isles-2025-cv-02.153/post-547
+Type: Unclassified
+
+Writ of Summons
+
+Azalea Isles Civil Court (CR)
+
+Case No. CV-25-02
+
+Plaintiff: Jebediah Crumplesnatch (Fergie_Foo)
+Defendant: Government of Azalea Isles
+
+The Defendant is required to appear before the court in the case of Crumplesnatch v. Azalea Isles. Failure to respond within 48 hours may result in a default judgement.
+
+Both parties are ask to familiarize themselves with the relevant court documents, including proper formats, as well as the laws referenced in the complaint. Ensure that you comply with any court orders.
+
+Signed,
+Hon. Justice Raymond West
+
+### Feb 1, 2025
+Author: Westray
+Date: 2025-02-01T10:27:22-0500
+Page: 1
+Post Link: https://cityrp.org/threads/crumplesnatch-v-azalea-isles-2025-cv-02.153/post-548
+Type: Unclassified
+
+Crumplesnatch said:
+Motion for Expedited Hearing
+I hereby request an expedited hearing on the grounds that an extended hearing would results in great disruption to Parliamentary process, and in light of on-going legal matters between myself and the speaker, I do not desire to have two cases ongoing between the same individuals as this can only bring confusion to involved parties.
+
+Additionally, as the speaker has publicly acknowledged that this clause is currently in the standing orders,and I have publicly warned that these standing orders carry over until replaced, I am sure the Speaker would have prepared an explanation as to why voting in this manner is legally sound.
+
+In accordance with Motions and Objections, a motion for an expedited hearing is "made by the plaintiff (or prosecution) with the complaint and agreed upon by the defendant in an answer" - therefore, the Court asks that the Defendant provide a response as to whether they would agree to an expedited hearing or not for this case.
+
+### Feb 2, 2025
+Author: MilkCrack
+Date: 2025-02-02T06:19:07-0500
+Page: 1
+Post Link: https://cityrp.org/threads/crumplesnatch-v-azalea-isles-2025-cv-02.153/post-553
+Type: Unclassified
+
+Your honour, we reject the expedited hearing.
+
+Motion to Dismiss
+The defendant respectfully moves this Court to dismiss the plaintiff’s complaint on the grounds that the plaintiff lacks standing to bring this action and the court lacks subject matter jurisdiction to rule on this issue.
+
+Lack of Standing
+The case structure clearly states that the plaintiff must have a direct and specific interest and must show that the defendant committed a legal wrong. We contend the plaintiff has failed to demonstrate either.
+
+The plaintiff’s reliance on the precedent set in Crumplesnatch v. Bezzer is misplaced, as that case resulted in a default judgment and did not address or resolve the issue of standing. Therefore, the cited case provides no support for the plaintiff’s claims.
+
+Failure to establish direct and specific standing.
+Parliament operates as an independent entity with its own internal processes. These activities, including the maintenance and enforcement of its Standing Orders, are not of direct and specific legal interest to the general public.
+
+Although the public can be affected by certain laws and outcomes of this parliamentary process. The plaintiff has not demonstrated how the plaintiff is affected by this law.
+
+And even if they were, the interest in which way the speaker votes would still be indirect and unspecific therefore failing to meet the requirement of standing.
+
+Lack of Legal Obligation:
+Unlike an Act of Parliament which, after receiving royal assent, carries the full force of law, the Standing Orders have not been granted royal assent and, therefore, do not possess the same legal status.
+And therefore the standing orders do not create a legal obligation to the general public, unlike constitutional or statutory law.
+
+The case Crumplesnatch v. Bezzer was based on the Parliament Establishment and Standards Act which is statutory law and therefore inherently different from the internal ordinances the plaintiff is attempting to base his claim on now.
+
+Not to mention the fact that the standing orders are from the last parliament and do not carry over to this one.
+
+Separation of Powers:
+The Standing Orders operate strictly within the internal framework of Parliament and are enforced by the Speaker as part of Parliament’s self-regulatory mechanisms. Allowing judicial review of these internal procedures would result in an impermissible intrusion into the legislative domain, violating the constitutional separation of powers.
+
+Using the logic provided by the plaintiff, any citizen can sue Parliament in court for failing to enforce 'general ethical standards' which of course was not at all the intention of the act and any such interpretation would violate the mischief rule.
+
+Conclusion
+For the reasons stated above the plaintiff’s lack of standing and legal obligation, this Court should grant the defendant’s motion to dismiss. The plaintiff’s claims rest on an improper interpretation of internal parliamentary procedures, and permitting such claims would constitute an overreach into Parliament’s exclusive prerogative.
+
+At the very least we urge the court to practise judicial restraint by not interfering in the internal regulatory mechanisms of parliament.
+
+### Feb 2, 2025
+Author: Asqii
+Date: 2025-02-02T07:06:32-0500
+Page: 1
+Post Link: https://cityrp.org/threads/crumplesnatch-v-azalea-isles-2025-cv-02.153/post-554
+Type: Unclassified
+
+Refutes
+Lack of Standing
+There is already precedence for citizens to bring a case before a court where a breach of the law has occurred, as the defendant is fully aware as he presided over it. If he truly believes that case had no standing, he would have been obligated to dismiss the case. By allowing it to be heard, he established the precedent, regardless of the final outcome. If he now wishes to state that this precedent was wrongly given, I would hereby request a review of all the cases he oversaw whilst a judge as he has essentially admitted he no longer feels his rulings were legally sound.
+
+Additionally, I stated another form of standing in respect of me having been the author of the standing orders that have been broken. The speaker voting in a way that breaches legally binding terms that I authored is specific and direct.
+
+Lack of Legal Obligation
+As stated when I opened the suit, The Parliamentary Procedures Act charges the Speaker with upholding the standing orders: "9(c) Enforcing the Parliamentary Procedure Act, Standing Orders, and general ethical standards."
+Whilst I dispute his argument that the standing orders do not have any legal obligation, the Parliamentary Procedures act does, and it is incredibly clear. The Speaker must enforce the standing orders, and nobody can be deemed to be enforcing these rules if they are in themselves breaching them.
+
+Expiry of the Standing Orders
+The defendant stated the following:
+"Not to mention the fact that the standing orders are from the last parliament and do not carry over to this one."
+Would he please care to explain what law or article of the constitution states this? The Speaker is deeply misinformed and I have previously told him this but he refuses to listen. Standing orders do not have a expiry date. Whilst I titled the previous set as "Standing Orders for the Third Parliament", this was done under the belief that the Parliamentary Establishment and Standards Act would not be repealed, and therefore the clause requiring new standing orders following the election of a speaker would still be in effect.
+
+This clause would have meant that the standing orders would expire as PESA required a new Speaker election at the beginning of each parliamentary term. PESA however was repealed, and its replacement states no terms regarding their expiry. As these rules were voted on by Members of Parliament, and there is nothing in current law defining their expiry, they must still stand, unless this court wishes to establish that any matter voted upon by MPs is no longer legally binding at the end of the term and thereby repeal all passed legislation.
+
+If the defendant wishes again to dispute the validity of the standing orders, I would invite him to see the attached definition of "Standing".
+Permanent. Perpetual. Everlasting.
+
+As I stated when filing this dispute, these orders are in effect until they are replaced, repealed, or overwritten. Until that occurs, these orders are in place and must be followed, by both Members and Speaker.
+
+### Feb 2, 2025
+Author: Westray
+Date: 2025-02-02T09:41:25-0500
+Page: 1
+Post Link: https://cityrp.org/threads/crumplesnatch-v-azalea-isles-2025-cv-02.153/post-558
+Type: Unclassified
+
+After careful consideration, the Court has decided to reject the motion to dismiss.
+
+The Defence argues that the Plaintiff lacks standing and that this Court lacks subject matter jurisdiction to intervene in parliamentary matters. The Plaintiff, in response, asserts that standing has been established both through precedent and through his role as the author of the standing orders in question.
+
+While Parliament is a sovereign legislative body, the Parliamentary Procedures Act explicitly requires the Speaker to enforce standing orders. Since this legal duty exists, the Court has the authority to determine whether the Speaker’s actions complied with existing procedural rules.
+
+A core issue in this case is whether standing orders from the previous Parliament remained in effect when the Speaker cast their vote. The Defence argues that they expired at the start of the new session, while the Plaintiff asserts that they remain binding until explicitly repealed or replaced.
+
+Since this issue is unresolved in existing law, the Court believes that a full exploration of the facts is necessary in order to make a final determination. This ensures that the Court's decision is based on legal argument and precedent rather than assumption.
+
+The Defence has indicated that they are opposed to an expedited hearing. Therefore, we will begin in the typical case structure. The Defence has 48 hours to provide an answer to the complaint.
+
+### Feb 4, 2025
+Author: Asqii
+Date: 2025-02-04T12:58:18-0500
+Page: 1
+Post Link: https://cityrp.org/threads/crumplesnatch-v-azalea-isles-2025-cv-02.153/post-577
+Type: Unclassified
+
+Motion for Sanctions
+Your Honour, the defendant has now missed the deadline by a number of hours. Under normal circumstances I would request a default judgement, however as you yourself have stated that this matter is unresolved in existing law, I would strongly prefer that we settle it properly to avoid any future confusion, therefore I request that the defence be sanctioned and reminded of their duty to abide by orders made within this court.
+
+### Feb 4, 2025
+Author: MilkCrack
+Date: 2025-02-04T23:11:14-0500
+Page: 1
+Post Link: https://cityrp.org/threads/crumplesnatch-v-azalea-isles-2025-cv-02.153/post-583
+Type: Unclassified
+
+Your Honour, I would like to apologise and we are willing to pay a reasonable fine. I did not get a notification, that your honour has posted a reply.
+
+However, I must emphasize the immense workload faced by the Government Legal Team due to cases of this nature. That's why I would like to ask to court, to reconsider the motion to dismiss.
+
+MOTION TO RECONSIDER
+
+I respectfully urge the Court to reconsider the standing requirement in this matter. While Your Honour noted that the issue remains unresolved in current law, the ruling did not explicitly address the necessity of a direct and specific interest. Which we believe was the most essential part of the motion to dismiss.
+
+Allowing any citizen to challenge the government, parliament, or other institutions simply due to a differing interpretation of the rules, when they have not been effected at all sets a dangerous precedent. A standard must be maintained to prevent frivolous litigation and clear up the docket for real cases.
+
+Mr. Crumplesnatch does not possess a direct and specific interest in the passage of this bill. This issue has not yet been addressed which is why I ask the Court to rule on this crucial issue.
+
+### Feb 5, 2025
+Author: Asqii
+Date: 2025-02-05T03:33:21-0500
+Page: 1
+Post Link: https://cityrp.org/threads/crumplesnatch-v-azalea-isles-2025-cv-02.153/post-584
+Type: Unclassified
+
+Refutes & Motion for Additional Sanctions
+Your honour, the defense had 48 hours in order to come here and ask for an extension due to their high workload. I can see in other cases the defense complaining about not receiving 48 hours, proving they were fully aware of it.
+
+You yourself gave the defence an additional reminder to provide their opening statement, something I note has still not been done.
+
+And so to come here over 12 hours past the court ordered deadline, only to immediately try and delay the case further by motioning over a settled matter, supported by precedence that they themselves established whilst a member of the judiciary, is nothing but contemptuous.
+
+As for once again stating that I have no direct standing, I would remind the court that I authored the rules that the defendant has illegally broken. I do not know how much more direct and specific my standing can be.
+
+If the defense truly believes that I have no standing in this matter, I would challenge them on their decision to allow Crumplesnatch vs Bezzer to go forward to trial, when that case has a fraction of the standing that this one does. Either the Speaker broke the law when he was a justice, or he is trying to break the law now by trying to mislead the court and sidestep my right to a fair hearing.
+
+As for the governments legal team being too busy to handle the number of cases currently ongoing, whilst I sympathise with them, it is not a matter for this hearing. Perhaps the number of ongoing litigations should serve to advise the government on the importance of following the rules, something they have allegedly failed to do in government, parliament, and this court. As a show of good will, might I offer them once more a Motion to Expedite this hearing in order to settle this matter quickly and to free up their capacity to handle the other cases.
+
+### Feb 5, 2025
+Author: Westray
+Date: 2025-02-05T04:59:28-0500
+Page: 1
+Post Link: https://cityrp.org/threads/crumplesnatch-v-azalea-isles-2025-cv-02.153/post-585
+Type: Unclassified
+
+The Court has taken into consideration the Plaintiff's motion for sanctions, and would like to indicate that any further tardiness or lack of respect for the deadlines in this case may result in contempt penalties.
+
+As for the motions put forward by the Defence, the Court has decided to reject the motion to dismiss at this time. The Plaintiff has alleged that his standing is based around his relationship to the standing orders and upon previous precedent that supposedly enabled his ability to sue merely in the position as a citizen. Although I agree as to the importance of standing, enough argumentation has been offered to the Court as to not dismiss this case without considering the full merits of it.
+
+Please respond to the Court with your answer to the complaint at your earliest convenience, failure to do so will result in contempt of court charges accordingly. As pointed out by the Plaintiff, if there is a need for an extension, it needs to be requested within the timeframe previously given.
+
+### Feb 6, 2025
+Author: MilkCrack
+Date: 2025-02-06T03:17:04-0500
+Page: 1
+Post Link: https://cityrp.org/threads/crumplesnatch-v-azalea-isles-2025-cv-02.153/post-588
+Type: Unclassified
+
+Expedited hearing.
+It's clear that the court has no interest in protecting the parliament from frivolous, politically motivated lawsuits that lack standing. As such the parliament has been forced to devote significant resources, to its defence in court.
+
+Spending dire time and resources that could have been much better used advancing the national interest.
+
+Furthermore, it appears the queen is refusing to sign the bill because of this bogus lawsuit, and as such we are forced to do everything in our power to mitigate the damages caused by the plaintiff and get this frivolous lawsuit out of the way as soon as possible which includes consenting to the expedited hearing.
+
+Answer to Civil Complaint:
+
+Your honour, this case completely lacks standing. How can a citizen be impacted by a law that has not even been signed or has taken into effect yet? The plaintiff has made a complete mockery of the legal system for political purposes.
+
+As to the substantive issue of the court case, the plaintiff is attempting to assert that by not passing new standing orders, the old standing orders of the previous parliament magically transfer to this parliament.
+
+This interpretation is not only not based on any law, but only based on the plaintiff's own political disagreements with the law in question.
+
+The plaintiff's interpretation of the standing orders lacks any foundation.
+
+There is no clause allowing for the transference of one parliament's standing orders to the next. Standing orders are passed for a specific parliament, therefore they do not have to be repealed.
+
+Previous acts have stated that parliament is required to pass standing orders for each parliament, the new act merely got rid of this requirement there is no legal requirement to have any standing orders.
+
+The standing orders of the previous parliament were clearly titled "Standing Orders for the Third Parliament." At no point did the third parliament intend for these standing orders to be transferred to the fourth parliament.
+
+Nor did or would the fourth parliament, consent to the transference of these standing orders.
+
+Furthermore, the court should defer to the speaker and parliament in their interpretation role. Especially when it comes, to the interpretation and enforcement of the rules in its own chamber. Failing to recognise the broad interpretive authority of parliament in these cases would constitute an abuse of power and judicial overreach.
+
+Parties:
+Plaintiff - Jebediah Crumplesnatch
+Defendant - Parliament
+
+Factual Defenses or Challenges:
+- On 31/01/25 (or 01/02/25 depending on time zone), the house voted 3-3 towards the Speakership Amendment Act. DENY
+- As written in the standing orders, The Speaker is required to cast a vote to break ties in these occasions. DENY The speaker's restriction to only cast tie-breaking votes does not derive from the standing orders but from the Parliamentary Procedure Act.
+- The speakers vote must be to vote in a manner which retains continuity to prevent bills being passed without a majority from those serving in the House. DENY
+- This bill greatly disrupts the status quo and the balance of power in parliament, and so by voting for it to pass Speaker Milkcrack has broken these standing orders. DENY
+- Whilst the Parliamentary Establishment and Standards act previously required new standing orders to be voted upon at the election of a new Speaker, this act was repealed and replaced by the Parliamentary Procedures Act, which gives no such guidance to when new standing orders must be brought forwards. AFFIRM The act removes the requirement as to when or whether at all, standing orders must be passed.
+- The clauses in the standing orders of the third parliament are therefore valid until the orders are entirely replaced, or until the house brings forward bills which would overrule them. The Speakership amendment act being one of these aforementioned bills. DENY
+
+Legal Defenses or Challenges:
+
+The parliament lacked legislative intent to transfer the standing orders from the third to the fourth parliaments. At no point did the third or fourth parliament intend to do so.
+The textual meaning of the title of the standing orders clearly show that the standing orders are only applicable to the third parliament.
+Previous parliaments did not have to repeal previous standing orders in order to pass new ones. This is because they recognised that previous standing orders do not transfer.
+The standing orders are not law as they are not signed by the queen, the standing orders only exist in reference to their enforcement by the speaker. As such parliament has full authority to enforce these as they see fit. They should lend appropriate deference to this enforcement. If the court appropriates the authority to itself over the standing orders, it shall also appropriate authority to enforce 'general ethical principles'. This would be an absurd reading of the act, not at all in line with legislative intent, and constitute a breach of the separations of power.
+Lack of Standing. There exists no legal obligation to the plaintiff in the enforcement of the standing orders.
+The plaintiff could not have possibly suffered damages by a bill that has not even been signed yet.
+The plaintiff lacks direct and specific interest in the enforcement of the standing orders.
+
+Verification:
+
+I, Milkcrack hereby affirm that the allegations in the answer AND all subsequent statements made in court are true and correct to the best of the defendant’s knowledge, information, and belief and that any falsehoods may bring the penalty of perjury.
+
+### Feb 6, 2025
+Author: Westray
+Date: 2025-02-06T03:34:01-0500
+Page: 1
+Post Link: https://cityrp.org/threads/crumplesnatch-v-azalea-isles-2025-cv-02.153/post-590
+Type: Unclassified
+
+In accordance with the currently established Motions and Objections, an expedited hearing shall "allow for opening arguments followed immediately by a verdict afterwards," given that both parties have indicated an interest in such expedited hearing, we will move forward with that.
+
+The Plaintiff has 48 hours to present an opening statement to the Court.
+
+### Feb 6, 2025
+Author: Asqii
+Date: 2025-02-06T17:21:47-0500
+Page: 1
+Post Link: https://cityrp.org/threads/crumplesnatch-v-azalea-isles-2025-cv-02.153/post-594
+Type: Unclassified
+
+Motion for Sanctions
+Your Honour, whilst I acknowledge the courtroom can be an impassioned place where feelings and emotions run high, the behaviour we have just witnessed from the defence is unbecoming of a counsellor within the court, a senior member of the government, and of the supposedly impartial Speaker of the House.
+
+Rather than acting with a respectful decorum and simply accepting the Motion to Expedite, the defence lawyer instead felt it necessary to launch into an unprompted attack against this Court, myself, and the Crown. I am sympathetic to the impact this is causing parliament and any frustrations resulting from this, which is why my first action upon filing this case was to put forward a Motion to Expedite. Had the defence accepted this motion at the time, rather than purposely delaying the case and failing to abide by court issued deadlines, this case would have been finished days ago, and the impact to parliament would have been negligible. Instead, the defence made a decision they have come to regret and rather than accepting the consequences of this, they have launched an attack against anyone who is unwilling to blindly overlook their actions.
+
+Within the court library is a document titled Standing Orders for Courtroom Decorum. It is a short document, with only 3 main clauses. The third of these clauses contains the following: “All officers of the court, including parties, counsel, and other participants, are expected to minimise editorial commentary, personal opinions, and ad hominem attacks in their submissions.”
+
+Your honour, these standing orders were written by the defendant. I do not believe I need to elaborate further on the contempt shown by the defendant in breaching his own standing orders, whilst defending a case centred on his breaching of the standing orders.
+
+I apologise for the additional disruption this Motion will cause and would like to reassure the court that my Opening Statement will be given before the allotted deadline.
+
+### Feb 6, 2025
+Author: Westray
+Date: 2025-02-06T19:01:21-0500
+Page: 1
+Post Link: https://cityrp.org/threads/crumplesnatch-v-azalea-isles-2025-cv-02.153/post-597
+Type: Unclassified
+
+At this time, the Court has decided to reject the motion for sanctions. With regards to the Courtroom Decorum outlined in the library, it is referring to posts made with regards to the official record of the court thread. As noted "...personal opinions, and ad hominem attacks in their submissions."
+
+I assume (you may respond to let me know if I am wrong) that you are asking for such sanctions because of remarks that the Defendant made outside of the courtroom. This Court is not in the business of monitoring speech outside of this courtroom, unless it is exceptionally obstructive to the proceedings of the trial. As said, seeing as the Defence has not posted anything yet in this thread that goes against decorum, I cannot grant such sanctions.
+
+The Court reminds the Plaintiff that they are asked to present an opening statement to the Court.
+
+### Feb 6, 2025
+Author: Asqii
+Date: 2025-02-06T19:36:51-0500
+Page: 1
+Post Link: https://cityrp.org/threads/crumplesnatch-v-azalea-isles-2025-cv-02.153/post-598
+Type: Unclassified
+
+Motion for Reconsideration
+Your Honour I apologise for any confusion, I was specifically referring to the most recent submission by the defence council. I have included the section below to which I refer and have highlighted the areas I felt worthy of motioning.
+-----
+Expedited hearing.
+It's clear that the court has no interest in protecting the parliament from frivolous, politically motivated lawsuits that lack standing. As such the parliament has been forced to devote significant resources, to its defence in court.
+
+Spending dire time and resources that could have been much better used advancing the national interest.
+
+Furthermore, it appears the queen is refusing to sign the bill because of this bogus lawsuit, and as such we are forced to do everything in our power to mitigate the damages caused by the plaintiff and get this frivolous lawsuit out of the way as soon as possible which includes consenting to the expedited hearing.
+-----
+It is not the duty of this court to protect Parliament, it is the duty of this court to ensure Parliament follow the constitution, as is defined in the constitution. The defendant has attacked this court for performing its constitutional duty, that goes against decorum. The false notion that this case lacks standing has been the matter of two motions, both of which were dismissed. Unless the court suddenly change its mind, the case does have standing and for him to suggest otherwise is editorial commentary and an expression of personal opinions, as is the defences naming of this suit as "frivolous" and "politically motivated".
+
+But then going on to attack our Head of State for hesitating to grant assent to a law currently undergoing a trial to deem its legality, is undeniably a breach of decorum and dare I say, treasonous behaviour from the Prime Minister and the Speaker of the House. This is not behaviour befitting someone of his standing and experience, so if the court do not deem it worth sanctioning, I would still request the defence apologise to the court for the language used.
+
+I thank the court for its reminder regarding my opening Statement, I can assure you once again that it will be submitted within the allotted time at the earliest convenience.
+
+### Feb 7, 2025
+Author: Westray
+Date: 2025-02-07T10:25:54-0500
+Page: 1
+Post Link: https://cityrp.org/threads/crumplesnatch-v-azalea-isles-2025-cv-02.153/post-602
+Type: Unclassified
+
+In light of these concerns, the Court would like to remind the Defence to ensure they are remaining respectful of the opposing party in this case, and upholding the decorum as expected in this trial. That includes minimizing editorial commentary accordingly. If the Defence misses any more deadlines or exceeds the expected behaviour of this courtroom, they may be held in contempt.
+
+The Court reminds the Plaintiff that they are asked to present an opening statement to the Court.
+
+### Feb 7, 2025
+Author: Asqii
+Date: 2025-02-07T21:56:37-0500
+Page: 1
+Post Link: https://cityrp.org/threads/crumplesnatch-v-azalea-isles-2025-cv-02.153/post-609
+Type: Unclassified
+
+Motion to Strike
+
+The defendant stated that “previous acts have stated that parliament is required to pass standing orders for each parliament”.
+
+This is false.
+
+Previous legislation specifically stated,
+
+“They are to be adopted upon the appointment of a new Speaker of the House.”.
+
+Whilst there is an election of the Speaker following an Election, this is not the claim the defence has made, and as the wording used has been proven to be untrue, I request it be struck from the record.
+
+Objection #1: Hearsay
+
+The defendant stated:
+
+“The standing orders of the previous parliament were clearly titled "Standing Orders for the Third Parliament." At no point did the third parliament intend for these standing orders to be transferred to the fourth parliament.”
+
+He cannot speak to the thoughts and motives of those in Previous Parliaments. Furthermore, this is not what is written in law, the law is the law. The law is not what Milkcrack feels like it should be.
+
+Objection #2: Hearsay
+
+The defendant stated:
+
+“The parliament lacked legislative intent to transfer the standing orders from the third to the fourth parliaments. At no point did the third or fourth parliament intend to do so.”
+
+Whilst his title is the Speaker of Parliament, he does not speak on behalf of its members. Unless he has spoken to all the members of the Third and Fourth parliament to ask for their thoughts, he cannot speak to the thoughts and motives of those in the Third and Fourth Parliaments. Furthermore, this is not what is written in law, the law is the law. The law is not what Milkcrack feels like it should be.
+
+Objection #3: Hearsay
+
+The defendant later stated the following:
+
+“Previous parliaments did not have to repeal previous standing orders in order to pass new ones. This is because they recognised that previous standing orders do not transfer.”
+
+He cannot speak to the thoughts and motives of those in Previous Parliaments. Furthermore, this is not what is written in law, the law is the law. The law is not what Milkcrack feels like it should be.
+
+Opening Statement
+
+Your Honour, for all the retreating and smoke screening that has occurred so far, this case ultimately resolves down to a single question: “Do the Standing Orders carry over following an election?”.
+
+On this side of the court, we say yes.
+
+Whilst I cannot presume to speak to the motives of all the other members of the Third Parliament, I can speak to their actions. Whilst these standing orders were being written, multiple members of the house, including the defendant, requested that clauses be added or rewritten due to the possibility of the rules being abused by future parliaments, or a potential future rogue Speaker who followed me in the role. Whilst it would be improper for anyone in this court to speak to another citizens thoughts or motives, these do not appear to be the actions I would personally associate with those who felt the Standing Orders didn’t carry onward beyond their own term.
+
+Following the Fourth Election, I am unable to provide you with the evidence of these conversations, so should the defence try to dispute my claims here, I would ask that you subpoena parliament for you to have access to the debate so that you may view the messages yourself.
+
+The defence has made bold claims saying that Standing Orders are passed for a sole parliamentary term and therefore dom not require repealing. To this I would simply ask one question, “According to what?” the defence is making assumptions and declaring it law. Not one single line of any clause currently in law even hints toward the Standing Orders only applying for a single term.
+
+Whilst the contrary is also true, there is no bill saying they do carry forwards, the very term “Standing Orders” does. A popular online dictionary defines standing as the following: “remaining in force or use; permanent.” Permanent. Not permanent until a politician decides not to follow them; permanent. Not permanent until there’s an election; permanent.
+
+These orders were debated by MPs, were voted upon by MPs, and by definition are permanent. Unless legislation exists to define an expiry date, these cannot expire. The outstanding precedent that would be established in allowing matters voted upon by members to be voided simply due to the occurrence of an election, with no defined law to justify it, would be simply catastrophic.
+
+Your honour, I am fully aware of the seriousness of the accusation I am about to make, but I have no choice but to believe he has committed perjury. In his response to my filing’s factual allegations, he has denied the fact that the house voted for a 3-3 tie on this bill. If the house did not vote 3-3 tie as he is claiming, why did he submit a vote? The records show that before his vote was cast, it was a 3-3 split. So why would he lie about such a blatant matter if not to try and delay and cause additional disruption to this case?
+
+In his second point, he says “The speaker's restriction to only cast tie-breaking votes does not derive from the standing orders but from the Parliamentary Procedure Act.”
+
+Respectfully, the Standing Orders are older than the PPA, so if this is derived from anything it is the Standing Orders. But ignoring that minor detail for a moment, he is still agreeing with my claim that the Speaker may only cast tie-breaking votes, supporting my claim that the defendant has lied to this court, unless the Speaker is now publicly admitting to voting illegally before a tie had occurred.
+
+He then denies that the Speaker is required to vote in a manner which retains continuity, need I quote the Standing Orders?
+
+It is in this next denial that I truly begin to wonder if the defence has even read my filings. He denies the notion that giving the Speaker a free vote would disrupt the status quo. How does giving the Speaker a free vote on all matters not disrupt the status quo or the balance of power? The defence may believe it not to be an issue, but that does not change the fact that this change would disrupt parliament.
+
+The very fact the defence launched an attack about this bill not yet receiving assent only serves to prove the effects this would have on the status quo in Parliament, his frustrations serving to prove that the Speaker is relying on this bill to break the status quo and grant him the ability to try and break the Parliamentary deadlock.
+
+If however the defence does truly believe this would not break the status quo, allow me to be so bold as to remind the court what the Status Quo actually is.
+
+In the first version of Parliaments standing orders, it says the following :
+
+“2. Voting Procedures
+(a) Votes shall be conducted by an electronic tally with the options: Aye, Nay, or Abs
+(b) In the event of a tie, continuity prevails.”
+
+In the second version of the standing orders, it says the following:
+
+“Voting
+
+(a) Votes shall be conducted through forums or through a poll with the following options: Aye, Nay, or Abs
+
+(b) In the event of a tie, the matter fails.”
+
+And as the defence is fully aware, what is written in the current version of the Standing orders is the following:
+
+“4) Voting Procedures
+a) Votes shall be conducted by an electronic tally with the options: Aye, Nay, or Abs
+i) In the event of a tie, the Speaker will cast the deciding vote, and must always vote for continuity.”
+
+At no point in our entire nations history has the Speaker been given free reign to vote as they please, and until such a time that a bill such as the Speakership Amendment Act is passed legally, or the house passes replacement standing orders allowing for it, the status quo must remain. And as states in the Parliamentary Procedures Act, the Speaker is the individually charged with holding parliament accountable to the Standing Orders.
+
+“9(2c) Enforcing the Parliamentary Procedure Act, Standing Orders, and general ethical standards.”
+
+As this bill was authored by the defendant, I do not expect him to try and deny knowledge of his own words. Instead, I would question how the Speakers duties can include enforcing rules that the defence are saying do not exist.
+
+It is at this point in the factual claims where the defence finally finds something it agrees with me on, that being the repealing of PESA removed the requirement for new standing orders to be brought forward following the election of the Speaker. However a minor detail I fear the defence is missing is that by repealing the only legislation to require new standing orders be voted upon, he also repealed the only legislation that would have supported his claim that standing orders do in fact require replacing.
+
+With regards, to his challenges to my Legal Claims, two of these are blatant hearsay and must be struck from the record, one is a total misunderstanding of the word “Standing” on behalf of the defendant, and as for his fourth challenge, whilst eloquent, it is a smokescreen. The constitution gives Parliament no right to enforce laws. That responsibility belongs to the Judiciary. The defence here is stating that the Judiciary has no jurisdiction over Parliament. The Constitution explicitly states otherwise and charges the Supreme Court with reviewing the constitutionality of laws made by Parliament.
+
+Repeatedly in this case, the Defendant has made bold assertions which simply have no legal basis, and are solely derived on assumptions based on his experiences in other countries. I would advise he find alternative counsel in any future cases, however he has been rather public about his difficulties finding someone to take on these cases. If no-one in our countries legal community wants to take on a potentially lucrative name-making case, it paints a very clear picture of the defences legal position.
+
+The standing orders were debated by Parliament, they were voted on by Parliament, and the PPA makes them legally enforced. If the defence wants to question whether or not this case is within the jurisdiction of the court, I would remind them that a hearing in the Supreme court will be far more disruptive than a simple expedited hearing here, but it is a length that I am willing to extend to if he continues in his efforts to prevent a ruling here.
+
+As for points 5,6, and 7, how many more times must we discuss my standing in this case? The matter has been settled multiple times already. I have precedence in the fact that I am the author of the rules that the Speaker is flagrantly breaching. I have standing as a Citizen who is represented by a parliament whose speaker has acted to pervert the power given to them by the citizenry of our country. I have standing in the fact that as a justice, in Crumplesnatch Vs Bezzer, the defendant allowed a case against the Speaker to go ahead when the Speaker had voted illegally. And if precedence is irrelevant, and my being the author does not qualify as having relevant standing, I ask the defence this – Who does? The judiciary is charged with ensuring Parliament abides by the Constitution, who is allowed to bring forward cases to ensure this? Can he give a direct and specific answer, or is he once again trying to sidestep any possibility of accountability? Milkcrack has said the judiciary doesn't have the power to rule on this case, he has said that I do not have standing as a citizen to hold him to account. The truth is Milkcrack does not believe he is accountable to anyone.
+
+Your honour, there are two sides in this hearing. One side has abided by the deadlines; spoken with a clear respect for the rule of law, providing clear and specific quotations and references to any legal document; and has been championing correct procedure and decorum. The other side has been late, has attacked the court and the crown, and has failed to provide any legal basis for their claims, instead relying solely on assumption and euphemism. I cannot stress this enough your honour, the defence has provided No Legal Arguments against my case. He has only denied my statements with no explanation, and attacked my ability to present this case.
+
+I would ask that you rule in favour of common sense and block the Speakers fraudulent vote.
+
+### Feb 9, 2025
+Author: Westray
+Date: 2025-02-09T12:39:57-0500
+Page: 1
+Post Link: https://cityrp.org/threads/crumplesnatch-v-azalea-isles-2025-cv-02.153/post-614
+Type: Unclassified
+
+After careful consideration, the Court is prepared to rule on the following objections:
+
+Motion to Strike #1: The Plaintiff alleges that the Defence factually misrepresented the phrasing of previous acts surrounding the standing orders. The Court hereby accepts this motion in part, recognizing that the precise definition of the now-repealed law was that standing orders "are to be adopted upon the appointment of a new Speaker of the House."
+
+Objection #1 and #2: The Plaintiff alleges that the Defence cannot speak to the thoughts and claims of the Parliament. While this would traditionally be clarified through witness testimonies, unfortunately the Court will rule on this matter now, given the expedited nature of the case. At this time, the Court hereby sustains the objections, recognizing that the Defence has failed to prove why legislative majorities would have certain intents.
+
+Objection #3: The Plaintiff alleges that the Defence cannot speak to the thoughts and claims of the Parliament, while also suggesting that the Defence has factually misrepresented the law. The Court is prepared to overrule this objection, noting that the Defence has presented a legal argument in this remark, not a factual claim, partiuclarly on the phrase: "Previous parliaments did not have to repeal previous standing orders in order to pass new ones." Whether or not such argument is true is open for debate in this case.
+
+The Defence, represented by @MilkCrack, has 48 hours to provide their opening statement.
+
+Once both opening statements have been made, the Court will make a decision due to the expedited nature of this trial. That being said, if there is certain ambiguities that the Court seeks to clarify in either party's statement, I may ask some clarifying questions beforehand.
+
+### Feb 10, 2025
+Author: Asqii
+Date: 2025-02-10T13:08:50-0500
+Page: 1
+Post Link: https://cityrp.org/threads/crumplesnatch-v-azalea-isles-2025-cv-02.153/post-616
+Type: Unclassified
+
+Motion to Reconsider (Objection #3)
+Your honour, I hate to question your judgement, but the defence specifically stated that "[Parliament] recognised that previous standing orders do not transfer."
+
+The previous law stated that the standing orders would be replaced at the election of a new Speaker, not the beginning of a new Parliament. Whilst the practise was to elect a new Speaker following an election, this was not a certainty and the law could have been changed to make the Speaker a semi-permanent role, in which case the standing orders as written would have remained in place as that was what the law stated.
+
+As such, until such a time that a new Speaker was appointed following an election, the previous standing orders did in fact transfer. Whilst this was often only for a day, that is a crucially different affair to what the defence has claimed.
+
+Additionally, the defence has stated that "this is because parliament recognised..." This is unquestionably hearsay. I will happily withdraw the objection should the defence provide proof gathered before the statement was made showing that he contacted the previous parliamentary members and asked for their motives, but if that cannot be provided then this claim must not be taken into consideration of your verdict.
+
+### Feb 11, 2025
+Author: Asqii
+Date: 2025-02-11T12:41:05-0500
+Page: 2
+Post Link: https://cityrp.org/threads/crumplesnatch-v-azalea-isles-2025-cv-02.153/post-620
+Type: Unclassified
+
+Motion for Sanctions and Default Judgement
+Your honour, I am regretful to be in the position where I have to bring this motion forward, however the defence has given me little to no choice.
+
+Speaker Milkcrack has repeatedly shown contempt for this court, missing deadlines, attacking all participants, refusing to back up a single one of his assumptions with legal fact.
+
+The defence has one again failed to abide by the deadlines set by this court, despite clear and specific warnings from you. Milkcrack has made it clear that he does not respect the courts jurisdiction on this matter, and in doing so he has made a mockery of our legal system.
+
+Given his previous warnings for failing to abide by deadlines, lack of decorum, and contempt, I move that he be Sanctioned and that you now make your ruling on the evidence currently provided, within the set deadlines.
+
+### Feb 11, 2025
+Author: Westray
+Date: 2025-02-11T13:26:46-0500
+Page: 2
+Post Link: https://cityrp.org/threads/crumplesnatch-v-azalea-isles-2025-cv-02.153/post-621
+Type: Unclassified
+
+Upon review, the Court will be partially striking the Defendant's words. As stated before, the first sentence you highlighted illustrates an argument in this case. The first sentence shall be taken into consideration as it contains the legal argument. The second sentence, it provides such assertion. For clarity, I note the sentence that has been kept in green and the one striken from the record in red:
+"Previous parliaments did not have to repeal previous standing orders in order to pass new ones. This is because they recognised that previous standing orders do not transfer."
+
+In addition, seeing as more than 48 hours has elapsed, the Court will be hereby charging the Defence with contempt of court for failure to reply within the deadlines. The Ministry of Justice is hereby ordered to fine Speaker MilkCrack a total sum of $500 and jail him for 10 minutes accordingly.
+
+Due to the expedited nature of this trial, given there is only opening statements in this case, I will offer a second chance in the interests of understanding the full facts of this case. Therefore, the Defence has an additional 24 hours, from this post, to provide their opening statement before a ruling is made. If they fail to respond beyond this new deadline, then the Court will be obligated to make a default judgement accordingly.
+
+### Feb 11, 2025
+Author: MilkCrack
+Date: 2025-02-11T15:47:53-0500
+Page: 2
+Post Link: https://cityrp.org/threads/crumplesnatch-v-azalea-isles-2025-cv-02.153/post-622
+Type: Unclassified
+
+MOTION FOR RECONSIDERATION
+
+Your honour,
+I am being held in contempt of court for 'failing to respond'. You yourself have previously warned me for making statements when I was not asked to respond.
+
+The plaintiff has made a motion to amend my complaint, to strike something from the arguments I am ALLOWED to make. This directly affects my opening statement.
+
+How can I be expected, to re-iterate my arguments in an opening brief when I don't even know what arguments I am allowed to make?
+
+Let me remind the court, that you have not once but twice, amended my complaint DURING TRIAL without giving me any opportunity, to explain my arguments or to edit them.
+
+I find that this goes directly against the case structure and the orders as instructed by your Honour.
+
+I have done everything in my power to restrain myself from bombarding this court with objections and motions to reconsider in an effort to keep the decorum I thought was expected.
+
+I was about, to file my motion to reconsider the hearsay objections because I thought we would have gotten an opportunity to respond. We did not get an opportunity to respond.
+
+And then the plaintiff filed a motion to reconsider of their own, so silly me to think I was doing the right thing by letting the judge rule on motions one by one before submitting my own.
+
+And lastly, speaking of contempt, I would argue that this entire court is contempt. Contempt of parliament. The court has shown zero deference to parliaments and, the ability to speak for itself. And has shown zero regard for the national interests.
+
+I know the plaintiff is under some sort of delusion, that this case is some sort of referendum on me personally but now it seems that the court agrees.
+
+If the court does not believe in my ability to speak for parliament, as a lawyer for the government and speaker. I would be happy to show the court how much I speak for parliament.
+
+I ask that the court throw out this ridiculous contempt of court charge, the motions to strike, the absurd allegations of perjury and the expedited hearing.
+
+So we can have a real trial, with real witnesses and real evidence.
+
+### Feb 11, 2025
+Author: Westray
+Date: 2025-02-11T17:38:07-0500
+Page: 2
+Post Link: https://cityrp.org/threads/crumplesnatch-v-azalea-isles-2025-cv-02.153/post-623
+Type: Unclassified
+
+At this time, the Court finds no merit in the Defendant’s motion for reconsideration, rejecting it, and upholding the contempt ruling. The Defendant’s failure to respond within the required timeframe, combined with their repeated disregard for court procedure, necessitates this decision. Furthermore, the Defendant’s statement that "this entire court is in contempt" is an unacceptable challenge to the authority of these proceedings. Courts operate on the foundation of respect for legal process, and such remarks are not within the decorum expected in a courtroom. Referring to other parties as being in "delusion," while amusing, is also not acceptable. This is in line with the Judicial Standing Orders noting an obligation to minimize editorial commentary and personal opinions. This contempt charge shall remain extant both for the failure to respond within a timely manner, and for the disrespect to the parties in this trial.
+
+With regards to the objections from the Plaintiff that were sustained, the Defendant sought to introduce statements that constitute hearsay under the applicable rules of evidence. Without a valid exception, hearsay statements are inadmissible as they cannot be properly cross-examined for reliability. The Defendant failed to provide sufficient legal justification for their admission. The Defendant is welcome to provide more sufficient justification if they wish in their opening statement.
+
+As for the objection to the expedited process, the Court is prepared to reject it at this time, citing that little explanation has been offered for reverting the process of this trial. At first, both parties agreed to an expedited trial. Now, one party wants to change that. Rather than allowing this back-and-forth, the Court will not permit parties to change their mind about the process of the trial without reason. If the Defendant believes there is sufficient legal justification for reverting back to a complete non-expedited trial, they are asked to provide such justification to the Court.
+
+I hope that this explanation is sufficient enough to address any concerns applicable. The Defendant is reminded that refutations and building upon their argument can be made in their opening statement, and that the Court will consider such facts. If the Plaintiff objects to anything stated in the Defendant's opening statement, the Court will be sure to set aside time to ensure there is no further dispute over when to respond.
+
+At this time, the Defendant has 24 hours to present an opening statement, or to provide sufficient legal justification as to why reverting back to a non-expedited trial would be necessary.
+
+### Feb 12, 2025
+Author: MilkCrack
+Date: 2025-02-12T08:36:02-0500
+Page: 2
+Post Link: https://cityrp.org/threads/crumplesnatch-v-azalea-isles-2025-cv-02.153/post-624
+Type: Unclassified
+
+FINAL MOTION TO RECONSIDER
+Your honour,
+
+It's not a secret I disagree fundamentally, with these proceedings. I have clearly outlined my arguments in my answer to the complaint, and motion to dismiss and your Honour has ignored them.
+
+Instead, your honour has chosen to strike them for 'Hearsay' without giving us any opportunity to defend our case.
+
+We motion to reconsider, but you found our explanation 'lacking' so here is a full write-up of why the defence motions and objections are completely ridiculous and the court has committed a grave error in upholding them.
+
+Well, what is the definition of hearsay?
+
+Hearsay, as by the court's own rules is defined as: A statement, other than one made by the declarant (the person who originally said the statement) while testifying at the trial or hearing, offered in evidence to prove the truth of the matter asserted.
+
+So let me dissect the definition for your honour.
+So a statement must be:
+(a) testimony (about a third party)
+(b) during trial or a hearing.
+(c) offered in evidence to prove an assertion.
+
+So first asserting a lack of legislative intent is not testimony, It's an assertion. You don't strike down a lawyer's comment for asserting their client did not have a motive. Is that testimony? No of course not it's an assertion and it's a defence.
+
+Furthermore, if it was testimony who would be responsible for speaking for parliament?
+
+Well the person summoned to represent parliament, might be able to do so. Perhaps the speaker of the house and prime minister might be able to speak as to whether or not parliament did or did not intend to do something.
+
+But no this court does not recognise the authority of the SPEAKER to SPEAK for parliament.
+
+Moving on my assertion was not made during a trial or at a hearing it was part of my answer to the complaint. Therefore it cannot possibly be hearsay. As that is a fundamental requirement for the objection.
+
+And how can my statement be offered in evidence to prove an assertion? When there was no assertion according to your honour?
+
+If your honour is refusing us to make any assertio without doing a full non-expedited trial it should have been made clear to us at the beginning.
+
+on a final note,
+
+The court has granted objections and motions to strike our complaint after the trial has already started. This is simply not done.
+Hearsay quite simply doesn't apply to the answer to the complaint.
+
+And the trial is an opportunity to prove your points made in the answer to the complaint. Your honour has changed our answer to the complaint during the trial and is now complaining that we thought we assumed we had time to come up with a new strategy.
+
+Your honour has just taken away our rights to prove our points by striking our points before we even had an opportunity to make them. Last time I checked this court was using the adversarial system, where both parties make their case and after that the judge decides.
+
+I would like to remind your honour of all the plethora of times when deadlines were moved because a party interjected with objections or motions.
+
+When a defendant gets summoned and files a motion to dismiss instead of an answer to a complaint they are not held in contempt. This is the first time, the court has ever ruled that an objection or motion does not impact that deadline.
+
+And to punish the defences council with a criminal charge right off the bat is absurd. No notice has been given that this precedent has been changed. Zero.
+
+### Feb 12, 2025
+Author: MilkCrack
+Date: 2025-02-12T08:55:28-0500
+Page: 2
+Post Link: https://cityrp.org/threads/crumplesnatch-v-azalea-isles-2025-cv-02.153/post-625
+Type: Unclassified
+
+OPENING STATEMENT
+I respectfully ask Your Honour to fully consider and rule on these arguments. I have done my best to address the points raised, and while Your Honour accused me of testifying, I hope my arguments will still be considered.
+
+I am uncertain whether I am even permitted to make these arguments as they have been so cruelly stricken from my answer to the complaint.
+
+I have chosen to submit them once more because I do not wish to risk another contempt of court charge while awaiting Your Honour’s ruling on whether or not I am allowed to make them.
+
+1) No reasonable person could have concluded that the legislature intended for the standing orders entitled 'Standing Orders for the Third Parliament.' To be applicable for the fourth parliament.
+
+2) The title is a part of the same document and therefore carries the same force of law as the standing orders. Limiting its scope to only the third parliament.
+
+3) I ASSERT WITOUTH TESTIFYING that the previous parliament recognised that the standing orders did not transfer. AS PROOF I submit, NOT TESTIMONY, but the fact that they did not repeal the old ones, which would have been required if they did transfer.
+
+4) The standing orders are not law as they are not signed by the queen, the standing orders only exist in reference to their enforcement by the speaker, the court should give due deference to parliament to enforce and interpret their own rules.
+
+5) The nature of standing orders is that members should be notified and aware that this is how it's done if no other order has been given. The speaker is well within their rights to stray from the standing orders as they see fit. Parliament has it's own mechanism for holding the speaker accountable.
+
+6) If the court appropriates the authority to itself over the standing orders, it shall also appropriate authority to enforce 'general ethical principles'. This would be an absurd reading of the act, not at all in line with legislative intent, and constitute a breach of the separations of power.
+
+7) Lack of Standing. The court has denied the motion to dismiss on the grounds that it wasn't clear whether there was standing, but I would re-iterate the following points and ask the court to rule on them directly, so it is clear whether or not there is standing in this case
+
+a) The plaintiff could not have possibly suffered damages by a bill that has not even been signed yet.
+
+b) The plaintiff lacks direct and specific interest in the enforcement of the standing orders.
+
+c) There exists no legal obligation to the plaintiff in the enforcement of the standing orders
+
+I hope your honour considers these arguments in full and comes to the right decision.
+
+### Feb 12, 2025
+Author: Westray
+Date: 2025-02-12T09:07:51-0500
+Page: 2
+Post Link: https://cityrp.org/threads/crumplesnatch-v-azalea-isles-2025-cv-02.153/post-626
+Type: Unclassified
+
+MilkCrack said:
+FINAL MOTION TO RECONSIDER
+Your honour,
+
+It's not a secret I disagree fundamentally, with these proceedings. I have clearly outlined my arguments in my answer to the complaint, and motion to dismiss and your Honour has ignored them.
+
+Instead, your honour has chosen to strike them for 'Hearsay' without giving us any opportunity to defend our case.
+
+We motion to reconsider, but you found our explanation 'lacking' so here is a full write-up of why the defence motions and objections are completely ridiculous and the court has committed a grave error in upholding them.
+
+Well, what is the definition of hearsay?
+
+Hearsay, as by the court's own rules is defined as: A statement, other than one made by the declarant (the person who originally said the statement) while testifying at the trial or hearing, offered in evidence to prove the truth of the matter asserted.
+
+So let me dissect the definition for your honour.
+So a statement must be:
+(a) testimony (about a third party)
+(b) during trial or a hearing.
+(c) offered in evidence to prove an assertion.
+
+So first asserting a lack of legislative intent is not testimony, It's an assertion. You don't strike down a lawyer's comment for asserting their client did not have a motive. Is that testimony? No of course not it's an assertion and it's a defence.
+
+Furthermore, if it was testimony who would be responsible for speaking for parliament?
+
+Well the person summoned to represent parliament, might be able to do so. Perhaps the speaker of the house and prime minister might be able to speak as to whether or not parliament did or did not intend to do something.
+
+But no this court does not recognise the authority of the SPEAKER to SPEAK for parliament.
+
+Moving on my assertion was not made during a trial or at a hearing it was part of my answer to the complaint. Therefore it cannot possibly be hearsay. As that is a fundamental requirement for the objection.
+
+And how can my statement be offered in evidence to prove an assertion? When there was no assertion according to your honour?
+
+If your honour is refusing us to make any assertio without doing a full non-expedited trial it should have been made clear to us at the beginning.
+
+on a final note,
+
+The court has granted objections and motions to strike our complaint after the trial has already started. This is simply not done.
+Hearsay quite simply doesn't apply to the answer to the complaint.
+
+And the trial is an opportunity to prove your points made in the answer to the complaint. Your honour has changed our answer to the complaint during the trial and is now complaining that we thought we assumed we had time to come up with a new strategy.
+
+Your honour has just taken away our rights to prove our points by striking our points before we even had an opportunity to make them. Last time I checked this court was using the adversarial system, where both parties make their case and after that the judge decides.
+
+I would like to remind your honour of all the plethora of times when deadlines were moved because a party interjected with objections or motions.
+
+When a defendant gets summoned and files a motion to dismiss instead of an answer to a complaint they are not held in contempt. This is the first time, the court has ever ruled that an objection or motion does not impact that deadline.
+
+And to punish the defences council with a criminal charge right off the bat is absurd. No notice has been given that this precedent has been changed. Zero.
+I have thoroughly reviewed your objections regarding the contempt charge. The charge for failure to respond within the prescribed deadline was issued in accordance with the established rules of procedure. Your repeated disregard for procedural orders and statements undermining the decorum of this courtroom will not be tolerated during this trial.
+
+Your claim that the Speaker of the House may speak on behalf of Parliament, while noted, does raise a valid point. The Speaker, as the presiding officer of Parliament, does indeed represent Parliament in many matters, and in certain contexts, may be seen as the official voice of Parliament, especially in terms of legislative intent. This is a fair argument to make, as the Speaker holds significant authority in such matters. However, in the context of this trial, the Court must still adhere to the rules of evidence. While the Speaker may represent Parliament in a legislative context, the statement in question must still meet the admissibility standards established by this Court. Therefore, the objections initially raised by the Plaintiff are upheld.
+
+Regarding the expedited nature of the trial, the Court reiterates that both parties initially agreed to proceed in this manner. A trial's schedule is a matter of mutual agreement, and the Court will not entertain requests to change the format without compelling legal justification. The Defendant’s objections in this regard are noted, but no substantial argument has been presented to justify reverting to a non-expedited trial.
+
+I acknowledge your assertion that you have not been given a full opportunity to defend your case. However, it is critical to recognize that the adversarial system allows for arguments to be made within the rules and procedures of the Court. You will have an opportunity to present your case in full during the opening statement. Any objections to the admissibility of evidence or the fairness of proceedings will be considered at that time.
+
+### Feb 13, 2025
+Author: Westray
+Date: 2025-02-13T19:57:11-0500
+Page: 2
+Post Link: https://cityrp.org/threads/crumplesnatch-v-azalea-isles-2025-cv-02.153/post-641
+Type: Unclassified
+
+Court Verdict
+Azalea Isles Civil Court (CV)
+
+Case No. CV-25-02
+Jebediah Crumplesnatch (Fergie_Foo) v. the Government of Azalea Isles
+
+Position of the Plaintiff
+1. The Plaintiff, Jebediah Crumplesnatch, alleges that the Defendant unlawfully passed the Speakership Amendment Act through a tie-breaking vote that directly contravenes the standing orders of the chamber.
+2. The Plaintiff explains that the Standing Orders for the Third Parliament clearly outline that the Speaker, and that, in the event of a tie, the Speaker must "always vote for continuity." It is contended by the Plaintiff that the Speaker Amendment Act fundamentally changes the role of the Speaker in a way that is beyond the status-quo, and is thus against this definition of "continuity"
+3. The Plaintiff argues that the Third Parliament's standing orders were established as a clear procedural guide, which remain valid as they have not yet been replaced. The Plaintiff points out that, while previous legislation mandated that new standing orders be voted upon the election of a new Speaker, the current legislation does not outline this and is particularly vague.
+4. The Plaintiff claims that precedent established in Crumplesnatch v. Bezzer established precedent affirming the duty of the Court to throw out votes that are unlawfully cast in Parliament.
+
+Position of the Defendant
+1. The Defendant, the Government of Azalea Isles, argues that Parliament holds the sovereign right to define its own procedures and that standing orders from the previous Parliament are not automatically binding unless explicitly reaffirmed. The Speaker’s actions are therefore within the realm of their authority, as the Speaker is empowered to operate within the parameters set by the current session of Parliament.
+2. The Defendant explains that the title of the bill of the standing orders, indicating "for the Third Parliament" shows that such orders are only to be applicable to the third term of Parliament, and not the current one. It is argued that the title is connected to the document itself, indicating this conclusion.
+3. The Defendant contends that standing orders are not considered binding law as they are not signed by the Crown accordingly, but rather they are orders to be carried out by the interpretation of the Speaker instead.
+4. The Defendant also argues that the Plaintiff has not shown any substantial harm resulting from the Speaker's vote, as there is no evidence that the outcome of the vote was affected in a way that negatively impacted the Plaintiff or the democratic process. As a result, it is asserted that the case lacks merit on the grounds of harm.
+
+Court Opinion
+1. The Court acknowledges the concern regarding the failure to reaffirm the standing orders from the previous Parliament. While the Court recognizes the sovereign right of the Parliament to set its own procedures, it also acknowledges the importance of maintaining procedural continuity to ensure fairness and stability in the legislative process. As such, the Court finds that the failure to reaffirm the standing orders could lead to the appearance of procedural irregularities.
+2. While the Court believes that the Speaker may have acted within their discretionary rights, it recognizes the critical importance of maintaining public confidence in the integrity of parliamentary procedures, as it outlined within Parliamentary Procedure Act and the Constitution. The Court finds that, given the lack of reaffirmed standing orders, the Speaker's vote could be seen as improper, as it falls into a legal gray area that undermines the lawfully expected duties of the Speaker.
+3. The Court concludes that the lack of reaffirmed standing orders has introduced a procedural ambiguity that could set a concerning precedent for future sessions of Parliament. To avoid such uncertainty in the future, the Court will be ordering that the Parliament formally reaffirm the standing orders or, if necessary, establish new, clear rules that govern voting procedures for the Speaker.
+4. Due to this procedural ambiguity, the Court finds that the Speaker's tie-breaking vote on the Speakership Amendment Act is to be removed from the total count. While the Speaker’s vote was not strictly unlawful, it was improper in the context of a lack of reaffirmed standing orders, which the Speaker has a lawful duty to enforce. As a result, the decision reached by the Speaker is to be considered void, and the matter shall be revisited with proper adherence to reaffirmed or newly established parliamentary rules. Once rules within the Parliament are clarified, the Speaker is welcome to cast a tie-breaking vote on the same bill.
+
+Decision
+The Azalea Isles Civil Court hereby rules in favour of the Plaintiff, granting a limited prayer for relief, including a removal of the tie-breaking vote until procedure is clarified, but not a striking of the bill itself. The bill remains a tie until a legislative resolution is come to, and the Speaker casts a new tie-breaking vote accordingly. This trial is hereby adjourned, and the Court thanks both parties for their time.
+
+Signed,
+Hon. Justice Raymond West
+
+
+## Outcome
+Pending.
+
+## Precedential Value
+Pending.
+
+## Lawyer Notes
+Pending.

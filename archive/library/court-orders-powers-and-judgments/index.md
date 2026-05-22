@@ -1,0 +1,43 @@
+# Court Orders, Powers, and Judgments
+
+Type: Court Library Page
+Page Link: https://cityrp.org/pages/court-orders-powers-and-judgements/
+
+## Source Metadata
+- Scraped at: 2026-05-20T21:48:11.538Z
+
+## Full Text
+
+Court orders play a vital role in the administration of justice, serving as authoritative directives issued by courts to regulate legal proceedings, enforce rights, and provide remedies for legal disputes. These orders are formal rulings issued by the justices or judges, commanding parties to take specific actions or refrain from certain conduct in accordance with the law. From restraining orders safeguarding against imminent harm to search warrants facilitating law enforcement investigations, court orders serve diverse functions within the judicial system. Understanding the nature and implications of court orders is essential for navigating legal proceedings and requesting justice for yourself.
+
+Here are the list of orders that a Court can grant, listed by type of order:
+
+Case Related Orders: Orders Used to Administrate a Court Case.
+
+Court Summons: An order directed at a defendant, co-defendant, or third-party, commanding them to appear and defend against the claims asserted in the plaintiff's complaint. Subpoena: A court order requiring an individual to appear in court to testify as a witness or to produce documents or other evidence. It's used to compel testimony or obtain evidence relevant to a legal proceeding.Asset Freeze Order: A court order prohibiting the transfer or disposal of assets belonging to a party involved in a legal dispute. It's often used to prevent the dissipation of assets pending the resolution of a case.
+Asset Preservation Order: A court order prohibiting a party from dissipating, transferring, or disposing of assets pending the resolution of a legal dispute. Asset preservation orders are used to prevent the waste or depletion of assets that may be subject to a judgment or settlement.
+Civil Contempt Order: Also known as “Contempt of Court”, is a court order imposing sanctions or penalties on a party who fails to comply with a previous court order. Civil contempt orders are intended to compel compliance with the original order and may include fines, imprisonment, or other corrective measures.
+Temporary Injunction: Like a regular injunction, but temporary in nature, a temporary injunction is issued to maintain the status quo while a legal dispute is ongoing. It prevents parties from taking certain actions until the court can make a final decision on the matter.
+Sua Sponte Dismissal: Is a dismissal of a case on the court’s own motion, which is usually given without notice to the parties.
+
+Law Enforcement Orders: Orders Applicable for Law Enforcement.
+
+Search Warrant: A court order authorizing law enforcement to search a specific location for evidence related to a crime. It requires probable cause and specifies the scope and limitations of the search.
+Arrest Warrant: A court order authorizing law enforcement to arrest and detain an individual. It is issued when an individual has been found guilty of committing an offense.
+Seizure Order: A court order authorizing law enforcement to seize and take possession of certain property or assets.
+
+Judgments and Verdicts:
+
+Dismissal of Case: A court order, either requested by motion or by sua sponte, that ends the court case.
+Default Judgment: Upon motion requesting for default judgment due to the defendant's failure to respond or appear to the summons for the case, the Court enters a default judgment in favor of the plaintiff, awarding the relief sought in the complaint.
+Default Judgments can be vacated if the defendant can respond to the case within 14 days after a Default Judgment has been given.
+Permanent Injunction: A court order prohibiting a party from engaging in certain actions on a permanent basis. Permanent injunctions are issued after a full hearing on the merits of the case and are intended to prevent future harm or violations of rights.
+Declaratory Judgment: A court order declaring the rights, duties, or legal relationships of the parties involved in a legal dispute. Declaratory judgments are sought when there is uncertainty or disagreement about the interpretation or application of the law.
+Writ of Mandamus: A court order compelling a government official or entity to perform, or not perform, a specific duty required by law.
+Writ of Execution: A court order authorizing the enforcement of a judgment or decree by seizing and selling the property of the judgment debtor to satisfy the judgment debt.
+
+Review Powers:
+
+Writ of Certiorari: A court order issued by a higher court, directing a lower court to send up the record of a case for review. Writs of certiorari are used to determine whether the lower court's decision should be upheld, reversed, or remanded.
+Writ of Habeas Corpus: A court order requiring a person detained by the government to be brought before a judge or court to determine the legality of the detention.
+Quo Warranto: A court order asking a person; entity; or government agency, or persons affiliated with or in charge of an agency; to show authority for the power or office that they have.
