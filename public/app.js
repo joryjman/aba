@@ -761,6 +761,7 @@ function render() {
 
 function renderStats() {
   const stats = state.index.stats;
+  els.builtAt.textContent = `Built ${new Date(stats.builtAt).toLocaleString()}`;
   els.stats.innerHTML = [
     ["Laws", stats.laws],
     ["Cases", stats.cases],
